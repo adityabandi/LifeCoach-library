@@ -1,11 +1,5 @@
 import '../styles/globals.css'
-import { Inter } from 'next/font/google'
 import { Metadata } from 'next'
-
-const inter = Inter({ 
-  subsets: ['latin'],
-  display: 'swap',
-})
 
 export const metadata: Metadata = {
   title: {
@@ -20,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://lifecoachlibrary.com',
+    url: 'https://adityabandi.github.io/LifeCoach-library/',
     siteName: 'Life Coach Library',
     title: 'Life Coach Library - Free Templates & Resources for Coaches',
     description: 'Free coaching templates, business guides, and proven methods for life coaches. Download intake forms, session plans, and grow your coaching practice.',
@@ -53,10 +47,13 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={inter.className}>
+    <html lang="en" className="font-sans">
       <head>
         <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href="https://lifecoachlibrary.com" />
+        <link rel="canonical" href="https://adityabandi.github.io/LifeCoach-library/" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet" />
       </head>
       <body>
         {children}

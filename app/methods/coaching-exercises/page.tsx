@@ -5,7 +5,7 @@ export const metadata = generateSEO({
   title: 'Essential Life‑Coaching Exercises to Support Client Growth',
   description: 'Explore powerful life‑coaching exercises—Wheel of Life, values identification, weekly goal setting, ideal day visualization and future self journaling—that enhance client self‑awareness and drive progress.',
   keywords: ['coaching exercises', 'wheel of life', 'values identification', 'coaching tools', 'client growth exercises'],
-  canonicalUrl: 'https://lifecoachlibrary.com/methods/coaching-exercises',
+  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/methods/coaching-exercises',
 })
 
 export default function CoachingExercisesPage() {

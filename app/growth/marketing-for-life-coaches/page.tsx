@@ -5,7 +5,7 @@ export const metadata = generateSEO({
   title: 'Marketing Your Life‑Coaching Business and Attracting Clients',
   description: 'Discover evidence‑based marketing strategies for 2025, including building a genuine brand, offering free sessions, using online tools and networking, to grow your life‑coaching practice.',
   keywords: ['life coach marketing', 'coaching business growth', 'attract coaching clients', 'coaching brand building', 'life coaching promotion'],
-  canonicalUrl: 'https://lifecoachlibrary.com/growth/marketing-for-life-coaches',
+  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/growth/marketing-for-life-coaches',
 })
 
 export default function MarketingForLifeCoachesPage() {

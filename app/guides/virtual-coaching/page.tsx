@@ -5,7 +5,7 @@ export const metadata = generateSEO({
   title: 'Harnessing the Power of Virtual Coaching: Benefits and Tools',
   description: 'Virtual life coaching offers flexibility, lower overhead, and global reach. Learn why online sessions are a game‑changer and what tools you need to succeed.',
   keywords: ['virtual coaching', 'online life coaching', 'remote coaching tools', 'virtual coaching benefits', 'online coaching platforms'],
-  canonicalUrl: 'https://lifecoachlibrary.com/guides/virtual-coaching',
+  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/guides/virtual-coaching',
 })
 
 export default function VirtualCoachingPage() {

@@ -5,7 +5,7 @@ export const metadata = generateSEO({
   title: 'Tracking Client Progress and Accountability in Life Coaching',
   description: 'Learn ten evidence‑based strategies for measuring client progress and maintaining accountability, from setting SMART goals to conducting regular assessments and documenting session summaries.',
   keywords: ['client progress tracking', 'coaching accountability', 'SMART goals', 'coaching metrics', 'client assessment'],
-  canonicalUrl: 'https://lifecoachlibrary.com/workflows/progress-tracking',
+  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/workflows/progress-tracking',
 })
 
 export default function ProgressTrackingPage() {

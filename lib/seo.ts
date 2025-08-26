@@ -17,7 +17,7 @@ export function generateSEO({
   ogImage,
   noindex = false,
 }: SEOProps): Metadata {
-  const siteUrl = 'https://lifecoachlibrary.com'
+  const siteUrl = 'https://adityabandi.github.io/LifeCoach-library'
   const fullTitle = `${title} | Life Coach Library`
   
   return {
@@ -70,7 +70,7 @@ export function generateArticleSchema(article: {
       name: 'Life Coach Library',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://lifecoachlibrary.com/logo.png',
+        url: 'https://adityabandi.github.io/LifeCoach-library/logo.png',
       },
     },
     mainEntityOfPage: {

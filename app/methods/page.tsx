@@ -5,7 +5,7 @@ export const metadata = generateSEO({
   title: 'Coaching Methods & Techniques - Session Planning, Models & Exercises',
   description: 'Proven coaching methods including session structures, coaching models, exercise templates, and comprehensive planning frameworks.',
   keywords: ['coaching methods', 'coaching techniques', 'session planning', 'coaching models', 'coaching exercises'],
-  canonicalUrl: 'https://lifecoachlibrary.com/methods',
+  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/methods',
 })
 
 export default function MethodsPage() {
