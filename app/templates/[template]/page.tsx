@@ -125,16 +125,7 @@ export default function TemplatePage({ params }: Props) {
                 content={template.content}
                 className="bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors flex items-center justify-center"
               />
-              <Link
-                href={`data:text/plain;charset=utf-8,${encodeURIComponent(template.content)}`}
-                download={`${template.slug}.txt`}
-                className="bg-white text-primary-600 px-6 py-3 rounded-lg font-semibold border border-primary-600 hover:bg-primary-50 transition-colors flex items-center justify-center"
-              >
-                <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                </svg>
-                Download as File
-              </Link>
+              {/* Removed file download option to keep templates view-only */}
             </div>
           </div>
 
