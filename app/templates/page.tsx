@@ -153,21 +153,23 @@ export default function TemplatesPage() {
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Goal Setting Session</span>
-                  <button 
+                  <Link
+                    href="/templates/goal-setting-session"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Goal Setting Session"
+                    aria-label="View Goal Setting Session"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Progress Review Template</span>
-                  <button 
+                  <Link
+                    href="/templates/progress-review-template"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Progress Review Template"
+                    aria-label="View Progress Review Template"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
               </div>
             </div>
@@ -188,12 +190,13 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Goal Progress Tracker</span>
-                  <button 
+                  <Link
+                    href="/templates/goal-progress-tracker"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Goal Progress Tracker"
+                    aria-label="View Goal Progress Tracker"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Habit Formation Tracker</span>
@@ -241,12 +244,13 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Coaching Agreement Template</span>
-                  <button 
+                  <Link
+                    href="/templates/coaching-agreement-template"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Coaching Agreement Template"
+                    aria-label="View Coaching Agreement Template"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Service Proposal Template</span>
@@ -347,12 +351,13 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Wheel of Life Assessment</span>
-                  <button 
+                  <Link
+                    href="/templates/wheel-of-life-assessment"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Wheel of Life Assessment"
+                    aria-label="View Wheel of Life Assessment"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Values Clarification Exercise</span>
