@@ -76,19 +76,39 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">General Life Coaching Intake</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download General Life Coaching Intake form"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Executive Coaching Intake</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Executive Coaching Intake form"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Career Transition Intake</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Career Transition Intake form"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Wellness Coaching Intake</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Wellness Coaching Intake form"
+                  >
+                    Download
+                  </button>
                 </div>
               </div>
             </div>
@@ -109,19 +129,39 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">First Session Script</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download First Session Script"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">GROW Model Template</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download GROW Model Template"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Goal Setting Session</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Goal Setting Session"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Progress Review Template</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Progress Review Template"
+                  >
+                    Download
+                  </button>
                 </div>
               </div>
             </div>
@@ -142,19 +182,39 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Goal Progress Tracker</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Goal Progress Tracker"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Habit Formation Tracker</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Habit Formation Tracker"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Session Notes Template</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Session Notes Template"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Client Journey Map</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Client Journey Map"
+                  >
+                    Download
+                  </button>
                 </div>
               </div>
             </div>
@@ -175,19 +235,39 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Coaching Agreement Template</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Coaching Agreement Template"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Service Proposal Template</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Service Proposal Template"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Pricing Calculator</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Pricing Calculator"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Client Feedback Survey</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Client Feedback Survey"
+                  >
+                    Download
+                  </button>
                 </div>
               </div>
             </div>
@@ -208,19 +288,39 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Email Sequence Templates</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Email Sequence Templates"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Social Media Content Pack</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Social Media Content Pack"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Webinar Presentation Deck</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Webinar Presentation Deck"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Lead Magnet Templates</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Lead Magnet Templates"
+                  >
+                    Download
+                  </button>
                 </div>
               </div>
             </div>
@@ -241,15 +341,30 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Wheel of Life Assessment</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Wheel of Life Assessment"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Values Clarification Exercise</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Values Clarification Exercise"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Readiness for Change Scale</span>
-                  <button className="text-primary-600 text-sm font-medium hover:text-primary-700">Download</button>
+                  <button 
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    aria-label="Download Readiness for Change Scale"
+                  >
+                    Download
+                  </button>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">
@@ -297,36 +412,36 @@ export default function TemplatesPage() {
 
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid md:grid-cols-4 gap-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-lg font-semibold mb-4">Life Coach Library</h3>
-              <p className="text-gray-400">
+              <h3 class="text-lg font-semibold mb-4">Life Coach Library</h3>
+              <p class="text-gray-400">
                 Free resources and templates for professional life coaches.
               </p>
             </div>
             <div>
-              <h4 className="font-semibold mb-4">Resources</h4>
-              <ul className="space-y-2">
-                <li><Link href="/guides" className="text-gray-400 hover:text-white">Business Guides</Link></li>
-                <li><Link href="/templates" className="text-gray-400 hover:text-white">Templates</Link></li>
-                <li><Link href="/methods" className="text-gray-400 hover:text-white">Coaching Methods</Link></li>
+              <h4 class="font-semibold mb-4">Resources</h4>
+              <ul class="space-y-2">
+                <li><Link href="/guides" class="text-gray-400 hover:text-white">Business Guides</Link></li>
+                <li><Link href="/templates" class="text-gray-400 hover:text-white">Templates</Link></li>
+                <li><Link href="/methods" class="text-gray-400 hover:text-white">Coaching Methods</Link></li>
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold mb-4">Growth</h4>
-              <ul className="space-y-2">
-                <li><Link href="/growth" className="text-gray-400 hover:text-white">Marketing</Link></li>
-                <li><Link href="/workflows" className="text-gray-400 hover:text-white">Workflows</Link></li>
+              <h4 class="font-semibold mb-4">Growth</h4>
+              <ul class="space-y-2">
+                <li><Link href="/growth" class="text-gray-400 hover:text-white">Marketing</Link></li>
+                <li><Link href="/workflows" class="text-gray-400 hover:text-white">Workflows</Link></li>
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold mb-4">Tools</h4>
-              <ul className="space-y-2">
+              <h4 class="font-semibold mb-4">Tools</h4>
+              <ul class="space-y-2">
                 <li>
                   <a 
                     href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library" 
-                    className="text-gray-400 hover:text-white"
+                    class="text-gray-400 hover:text-white"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -336,7 +451,7 @@ export default function TemplatesPage() {
               </ul>
             </div>
           </div>
-          <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
+          <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
             <p>&copy; 2025 Life Coach Library. All rights reserved.</p>
           </div>
         </div>

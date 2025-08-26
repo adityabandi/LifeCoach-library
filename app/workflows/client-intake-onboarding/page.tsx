@@ -43,12 +43,24 @@ export default function ClientIntakeOnboardingPage() {
 
       {/* Breadcrumbs */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-        <nav className="text-sm text-gray-500">
-          <Link href="/" className="hover:text-gray-700">Home</Link>
-          <span className="mx-2">›</span>
-          <Link href="/workflows" className="hover:text-gray-700">Workflows</Link>
-          <span className="mx-2">›</span>
-          <span>Client Intake & Onboarding</span>
+        <nav aria-label="Breadcrumb" className="text-sm text-gray-500">
+          <ol className="flex items-center space-x-2">
+            <li>
+              <Link href="/" className="hover:text-gray-700">Home</Link>
+            </li>
+            <li>
+              <span className="mx-2" aria-hidden="true">›</span>
+            </li>
+            <li>
+              <Link href="/workflows" className="hover:text-gray-700">Workflows</Link>
+            </li>
+            <li>
+              <span className="mx-2" aria-hidden="true">›</span>
+            </li>
+            <li aria-current="page" className="text-gray-900 font-medium">
+              Client Intake & Onboarding
+            </li>
+          </ol>
         </nav>
       </div>
 

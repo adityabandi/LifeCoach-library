@@ -43,12 +43,28 @@ export default function CoachingSessionStructurePage() {
 
       {/* Breadcrumbs */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-        <nav className="text-sm text-gray-500">
-          <Link href="/" className="hover:text-gray-700">Home</Link>
-          <span className="mx-2">›</span>
-          <Link href="/methods" className="hover:text-gray-700">Methods</Link>
-          <span className="mx-2">›</span>
-          <span>Coaching Session Structure</span>
+        <nav aria-label="Breadcrumb" className="text-sm text-gray-500">
+          <ol className="flex items-center space-x-2">
+            <li>
+              <Link href="/" className="hover:text-gray-700" aria-label="Navigate to home page">
+                Home
+              </Link>
+            </li>
+            <li>
+              <span className="mx-2" aria-hidden="true">›</span>
+            </li>
+            <li>
+              <Link href="/methods" className="hover:text-gray-700" aria-label="Navigate to methods section">
+                Methods
+              </Link>
+            </li>
+            <li>
+              <span className="mx-2" aria-hidden="true">›</span>
+            </li>
+            <li aria-current="page">
+              <span className="text-gray-900 font-medium">Coaching Session Structure</span>
+            </li>
+          </ol>
         </nav>
       </div>
 

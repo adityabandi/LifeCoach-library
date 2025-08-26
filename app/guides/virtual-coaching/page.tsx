@@ -43,12 +43,24 @@ export default function VirtualCoachingPage() {
 
       {/* Breadcrumbs */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-        <nav className="text-sm text-gray-500">
-          <Link href="/" className="hover:text-gray-700">Home</Link>
-          <span className="mx-2">›</span>
-          <Link href="/guides" className="hover:text-gray-700">Guides</Link>
-          <span className="mx-2">›</span>
-          <span>Virtual Coaching</span>
+        <nav aria-label="Breadcrumb" className="text-sm text-gray-500">
+          <ol className="flex items-center space-x-2">
+            <li>
+              <Link href="/" className="text-blue-600 hover:text-blue-800 hover:underline">
+                Home
+              </Link>
+            </li>
+            <li aria-hidden="true" className="text-gray-400">/</li>
+            <li>
+              <Link href="/guides" className="text-blue-600 hover:text-blue-800 hover:underline">
+                Guides
+              </Link>
+            </li>
+            <li aria-hidden="true" className="text-gray-400">/</li>
+            <li aria-current="page" className="text-gray-900 font-medium">
+              Virtual Coaching
+            </li>
+          </ol>
         </nav>
       </div>
 
