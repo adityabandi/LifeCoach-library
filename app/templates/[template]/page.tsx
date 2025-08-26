@@ -15,10 +15,23 @@ export async function generateMetadata({ params }: Props) {
     return {}
   }
 
+  // Enhanced keywords based on template category
+  const baseKeywords = [template.title.toLowerCase(), 'coaching template', 'free download']
+  const categoryKeywords = {
+    'intake-forms': ['client intake', 'coaching forms', 'personality assessment'],
+    'session-plans': ['coaching session', 'session structure', 'coaching framework'],
+    'progress-trackers': ['goal tracking', 'progress monitoring', 'coaching metrics'],
+    'business-forms': ['coaching business', 'coaching agreements', 'professional forms'],
+    'assessment-tools': ['coaching assessment', 'personality test', 'client evaluation', 'strengths assessment'],
+    'marketing-tools': ['coaching marketing', 'client acquisition', 'coaching promotion']
+  }
+
+  const enhancedKeywords = [...baseKeywords, ...(categoryKeywords[template.category] || [])]
+
   return generateSEO({
     title: `${template.title} - Free Coaching Template`,
     description: template.description,
-    keywords: [template.title.toLowerCase(), 'coaching template', 'free download'],
+    keywords: enhancedKeywords,
     canonicalUrl: `https://adityabandi.github.io/LifeCoach-library/templates/${params.template}`,
   })
 }
@@ -131,6 +144,29 @@ export default function TemplatePage({ params }: Props) {
               {template.content}
             </div>
           </div>
+
+          {/* Contextual Enhancement for Assessment-Related Templates */}
+          {(template.category === 'intake-forms' || template.category === 'assessment-tools') && (
+            <div className="mt-6 bg-blue-50 border border-blue-200 rounded-lg p-6">
+              <h3 className="text-lg font-semibold text-blue-900 mb-3">
+                💡 Enhance This Template with Personality Insights
+              </h3>
+              <p className="text-blue-800 mb-4">
+                Take your {template.category === 'intake-forms' ? 'client intake process' : 'assessment toolkit'} to the next level with professional personality assessments. Understanding personality types, communication styles, and motivational drivers creates more personalized and effective coaching relationships.
+              </p>
+              <a
+                href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=template_enhancement"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center text-blue-700 hover:text-blue-800 font-medium"
+              >
+                Explore Professional Personality Assessments
+                <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-2M7 7h.01M7 3h5l2 2v5" />
+                </svg>
+              </a>
+            </div>
+          )}
 
           <div className="mt-8 text-center">
             <Link

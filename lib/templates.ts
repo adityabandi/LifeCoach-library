@@ -129,13 +129,24 @@ _________________________________________
 
 ADDITIONAL INFORMATION
 =====================
-20. Is there anything else you'd like me to know about you or your situation?
+20. Have you completed any personality or strengths assessments before?
+☐ Yes ☐ No
+If yes, what insights did you gain?
+_________________________________________
+
+If you're interested in gaining deeper personality insights to enhance our coaching sessions, consider taking a professional assessment at: https://www.personality-quizzes.com/for-coaching
+
+21. Is there anything else you'd like me to know about you or your situation?
 _________________________________________
 _________________________________________
 
 21. What questions do you have about the coaching process?
 _________________________________________
 _________________________________________
+
+22. Are you interested in completing a personality or strengths assessment to enhance our coaching work together?
+☐ Yes ☐ No ☐ Maybe
+(Professional assessments available at: https://www.personality-quizzes.com/for-coaching)
 
 CONSENT AND AGREEMENTS
 =====================
@@ -219,7 +230,27 @@ _________________________________________
 _________________________________________
 _________________________________________
 
-This intake continues for several more sections covering feedback, stakeholder considerations, executive challenges, coaching logistics, organizational support, and consent forms.`
+This intake continues for several more sections covering feedback, stakeholder considerations, executive challenges, coaching logistics, organizational support, and consent forms.
+
+LEADERSHIP STYLE AND PERSONALITY
+===============================
+Understanding your leadership style and personality preferences can significantly enhance our coaching effectiveness.
+
+Previous Assessment Experience:
+Have you completed any leadership or personality assessments (DISC, Myers-Briggs, StrengthsFinder, etc.)?
+☐ Yes ☐ No
+
+If yes, what were the key insights?
+_________________________________________
+_________________________________________
+
+Personality Assessment Option:
+Would you be interested in completing a comprehensive personality and leadership assessment to deepen our coaching work?
+☐ Yes ☐ No ☐ Maybe later
+
+Professional assessments available at: https://www.personality-quizzes.com/for-coaching
+
+This assessment data helps create more targeted and effective leadership development strategies tailored to your unique style and preferences.`
   },
 
   {
@@ -1705,6 +1736,18 @@ Your Wheel of Life assessment is a snapshot of where you are today. Use these in
 
 Remember: There's no "perfect" wheel. The goal is awareness, intentional choices, and progress toward what matters most to you.
 
-Reassess every 3-6 months to track your growth and adjust your focus as your life evolves.`
+Reassess every 3-6 months to track your growth and adjust your focus as your life evolves.
+
+ADDITIONAL DEVELOPMENT RESOURCES
+===============================
+To gain even deeper insights into your personality, motivations, and natural strengths that can accelerate your progress in all life areas, consider taking a professional personality assessment.
+
+Professional assessments available at: https://www.personality-quizzes.com/for-coaching
+
+Understanding your personality type can help you:
+• Set goals that align with your natural motivations
+• Choose strategies that work with your personality rather than against it  
+• Understand your relationship patterns and communication style
+• Identify your core strengths and how to leverage them across all life areas`
   }
 ]
