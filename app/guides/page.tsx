@@ -5,7 +5,7 @@ export const metadata = generateSEO({
   title: 'Life Coaching Guides - Business Setup, Virtual Coaching & Industry Trends',
   description: 'Comprehensive guides for life coaches covering business setup, virtual coaching best practices, and industry trends for 2025.',
   keywords: ['life coaching guides', 'coaching business', 'virtual coaching', 'industry trends'],
-  canonicalUrl: 'https://lifecoachlibrary.com/guides',
+  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/guides',
 })
 
 export default function GuidesPage() {

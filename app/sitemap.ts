@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://lifecoachlibrary.com'
+  const baseUrl = 'https://adityabandi.github.io/LifeCoach-library'
   
   // Static pages
   const staticPages = [

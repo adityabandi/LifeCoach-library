@@ -5,7 +5,7 @@ export const metadata = generateSEO({
   title: 'The Booming Life‑Coaching Industry: Trends and Certifications for 2025',
   description: 'Explore statistics on the rapid growth of the life‑coaching industry, learn why certification matters, and discover how virtual sessions are transforming coaching in 2025.',
   keywords: ['life coaching industry', 'coaching trends 2025', 'coaching certification', 'virtual coaching', 'coaching market growth'],
-  canonicalUrl: 'https://lifecoachlibrary.com/guides/industry-trends-2025',
+  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/guides/industry-trends-2025',
 })
 
 export default function IndustryTrends2025Page() {

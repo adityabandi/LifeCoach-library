@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/search', '/tag/*', '/thank-you', '/api/*'],
     },
-    sitemap: 'https://lifecoachlibrary.com/sitemap.xml',
+    sitemap: 'https://adityabandi.github.io/LifeCoach-library/sitemap.xml',
   }
 }

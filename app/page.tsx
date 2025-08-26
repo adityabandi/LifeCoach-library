@@ -5,7 +5,7 @@ export const metadata = generateSEO({
   title: 'Free Coaching Templates & Business Resources for Life Coaches',
   description: 'Download free coaching templates, intake forms, session plans, and business guides. Proven methods and tools to grow your life coaching practice.',
   keywords: ['coaching templates', 'life coach resources', 'coaching business', 'intake forms', 'coaching methods'],
-  canonicalUrl: 'https://lifecoachlibrary.com',
+  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library',
 })
 
 export default function HomePage() {

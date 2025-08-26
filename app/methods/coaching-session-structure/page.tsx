@@ -5,7 +5,7 @@ export const metadata = generateSEO({
   title: 'Structuring Powerful Life‑Coaching Sessions: A 6‑Step Template',
   description: 'Learn how to plan and execute effective life‑coaching sessions using a six‑step framework that builds rapport, fosters accountability, and drives client progress.',
   keywords: ['coaching session structure', 'coaching framework', 'session planning', 'coaching template', 'effective coaching sessions'],
-  canonicalUrl: 'https://lifecoachlibrary.com/methods/coaching-session-structure',
+  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/methods/coaching-session-structure',
 })
 
 export default function CoachingSessionStructurePage() {

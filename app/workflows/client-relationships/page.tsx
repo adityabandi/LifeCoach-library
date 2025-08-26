@@ -5,7 +5,7 @@ export const metadata = generateSEO({
   title: 'Building Long‑Term Client Relationships and Providing Ongoing Support',
   description: 'Effective coaching extends beyond individual sessions. Learn how to follow up, provide resources, and encourage reflection to nurture long‑term client success.',
   keywords: ['client relationships', 'coaching follow-up', 'long-term coaching', 'client retention', 'ongoing support'],
-  canonicalUrl: 'https://lifecoachlibrary.com/workflows/client-relationships',
+  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/workflows/client-relationships',
 })
 
 export default function ClientRelationshipsPage() {

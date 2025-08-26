@@ -5,7 +5,7 @@ export const metadata = generateSEO({
   title: 'How to Set Up Your Life Coaching Business in 2025',
   description: 'Learn how to start and structure a life‑coaching business in 2025. Discover how to choose a niche, create a business plan, decide whether to seek certification, and build an online presence that attracts clients.',
   keywords: ['start life coaching business', 'life coach certification', 'coaching business plan', 'life coaching practice', 'coaching niche'],
-  canonicalUrl: 'https://lifecoachlibrary.com/guides/start-life-coaching-business',
+  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/guides/start-life-coaching-business',
 })
 
 export default function StartLifeCoachingBusinessPage() {
