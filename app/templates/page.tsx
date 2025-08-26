@@ -76,39 +76,43 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">General Life Coaching Intake</span>
-                  <button 
+                  <Link
+                    href="/templates/general-life-coaching-intake"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download General Life Coaching Intake form"
+                    aria-label="View General Life Coaching Intake form"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Executive Coaching Intake</span>
-                  <button 
+                  <Link
+                    href="/templates/executive-coaching-intake"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Executive Coaching Intake form"
+                    aria-label="View Executive Coaching Intake form"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Career Transition Intake</span>
-                  <button 
+                  <Link
+                    href="/templates/career-transition-intake"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Career Transition Intake form"
+                    aria-label="View Career Transition Intake form"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Wellness Coaching Intake</span>
-                  <button 
+                  <Link
+                    href="/templates/wellness-coaching-intake"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Wellness Coaching Intake form"
+                    aria-label="View Wellness Coaching Intake form"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
               </div>
             </div>
@@ -129,21 +133,23 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">First Session Script</span>
-                  <button 
+                  <Link
+                    href="/templates/first-session-script"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download First Session Script"
+                    aria-label="View First Session Script"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">GROW Model Template</span>
-                  <button 
+                  <Link
+                    href="/templates/grow-model-template"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download GROW Model Template"
+                    aria-label="View GROW Model Template"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Goal Setting Session</span>
