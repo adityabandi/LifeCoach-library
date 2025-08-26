@@ -3,8 +3,8 @@ import Link from 'next/link'
 
 export const metadata = generateSEO({
   title: 'Free Coaching Templates & Downloads - Life Coach Library',
-  description: 'Download free coaching templates including intake forms, session plans, progress trackers, and business documents. No email required.',
-  keywords: ['coaching templates', 'free coaching forms', 'intake form template', 'coaching session plan'],
+  description: 'Download free professional coaching templates including intake forms, session plans, personality assessments, progress trackers, and business documents. No email required.',
+  keywords: ['coaching templates', 'free coaching forms', 'intake form template', 'coaching session plan', 'personality assessment tools', 'coaching business forms', 'goal tracking templates'],
   canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/templates',
 })
 
@@ -49,7 +49,7 @@ export default function TemplatesPage() {
               Free Coaching Templates & Resources
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Professional templates for intake forms, session plans, progress tracking, and business operations. Download immediately - no email required.
+              Professional templates for intake forms, session plans, personality assessments, progress tracking, and business operations. Download immediately - no email required.
             </p>
           </div>
         </div>
@@ -76,39 +76,43 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">General Life Coaching Intake</span>
-                  <button 
+                  <Link
+                    href="/templates/general-life-coaching-intake"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download General Life Coaching Intake form"
+                    aria-label="View General Life Coaching Intake form"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Executive Coaching Intake</span>
-                  <button 
+                  <Link
+                    href="/templates/executive-coaching-intake"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Executive Coaching Intake form"
+                    aria-label="View Executive Coaching Intake form"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Career Transition Intake</span>
-                  <button 
+                  <Link
+                    href="/templates/career-transition-intake"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Career Transition Intake form"
+                    aria-label="View Career Transition Intake form"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Wellness Coaching Intake</span>
-                  <button 
+                  <Link
+                    href="/templates/wellness-coaching-intake"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Wellness Coaching Intake form"
+                    aria-label="View Wellness Coaching Intake form"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
               </div>
             </div>
@@ -129,39 +133,43 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">First Session Script</span>
-                  <button 
+                  <Link
+                    href="/templates/first-session-script"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download First Session Script"
+                    aria-label="View First Session Script"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">GROW Model Template</span>
-                  <button 
+                  <Link
+                    href="/templates/grow-model-template"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download GROW Model Template"
+                    aria-label="View GROW Model Template"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Goal Setting Session</span>
-                  <button 
+                  <Link
+                    href="/templates/goal-setting-session"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Goal Setting Session"
+                    aria-label="View Goal Setting Session"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Progress Review Template</span>
-                  <button 
+                  <Link
+                    href="/templates/progress-review-template"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Progress Review Template"
+                    aria-label="View Progress Review Template"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
               </div>
             </div>
@@ -182,12 +190,13 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Goal Progress Tracker</span>
-                  <button 
+                  <Link
+                    href="/templates/goal-progress-tracker"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Goal Progress Tracker"
+                    aria-label="View Goal Progress Tracker"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Habit Formation Tracker</span>
@@ -235,12 +244,13 @@ export default function TemplatesPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Coaching Agreement Template</span>
-                  <button 
+                  <Link
+                    href="/templates/coaching-agreement-template"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Coaching Agreement Template"
+                    aria-label="View Coaching Agreement Template"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Service Proposal Template</span>
@@ -336,17 +346,18 @@ export default function TemplatesPage() {
                 <h3 className="text-xl font-semibold text-gray-900 ml-4">Assessment Tools</h3>
               </div>
               <p className="text-gray-600 mb-6">
-                Professional assessments and evaluation tools to understand client needs and measure coaching effectiveness.
+                Professional assessments and evaluation tools to understand client needs, measure coaching effectiveness, and provide deeper personality insights for personalized coaching approaches.
               </p>
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Wheel of Life Assessment</span>
-                  <button 
+                  <Link
+                    href="/templates/wheel-of-life-assessment"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Wheel of Life Assessment"
+                    aria-label="View Wheel of Life Assessment"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Values Clarification Exercise</span>
@@ -367,19 +378,45 @@ export default function TemplatesPage() {
                   </button>
                 </div>
                 <div className="flex justify-between items-center py-2">
-                  <span className="text-sm text-gray-700">
+                  <div className="flex-1">
                     <a href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library" 
-                       className="text-primary-600 hover:text-primary-700"
+                       className="text-primary-600 hover:text-primary-700 font-medium"
                        target="_blank" 
                        rel="noopener noreferrer">
-                      Premium Strengths Test
+                      Premium Personality & Strengths Assessment
                     </a>
-                  </span>
-                  <span className="text-xs text-gray-500">External</span>
+                    <p className="text-xs text-gray-500 mt-1">Comprehensive personality insights for deeper coaching conversations</p>
+                  </div>
+                  <span className="text-xs text-gray-500 ml-2">External</span>
                 </div>
               </div>
             </div>
 
+          </div>
+        </div>
+      </section>
+
+      {/* Assessment Tools Highlight */}
+      <section className="bg-primary-50 py-12">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="max-w-3xl mx-auto text-center">
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">
+              Enhance Your Coaching with Professional Assessments
+            </h2>
+            <p className="text-gray-600 mb-6">
+              Take your coaching to the next level with comprehensive personality and strengths assessments. Understanding your clients' personality types, strengths, and motivational drivers enables more personalized and effective coaching conversations.
+            </p>
+            <a
+              href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors"
+            >
+              Explore Professional Assessments
+              <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-2M7 7h.01M7 3h5l2 2v5" />
+              </svg>
+            </a>
           </div>
         </div>
       </section>
@@ -436,7 +473,7 @@ export default function TemplatesPage() {
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold mb-4">Tools</h4>
+              <h4 className="font-semibold mb-4">Assessment Tools</h4>
               <ul className="space-y-2">
                 <li>
                   <a 
@@ -445,7 +482,17 @@ export default function TemplatesPage() {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Strengths Assessment
+                    Professional Personality Assessments
+                  </a>
+                </li>
+                <li>
+                  <a 
+                    href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library" 
+                    className="text-gray-400 hover:text-white"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Strengths & Values Analysis
                   </a>
                 </li>
               </ul>

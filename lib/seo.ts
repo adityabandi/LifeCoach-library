@@ -23,7 +23,7 @@ export function generateSEO({
   return {
     title: fullTitle,
     description,
-    keywords: ['life coaching', 'coaching templates', 'coaching business', ...keywords],
+    keywords: ['life coaching', 'coaching templates', 'coaching business', 'personality assessment', 'coaching tools', ...keywords],
     openGraph: {
       title: fullTitle,
       description,
