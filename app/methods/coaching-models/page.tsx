@@ -120,7 +120,7 @@ export default function CoachingModelsPage() {
                   </div>
                 </div>
                 <CopyButton 
-                  text="GROW Model Questions Template"
+                  content="GROW Model Questions Template"
                   className="mt-4"
                 />
               </div>
@@ -268,7 +268,7 @@ export default function CoachingModelsPage() {
                   </div>
                 </div>
                 <CopyButton 
-                  text="CBT Thought Record Template"
+                  content="CBT Thought Record Template"
                   className="mt-4"
                 />
               </div>

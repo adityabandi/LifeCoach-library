@@ -130,7 +130,7 @@ export default function ShortVideoForCoachesPage() {
           </ol>
 
           <h3>Solution-focused hooks</h3>
-          <ol start="6">
+          <ol start={6}>
             <li>"Here's how to find your purpose in 5 minutes..."</li>
             <li>"The 3-step framework I use to help clients get unstuck..."</li>
             <li>"How to stop overthinking (it's not what you think)..."</li>
@@ -139,7 +139,7 @@ export default function ShortVideoForCoachesPage() {
           </ol>
 
           <h3>Story-driven hooks</h3>
-          <ol start="11">
+          <ol start={11}>
             <li>"My client went from anxiety to confidence in 30 days..."</li>
             <li>"I used to be the biggest people-pleaser until..."</li>
             <li>"The day I realized I was living someone else's life..."</li>
@@ -148,7 +148,7 @@ export default function ShortVideoForCoachesPage() {
           </ol>
 
           <h3>Curiosity-driven hooks</h3>
-          <ol start="16">
+          <ol start={16}>
             <li>"The coaching technique therapists don't teach..."</li>
             <li>"What successful people do differently (it's not what you think)..."</li>
             <li>"The mindset shift that changes everything..."</li>

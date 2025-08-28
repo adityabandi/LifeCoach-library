@@ -233,7 +233,7 @@ export default function WebsiteConversionPage() {
             <h6 className="font-semibold mb-3">Example: Career Transition Coaching</h6>
             <div className="grid md:grid-cols-3 gap-4 text-sm">
               <div className="border p-4 rounded">
-                <h7 className="font-medium mb-2">CLARITY (Good)</h7>
+                <h6 className="font-medium mb-2">CLARITY (Good)</h6>
                 <p className="text-gray-600 mb-2">$497</p>
                 <ul className="text-gray-700 space-y-1">
                   <li>• 2 coaching sessions</li>
@@ -242,7 +242,7 @@ export default function WebsiteConversionPage() {
                 </ul>
               </div>
               <div className="border-2 border-primary-500 p-4 rounded bg-primary-50">
-                <h7 className="font-medium mb-2">TRANSITION (Better)</h7>
+                <h6 className="font-medium mb-2">TRANSITION (Better)</h6>
                 <p className="text-gray-600 mb-2">$1,497</p>
                 <ul className="text-gray-700 space-y-1">
                   <li>• 6 coaching sessions</li>
@@ -253,7 +253,7 @@ export default function WebsiteConversionPage() {
                 </ul>
               </div>
               <div className="border p-4 rounded">
-                <h7 className="font-medium mb-2">TRANSFORMATION (Best)</h7>
+                <h6 className="font-medium mb-2">TRANSFORMATION (Best)</h6>
                 <p className="text-gray-600 mb-2">$2,997</p>
                 <ul className="text-gray-700 space-y-1">
                   <li>• 12 coaching sessions</li>
