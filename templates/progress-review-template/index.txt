@@ -1,0 +1,492 @@
+2:I[231,["231","static/chunks/231-4483a987a642235b.js","627","static/chunks/app/templates/%5Btemplate%5D/page-f24dcd420825fb57.js"],""]
+3:I[9014,["231","static/chunks/231-4483a987a642235b.js","627","static/chunks/app/templates/%5Btemplate%5D/page-f24dcd420825fb57.js"],"default"]
+6:I[9275,[],""]
+8:I[1343,[],""]
+4:T19d5,PROGRESS REVIEW SESSION TEMPLATE
+
+SESSION INFORMATION
+==================
+Client: _________________________
+Review Period: From _____________ To _____________
+Session Date: ___________________
+Goals Being Reviewed: ____________
+
+PRE-SESSION PREPARATION
+======================
+☐ Review previous session notes
+☐ Gather client's progress reports/tracking data
+☐ Prepare celebration items for wins
+☐ Have goal adjustment worksheets ready
+☐ Review original goals and action plans
+
+OPENING AND CELEBRATION (10 minutes)
+===================================
+1. WARM-UP AND CONTEXT SETTING
+"Welcome! Today we're going to review your progress and celebrate your achievements. How are you feeling about where you are right now?"
+
+2. CELEBRATION OF WINS
+"Let's start with the good stuff! What wins and achievements can we celebrate from this period?"
+
+"What are you most proud of?"
+"What surprised you about what you accomplished?"
+"What felt easier than expected?"
+
+Celebration categories:
+☐ Goals achieved
+☐ Milestones reached
+☐ New habits formed
+☐ Obstacles overcome
+☐ Insights gained
+☐ Confidence built
+
+DETAILED PROGRESS ASSESSMENT (25 minutes)
+=========================================
+3. GOAL-BY-GOAL REVIEW
+
+For each goal, assess:
+
+GOAL 1: _____________________________
+Original target date: _______________
+Current status: 
+☐ Completed
+☐ On track
+☐ Behind schedule
+☐ Modified
+☐ Paused/stopped
+
+Progress rating (1-10): _____________
+
+What's been accomplished:
+_____________________________________
+
+What's working well:
+_____________________________________
+
+What's been challenging:
+_____________________________________
+
+4. ACTION PLAN REVIEW
+"Let's look at the specific actions you committed to. Which ones happened? Which ones didn't?"
+
+Actions completed successfully:
+☐ _________________________________
+☐ _________________________________
+☐ _________________________________
+
+Actions partially completed:
+☐ _________________________________
+☐ _________________________________
+
+Actions not completed:
+☐ _________________________________
+☐ _________________________________
+
+"What made the difference between the actions you completed and those you didn't?"
+
+OBSTACLE AND CHALLENGE ANALYSIS (15 minutes)
+===========================================
+5. IDENTIFYING PATTERNS
+"What patterns do you notice in what worked vs. what didn't work?"
+
+"What obstacles showed up that you didn't expect?"
+
+"How did you handle challenges when they arose?"
+
+"What would you do differently if you could start over?"
+
+6. RESOURCE AND SUPPORT ASSESSMENT
+"What resources were most helpful?"
+"What support did you need that you didn't have?"
+"What internal resources (motivation, energy, skills) fluctuated during this period?"
+
+7. EXTERNAL FACTOR IMPACT
+"What external factors helped or hindered your progress?"
+- Life changes or transitions
+- Work demands
+- Health issues
+- Relationship changes
+- Financial considerations
+- Seasonal factors
+
+LEARNING AND INSIGHT EXTRACTION (10 minutes)
+===========================================
+8. SELF-AWARENESS DEVELOPMENT
+"What did you learn about yourself during this period?"
+
+"What patterns in your behavior became clearer?"
+
+"What assumptions about yourself were challenged or confirmed?"
+
+"What strengths did you discover or strengthen?"
+
+9. STRATEGY EVALUATION
+"Which strategies and approaches worked best for you?"
+
+"What tools or techniques were most helpful?"
+
+"What would you want to keep doing?"
+
+"What would you want to change or stop doing?"
+
+GOAL ADJUSTMENT AND REFINEMENT (15 minutes)
+==========================================
+10. GOAL RELEVANCE ASSESSMENT
+"How do you feel about your original goals now?"
+
+"Have your priorities shifted?"
+
+"Do these goals still align with your values and vision?"
+
+"What goals need to be modified?"
+
+11. GOAL MODIFICATION OPTIONS
+For goals that need adjustment:
+
+MODIFICATION TYPE:
+☐ Extend timeline
+☐ Reduce scope
+☐ Change approach
+☐ Pause temporarily
+☐ Replace with new goal
+☐ Break into smaller goals
+
+NEW OR MODIFIED GOALS:
+Goal: _______________________________
+Reason for change: __________________
+New timeline: ______________________
+Adjusted success criteria: ___________
+
+12. NEW GOAL IDENTIFICATION
+"Based on your progress and learning, what new goals are emerging?"
+
+"What opportunities for growth do you see?"
+
+"What areas need more attention?"
+
+FORWARD PLANNING (10 minutes)
+============================
+13. NEXT PHASE ACTION PLANNING
+"Looking ahead to the next [period], what are your priorities?"
+
+"What will you do differently based on what you've learned?"
+
+"What support or resources do you need for the next phase?"
+
+14. ACCOUNTABILITY STRUCTURE ADJUSTMENT
+"How well did our accountability system work?"
+
+"What changes would make accountability more effective?"
+
+"How often should we check in on progress?"
+
+IMMEDIATE NEXT STEPS:
+For the next week:
+1. _______________________________
+2. _______________________________
+3. _______________________________
+
+For the next month:
+1. _______________________________
+2. _______________________________
+3. _______________________________
+
+CLOSING AND COMMITMENT (5 minutes)
+==================================
+15. ENERGY AND MOTIVATION CHECK
+"How are you feeling about moving forward?"
+
+"What's your energy level for pursuing these goals?"
+
+"What would increase your motivation?"
+
+16. KEY TAKEAWAYS
+"What are the most important insights from today's review?"
+
+"What will you remember most from this conversation?"
+
+"How will you use what you learned?"
+
+PROGRESS REVIEW SUMMARY
+=======================
+ACHIEVEMENTS TO CELEBRATE:
+• ________________________________
+• ________________________________
+• ________________________________
+
+KEY LEARNINGS:
+• ________________________________
+• ________________________________
+• ________________________________
+
+GOALS CONTINUING UNCHANGED:
+• ________________________________
+• ________________________________
+
+GOALS BEING MODIFIED:
+• ________________________________
+• ________________________________
+
+NEW GOALS ADDED:
+• ________________________________
+• ________________________________
+
+GOALS BEING PAUSED/STOPPED:
+• ________________________________
+• ________________________________
+
+SUCCESS FACTORS TO LEVERAGE:
+• ________________________________
+• ________________________________
+
+OBSTACLES TO ADDRESS:
+• ________________________________
+• ________________________________
+
+NEXT REVIEW DATE: ________________
+
+Regular progress reviews keep coaching focused, celebrate achievements, and ensure continuous movement toward meaningful goals.5:T19d5,PROGRESS REVIEW SESSION TEMPLATE
+
+SESSION INFORMATION
+==================
+Client: _________________________
+Review Period: From _____________ To _____________
+Session Date: ___________________
+Goals Being Reviewed: ____________
+
+PRE-SESSION PREPARATION
+======================
+☐ Review previous session notes
+☐ Gather client's progress reports/tracking data
+☐ Prepare celebration items for wins
+☐ Have goal adjustment worksheets ready
+☐ Review original goals and action plans
+
+OPENING AND CELEBRATION (10 minutes)
+===================================
+1. WARM-UP AND CONTEXT SETTING
+"Welcome! Today we're going to review your progress and celebrate your achievements. How are you feeling about where you are right now?"
+
+2. CELEBRATION OF WINS
+"Let's start with the good stuff! What wins and achievements can we celebrate from this period?"
+
+"What are you most proud of?"
+"What surprised you about what you accomplished?"
+"What felt easier than expected?"
+
+Celebration categories:
+☐ Goals achieved
+☐ Milestones reached
+☐ New habits formed
+☐ Obstacles overcome
+☐ Insights gained
+☐ Confidence built
+
+DETAILED PROGRESS ASSESSMENT (25 minutes)
+=========================================
+3. GOAL-BY-GOAL REVIEW
+
+For each goal, assess:
+
+GOAL 1: _____________________________
+Original target date: _______________
+Current status: 
+☐ Completed
+☐ On track
+☐ Behind schedule
+☐ Modified
+☐ Paused/stopped
+
+Progress rating (1-10): _____________
+
+What's been accomplished:
+_____________________________________
+
+What's working well:
+_____________________________________
+
+What's been challenging:
+_____________________________________
+
+4. ACTION PLAN REVIEW
+"Let's look at the specific actions you committed to. Which ones happened? Which ones didn't?"
+
+Actions completed successfully:
+☐ _________________________________
+☐ _________________________________
+☐ _________________________________
+
+Actions partially completed:
+☐ _________________________________
+☐ _________________________________
+
+Actions not completed:
+☐ _________________________________
+☐ _________________________________
+
+"What made the difference between the actions you completed and those you didn't?"
+
+OBSTACLE AND CHALLENGE ANALYSIS (15 minutes)
+===========================================
+5. IDENTIFYING PATTERNS
+"What patterns do you notice in what worked vs. what didn't work?"
+
+"What obstacles showed up that you didn't expect?"
+
+"How did you handle challenges when they arose?"
+
+"What would you do differently if you could start over?"
+
+6. RESOURCE AND SUPPORT ASSESSMENT
+"What resources were most helpful?"
+"What support did you need that you didn't have?"
+"What internal resources (motivation, energy, skills) fluctuated during this period?"
+
+7. EXTERNAL FACTOR IMPACT
+"What external factors helped or hindered your progress?"
+- Life changes or transitions
+- Work demands
+- Health issues
+- Relationship changes
+- Financial considerations
+- Seasonal factors
+
+LEARNING AND INSIGHT EXTRACTION (10 minutes)
+===========================================
+8. SELF-AWARENESS DEVELOPMENT
+"What did you learn about yourself during this period?"
+
+"What patterns in your behavior became clearer?"
+
+"What assumptions about yourself were challenged or confirmed?"
+
+"What strengths did you discover or strengthen?"
+
+9. STRATEGY EVALUATION
+"Which strategies and approaches worked best for you?"
+
+"What tools or techniques were most helpful?"
+
+"What would you want to keep doing?"
+
+"What would you want to change or stop doing?"
+
+GOAL ADJUSTMENT AND REFINEMENT (15 minutes)
+==========================================
+10. GOAL RELEVANCE ASSESSMENT
+"How do you feel about your original goals now?"
+
+"Have your priorities shifted?"
+
+"Do these goals still align with your values and vision?"
+
+"What goals need to be modified?"
+
+11. GOAL MODIFICATION OPTIONS
+For goals that need adjustment:
+
+MODIFICATION TYPE:
+☐ Extend timeline
+☐ Reduce scope
+☐ Change approach
+☐ Pause temporarily
+☐ Replace with new goal
+☐ Break into smaller goals
+
+NEW OR MODIFIED GOALS:
+Goal: _______________________________
+Reason for change: __________________
+New timeline: ______________________
+Adjusted success criteria: ___________
+
+12. NEW GOAL IDENTIFICATION
+"Based on your progress and learning, what new goals are emerging?"
+
+"What opportunities for growth do you see?"
+
+"What areas need more attention?"
+
+FORWARD PLANNING (10 minutes)
+============================
+13. NEXT PHASE ACTION PLANNING
+"Looking ahead to the next [period], what are your priorities?"
+
+"What will you do differently based on what you've learned?"
+
+"What support or resources do you need for the next phase?"
+
+14. ACCOUNTABILITY STRUCTURE ADJUSTMENT
+"How well did our accountability system work?"
+
+"What changes would make accountability more effective?"
+
+"How often should we check in on progress?"
+
+IMMEDIATE NEXT STEPS:
+For the next week:
+1. _______________________________
+2. _______________________________
+3. _______________________________
+
+For the next month:
+1. _______________________________
+2. _______________________________
+3. _______________________________
+
+CLOSING AND COMMITMENT (5 minutes)
+==================================
+15. ENERGY AND MOTIVATION CHECK
+"How are you feeling about moving forward?"
+
+"What's your energy level for pursuing these goals?"
+
+"What would increase your motivation?"
+
+16. KEY TAKEAWAYS
+"What are the most important insights from today's review?"
+
+"What will you remember most from this conversation?"
+
+"How will you use what you learned?"
+
+PROGRESS REVIEW SUMMARY
+=======================
+ACHIEVEMENTS TO CELEBRATE:
+• ________________________________
+• ________________________________
+• ________________________________
+
+KEY LEARNINGS:
+• ________________________________
+• ________________________________
+• ________________________________
+
+GOALS CONTINUING UNCHANGED:
+• ________________________________
+• ________________________________
+
+GOALS BEING MODIFIED:
+• ________________________________
+• ________________________________
+
+NEW GOALS ADDED:
+• ________________________________
+• ________________________________
+
+GOALS BEING PAUSED/STOPPED:
+• ________________________________
+• ________________________________
+
+SUCCESS FACTORS TO LEVERAGE:
+• ________________________________
+• ________________________________
+
+OBSTACLES TO ADDRESS:
+• ________________________________
+• ________________________________
+
+NEXT REVIEW DATE: ________________
+
+Regular progress reviews keep coaching focused, celebrate achievements, and ensure continuous movement toward meaningful goals.7:["template","progress-review-template","d"]
+0:["aMtzHuqqCafk2CKbffkUd",[[["",{"children":["templates",{"children":[["template","progress-review-template","d"],{"children":["__PAGE__?{\"template\":\"progress-review-template\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["templates",{"children":[["template","progress-review-template","d"],{"children":["__PAGE__",{},[["$L1",["$","div",null,{"className":"min-h-screen bg-white","children":[["$","header",null,{"className":"bg-white border-b border-gray-200","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8","children":["$","div",null,{"className":"flex justify-between items-center py-6","children":[["$","div",null,{"className":"flex justify-start lg:w-0 lg:flex-1","children":["$","$L2",null,{"href":"/","className":"text-2xl font-bold text-gray-900","children":"Life Coach Library"}]}],["$","nav",null,{"className":"hidden md:flex space-x-8","children":[["$","$L2",null,{"href":"/guides","className":"text-gray-600 hover:text-gray-900","children":"Guides"}],["$","$L2",null,{"href":"/workflows","className":"text-gray-600 hover:text-gray-900","children":"Workflows"}],["$","$L2",null,{"href":"/methods","className":"text-gray-600 hover:text-gray-900","children":"Methods"}],["$","$L2",null,{"href":"/growth","className":"text-gray-600 hover:text-gray-900","children":"Marketing"}],["$","$L2",null,{"href":"/templates","className":"text-gray-600 hover:text-gray-900","children":"Templates"}]]}]]}]}]}],["$","div",null,{"className":"bg-gray-50 py-4","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8","children":["$","nav",null,{"className":"flex","aria-label":"Breadcrumb","children":["$","ol",null,{"className":"flex items-center space-x-4","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/","className":"text-gray-500 hover:text-gray-700","children":"Home"}]}],["$","li",null,{"children":["$","svg",null,{"className":"flex-shrink-0 h-5 w-5 text-gray-400","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z","clipRule":"evenodd"}]}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/templates","className":"text-gray-500 hover:text-gray-700","children":"Templates"}]}],["$","li",null,{"children":["$","svg",null,{"className":"flex-shrink-0 h-5 w-5 text-gray-400","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z","clipRule":"evenodd"}]}]}],["$","li",null,{"children":["$","span",null,{"className":"text-gray-900 font-medium","children":"Progress Review Template"}]}]]}]}]}]}],["$","main",null,{"className":"py-12","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold text-gray-900 mb-4","children":"Progress Review Template"}],["$","p",null,{"className":"text-lg text-gray-600 mb-6","children":"Structured framework for conducting regular progress reviews and adjusting coaching plans."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4","children":["$","$L3",null,{"content":"$4","className":"bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors flex items-center justify-center"}]}]]}],["$","div",null,{"className":"bg-gray-50 rounded-lg p-6","children":[["$","h2",null,{"className":"text-lg font-semibold text-gray-900 mb-4","children":"Template Content"}],["$","div",null,{"className":"bg-white rounded border p-6 font-mono text-sm whitespace-pre-wrap","children":"$5"}]]}],false,["$","div",null,{"className":"mt-8 text-center","children":["$","$L2",null,{"href":"/templates","className":"text-primary-600 hover:text-primary-700 font-medium","children":"← Back to All Templates"}]}]]}]}]]}]],null],null]},["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","templates","children","$7","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","templates","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","className":"font-sans","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"canonical","href":"https://adityabandi.github.io/LifeCoach-library/"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/LifeCoach-library/_next/static/css/4e902cec198d9c17.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L9"]]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Progress Review Template - Free Coaching Template | Life Coach Library | Life Coach Library"}],["$","meta","3",{"name":"description","content":"Structured framework for conducting regular progress reviews and adjusting coaching plans."}],["$","meta","4",{"name":"author","content":"Life Coach Library Team"}],["$","meta","5",{"name":"keywords","content":"life coaching,coaching templates,coaching business,personality assessment,coaching tools,progress review template,coaching template,free download,coaching session,session structure,coaching framework"}],["$","meta","6",{"name":"creator","content":"Life Coach Library"}],["$","meta","7",{"name":"publisher","content":"Life Coach Library"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","link","9",{"rel":"canonical","href":"https://adityabandi.github.io/LifeCoach-library/templates/progress-review-template/"}],["$","meta","10",{"name":"google-site-verification","content":"verification_token_here"}],["$","meta","11",{"property":"og:title","content":"Progress Review Template - Free Coaching Template | Life Coach Library"}],["$","meta","12",{"property":"og:description","content":"Structured framework for conducting regular progress reviews and adjusting coaching plans."}],["$","meta","13",{"property":"og:url","content":"https://adityabandi.github.io/LifeCoach-library/templates/progress-review-template/"}],["$","meta","14",{"property":"og:site_name","content":"Life Coach Library"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Progress Review Template - Free Coaching Template | Life Coach Library"}],["$","meta","18",{"name":"twitter:description","content":"Structured framework for conducting regular progress reviews and adjusting coaching plans."}]]
+1:null

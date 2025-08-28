@@ -1,0 +1,496 @@
+2:I[231,["231","static/chunks/231-4483a987a642235b.js","627","static/chunks/app/templates/%5Btemplate%5D/page-f24dcd420825fb57.js"],""]
+3:I[9014,["231","static/chunks/231-4483a987a642235b.js","627","static/chunks/app/templates/%5Btemplate%5D/page-f24dcd420825fb57.js"],"default"]
+6:I[9275,[],""]
+8:I[1343,[],""]
+4:T1c14,HABIT FORMATION TRACKER
+
+CLIENT INFORMATION
+==================
+Name: _____________________________
+Start Date: _______________________
+Coach: ____________________________
+Review Date: ______________________
+
+HABIT OVERVIEW
+==============
+Target Habit: ______________________
+___________________________________
+
+Habit Category:
+☐ Health & Wellness
+☐ Productivity & Work
+☐ Relationships & Social
+☐ Personal Development
+☐ Financial
+☐ Creative & Hobbies
+☐ Other: ______________
+
+Why This Habit Matters:
+___________________________________
+___________________________________
+
+HABIT DETAILS
+=============
+Specific Behavior: What exactly will you do?
+___________________________________
+___________________________________
+
+Frequency Goal:
+☐ Daily
+☐ X times per week: ___
+☐ X times per month: ___
+☐ Other: ______________
+
+Time of Day:
+☐ Morning (before 10am)
+☐ Midday (10am-2pm)
+☐ Afternoon (2pm-6pm)
+☐ Evening (6pm-10pm)
+☐ Night (after 10pm)
+☐ Flexible timing
+
+Duration: ______ minutes
+Location: ______________________
+
+HABIT STACKING
+==============
+Link your new habit to an existing routine:
+
+After I _________________________ (existing habit),
+I will __________________________ (new habit).
+
+For example:
+"After I brush my teeth in the morning, I will do 10 push-ups."
+
+DAILY TRACKING - WEEK 1
+=======================
+Mark with ✓ for completion, X for missed, ~ for partial
+
+Day 1 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 2 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 3 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 4 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 5 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 6 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 7 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 1 Success Rate: ___/7 (____%)
+
+DAILY TRACKING - WEEK 2
+=======================
+Day 8 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 9 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 10 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 11 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 12 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 13 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 14 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 2 Success Rate: ___/7 (____%)
+
+DAILY TRACKING - WEEK 3
+=======================
+Day 15 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 16 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 17 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 18 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 19 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 20 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 21 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 3 Success Rate: ___/7 (____%)
+
+DAILY TRACKING - WEEK 4
+=======================
+Day 22 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 23 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 24 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 25 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 26 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 27 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 28 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 4 Success Rate: ___/7 (____%)
+
+30-DAY SUMMARY
+==============
+Total Completions: ___/30 (____%)
+Longest Streak: _____ days
+Current Streak: _____ days
+
+Best Days of Week:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Most Challenging Days:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+OBSTACLE TRACKING
+=================
+Common Obstacles Encountered:
+☐ Lack of time
+☐ Forgot to do it
+☐ Too tired/low energy
+☐ Not feeling motivated
+☐ Schedule disruption
+☐ Other priorities took over
+☐ Physical discomfort/illness
+☐ Emotional resistance
+☐ Environmental barriers
+☐ Other: ______________
+
+Solutions That Worked:
+• ________________________________
+• ________________________________
+• ________________________________
+
+MOTIVATION & MINDSET
+===================
+Energy Level Assessment:
+Week 1: ☐ High ☐ Medium ☐ Low
+Week 2: ☐ High ☐ Medium ☐ Low
+Week 3: ☐ High ☐ Medium ☐ Low
+Week 4: ☐ High ☐ Medium ☐ Low
+
+Motivation Level Assessment:
+Week 1: ☐ High ☐ Medium ☐ Low
+Week 2: ☐ High ☐ Medium ☐ Low
+Week 3: ☐ High ☐ Medium ☐ Low
+Week 4: ☐ High ☐ Medium ☐ Low
+
+What kept you motivated?
+___________________________________
+___________________________________
+
+What demotivated you?
+___________________________________
+___________________________________
+
+REWARDS & CELEBRATIONS
+======================
+Small Daily Rewards (for completion):
+___________________________________
+
+Weekly Rewards (for meeting weekly goal):
+___________________________________
+
+Monthly Reward (for 30-day completion):
+___________________________________
+
+Celebration Moments:
+Week 1: ___________________________
+Week 2: ___________________________
+Week 3: ___________________________
+Week 4: ___________________________
+
+HABIT EVOLUTION
+===============
+How has the habit gotten easier over time?
+___________________________________
+___________________________________
+
+What adjustments did you make?
+___________________________________
+___________________________________
+
+How has this habit impacted other areas of your life?
+___________________________________
+___________________________________
+
+NEXT STEPS
+==========
+Based on your 30-day experience:
+
+☐ Continue this habit as is
+☐ Increase frequency/intensity
+☐ Modify the approach
+☐ Stack another habit
+☐ Focus on consistency
+☐ Other: ______________
+
+Next Habit to Work On:
+___________________________________
+
+Connection to Current Habit:
+___________________________________
+
+COACH NOTES
+===========
+Observations about client's habit formation:
+___________________________________
+___________________________________
+
+Patterns noticed:
+___________________________________
+___________________________________
+
+Recommended adjustments:
+___________________________________
+___________________________________
+
+Follow-up actions:
+___________________________________
+___________________________________
+
+HABIT FORMATION PRINCIPLES
+==========================
+✓ Start small - make it so easy you can't say no
+✓ Be consistent - same time, same place when possible
+✓ Stack habits - attach new habits to existing routines
+✓ Track visibly - seeing progress motivates continuation
+✓ Celebrate wins - acknowledge every success, however small
+✓ Plan for obstacles - identify barriers and solutions in advance
+✓ Focus on identity - "I am someone who..."
+✓ Environment design - make good habits obvious, bad habits invisible
+
+Remember: Habits are formed through repetition, not perfection. Focus on showing up consistently rather than performing perfectly.5:T1c14,HABIT FORMATION TRACKER
+
+CLIENT INFORMATION
+==================
+Name: _____________________________
+Start Date: _______________________
+Coach: ____________________________
+Review Date: ______________________
+
+HABIT OVERVIEW
+==============
+Target Habit: ______________________
+___________________________________
+
+Habit Category:
+☐ Health & Wellness
+☐ Productivity & Work
+☐ Relationships & Social
+☐ Personal Development
+☐ Financial
+☐ Creative & Hobbies
+☐ Other: ______________
+
+Why This Habit Matters:
+___________________________________
+___________________________________
+
+HABIT DETAILS
+=============
+Specific Behavior: What exactly will you do?
+___________________________________
+___________________________________
+
+Frequency Goal:
+☐ Daily
+☐ X times per week: ___
+☐ X times per month: ___
+☐ Other: ______________
+
+Time of Day:
+☐ Morning (before 10am)
+☐ Midday (10am-2pm)
+☐ Afternoon (2pm-6pm)
+☐ Evening (6pm-10pm)
+☐ Night (after 10pm)
+☐ Flexible timing
+
+Duration: ______ minutes
+Location: ______________________
+
+HABIT STACKING
+==============
+Link your new habit to an existing routine:
+
+After I _________________________ (existing habit),
+I will __________________________ (new habit).
+
+For example:
+"After I brush my teeth in the morning, I will do 10 push-ups."
+
+DAILY TRACKING - WEEK 1
+=======================
+Mark with ✓ for completion, X for missed, ~ for partial
+
+Day 1 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 2 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 3 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 4 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 5 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 6 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 7 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 1 Success Rate: ___/7 (____%)
+
+DAILY TRACKING - WEEK 2
+=======================
+Day 8 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 9 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 10 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 11 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 12 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 13 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 14 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 2 Success Rate: ___/7 (____%)
+
+DAILY TRACKING - WEEK 3
+=======================
+Day 15 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 16 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 17 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 18 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 19 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 20 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 21 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 3 Success Rate: ___/7 (____%)
+
+DAILY TRACKING - WEEK 4
+=======================
+Day 22 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 23 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 24 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 25 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 26 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 27 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 28 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 4 Success Rate: ___/7 (____%)
+
+30-DAY SUMMARY
+==============
+Total Completions: ___/30 (____%)
+Longest Streak: _____ days
+Current Streak: _____ days
+
+Best Days of Week:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Most Challenging Days:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+OBSTACLE TRACKING
+=================
+Common Obstacles Encountered:
+☐ Lack of time
+☐ Forgot to do it
+☐ Too tired/low energy
+☐ Not feeling motivated
+☐ Schedule disruption
+☐ Other priorities took over
+☐ Physical discomfort/illness
+☐ Emotional resistance
+☐ Environmental barriers
+☐ Other: ______________
+
+Solutions That Worked:
+• ________________________________
+• ________________________________
+• ________________________________
+
+MOTIVATION & MINDSET
+===================
+Energy Level Assessment:
+Week 1: ☐ High ☐ Medium ☐ Low
+Week 2: ☐ High ☐ Medium ☐ Low
+Week 3: ☐ High ☐ Medium ☐ Low
+Week 4: ☐ High ☐ Medium ☐ Low
+
+Motivation Level Assessment:
+Week 1: ☐ High ☐ Medium ☐ Low
+Week 2: ☐ High ☐ Medium ☐ Low
+Week 3: ☐ High ☐ Medium ☐ Low
+Week 4: ☐ High ☐ Medium ☐ Low
+
+What kept you motivated?
+___________________________________
+___________________________________
+
+What demotivated you?
+___________________________________
+___________________________________
+
+REWARDS & CELEBRATIONS
+======================
+Small Daily Rewards (for completion):
+___________________________________
+
+Weekly Rewards (for meeting weekly goal):
+___________________________________
+
+Monthly Reward (for 30-day completion):
+___________________________________
+
+Celebration Moments:
+Week 1: ___________________________
+Week 2: ___________________________
+Week 3: ___________________________
+Week 4: ___________________________
+
+HABIT EVOLUTION
+===============
+How has the habit gotten easier over time?
+___________________________________
+___________________________________
+
+What adjustments did you make?
+___________________________________
+___________________________________
+
+How has this habit impacted other areas of your life?
+___________________________________
+___________________________________
+
+NEXT STEPS
+==========
+Based on your 30-day experience:
+
+☐ Continue this habit as is
+☐ Increase frequency/intensity
+☐ Modify the approach
+☐ Stack another habit
+☐ Focus on consistency
+☐ Other: ______________
+
+Next Habit to Work On:
+___________________________________
+
+Connection to Current Habit:
+___________________________________
+
+COACH NOTES
+===========
+Observations about client's habit formation:
+___________________________________
+___________________________________
+
+Patterns noticed:
+___________________________________
+___________________________________
+
+Recommended adjustments:
+___________________________________
+___________________________________
+
+Follow-up actions:
+___________________________________
+___________________________________
+
+HABIT FORMATION PRINCIPLES
+==========================
+✓ Start small - make it so easy you can't say no
+✓ Be consistent - same time, same place when possible
+✓ Stack habits - attach new habits to existing routines
+✓ Track visibly - seeing progress motivates continuation
+✓ Celebrate wins - acknowledge every success, however small
+✓ Plan for obstacles - identify barriers and solutions in advance
+✓ Focus on identity - "I am someone who..."
+✓ Environment design - make good habits obvious, bad habits invisible
+
+Remember: Habits are formed through repetition, not perfection. Focus on showing up consistently rather than performing perfectly.7:["template","habit-formation-tracker","d"]
+0:["aMtzHuqqCafk2CKbffkUd",[[["",{"children":["templates",{"children":[["template","habit-formation-tracker","d"],{"children":["__PAGE__?{\"template\":\"habit-formation-tracker\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["templates",{"children":[["template","habit-formation-tracker","d"],{"children":["__PAGE__",{},[["$L1",["$","div",null,{"className":"min-h-screen bg-white","children":[["$","header",null,{"className":"bg-white border-b border-gray-200","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8","children":["$","div",null,{"className":"flex justify-between items-center py-6","children":[["$","div",null,{"className":"flex justify-start lg:w-0 lg:flex-1","children":["$","$L2",null,{"href":"/","className":"text-2xl font-bold text-gray-900","children":"Life Coach Library"}]}],["$","nav",null,{"className":"hidden md:flex space-x-8","children":[["$","$L2",null,{"href":"/guides","className":"text-gray-600 hover:text-gray-900","children":"Guides"}],["$","$L2",null,{"href":"/workflows","className":"text-gray-600 hover:text-gray-900","children":"Workflows"}],["$","$L2",null,{"href":"/methods","className":"text-gray-600 hover:text-gray-900","children":"Methods"}],["$","$L2",null,{"href":"/growth","className":"text-gray-600 hover:text-gray-900","children":"Marketing"}],["$","$L2",null,{"href":"/templates","className":"text-gray-600 hover:text-gray-900","children":"Templates"}]]}]]}]}]}],["$","div",null,{"className":"bg-gray-50 py-4","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8","children":["$","nav",null,{"className":"flex","aria-label":"Breadcrumb","children":["$","ol",null,{"className":"flex items-center space-x-4","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/","className":"text-gray-500 hover:text-gray-700","children":"Home"}]}],["$","li",null,{"children":["$","svg",null,{"className":"flex-shrink-0 h-5 w-5 text-gray-400","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z","clipRule":"evenodd"}]}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/templates","className":"text-gray-500 hover:text-gray-700","children":"Templates"}]}],["$","li",null,{"children":["$","svg",null,{"className":"flex-shrink-0 h-5 w-5 text-gray-400","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z","clipRule":"evenodd"}]}]}],["$","li",null,{"children":["$","span",null,{"className":"text-gray-900 font-medium","children":"Habit Formation Tracker"}]}]]}]}]}]}],["$","main",null,{"className":"py-12","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold text-gray-900 mb-4","children":"Habit Formation Tracker"}],["$","p",null,{"className":"text-lg text-gray-600 mb-6","children":"Daily and weekly habit tracking tool to help clients build positive habits and break negative patterns."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4","children":["$","$L3",null,{"content":"$4","className":"bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors flex items-center justify-center"}]}]]}],["$","div",null,{"className":"bg-gray-50 rounded-lg p-6","children":[["$","h2",null,{"className":"text-lg font-semibold text-gray-900 mb-4","children":"Template Content"}],["$","div",null,{"className":"bg-white rounded border p-6 font-mono text-sm whitespace-pre-wrap","children":"$5"}]]}],false,["$","div",null,{"className":"mt-8 text-center","children":["$","$L2",null,{"href":"/templates","className":"text-primary-600 hover:text-primary-700 font-medium","children":"← Back to All Templates"}]}]]}]}]]}]],null],null]},["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","templates","children","$7","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","templates","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","className":"font-sans","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"canonical","href":"https://adityabandi.github.io/LifeCoach-library/"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/LifeCoach-library/_next/static/css/4e902cec198d9c17.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L9"]]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Habit Formation Tracker - Free Coaching Template | Life Coach Library | Life Coach Library"}],["$","meta","3",{"name":"description","content":"Daily and weekly habit tracking tool to help clients build positive habits and break negative patterns."}],["$","meta","4",{"name":"author","content":"Life Coach Library Team"}],["$","meta","5",{"name":"keywords","content":"life coaching,coaching templates,coaching business,personality assessment,coaching tools,habit formation tracker,coaching template,free download,goal tracking,progress monitoring,coaching metrics"}],["$","meta","6",{"name":"creator","content":"Life Coach Library"}],["$","meta","7",{"name":"publisher","content":"Life Coach Library"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","link","9",{"rel":"canonical","href":"https://adityabandi.github.io/LifeCoach-library/templates/habit-formation-tracker/"}],["$","meta","10",{"name":"google-site-verification","content":"verification_token_here"}],["$","meta","11",{"property":"og:title","content":"Habit Formation Tracker - Free Coaching Template | Life Coach Library"}],["$","meta","12",{"property":"og:description","content":"Daily and weekly habit tracking tool to help clients build positive habits and break negative patterns."}],["$","meta","13",{"property":"og:url","content":"https://adityabandi.github.io/LifeCoach-library/templates/habit-formation-tracker/"}],["$","meta","14",{"property":"og:site_name","content":"Life Coach Library"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Habit Formation Tracker - Free Coaching Template | Life Coach Library"}],["$","meta","18",{"name":"twitter:description","content":"Daily and weekly habit tracking tool to help clients build positive habits and break negative patterns."}]]
+1:null
