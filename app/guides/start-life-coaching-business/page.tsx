@@ -1,46 +1,19 @@
-import { generateSEO } from '@/lib/seo'
 import Link from 'next/link'
-import Logo from '@/components/Logo'
+import { generateSEO } from '@/lib/seo'
+import Header from '@/components/Header'
+import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'How to Set Up Your Life Coaching Business in 2025',
-  description: 'Learn how to start and structure a life‑coaching business in 2025. Discover how to choose a niche, create a business plan, decide whether to seek certification, and build an online presence that attracts clients.',
-  keywords: ['start life coaching business', 'life coach certification', 'coaching business plan', 'life coaching practice', 'coaching niche'],
+  title: 'How to Start a Life Coaching Business: Complete 2025 Guide',
+  description: 'Learn how to start a successful life coaching business with our comprehensive guide covering certification, niche selection, pricing, and client acquisition strategies.',
+  keywords: ['start life coaching business', 'life coach certification', 'coaching business plan', 'life coaching career', 'coaching niche'],
   canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/guides/start-life-coaching-business',
 })
 
 export default function StartLifeCoachingBusinessPage() {
   return (
     <div className="min-h-screen bg-white">
-      {/* Header */}
-      <header className="bg-white border-b border-gray-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center py-6">
-            <div className="flex justify-start lg:w-0 lg:flex-1">
-              <Link href="/">
-                <Logo variant="full" size="sm" />
-              </Link>
-            </div>
-            <nav className="hidden md:flex space-x-8">
-              <Link href="/guides" className="text-gray-600 hover:text-gray-900">
-                Guides
-              </Link>
-              <Link href="/workflows" className="text-gray-600 hover:text-gray-900">
-                Workflows
-              </Link>
-              <Link href="/methods" className="text-gray-600 hover:text-gray-900">
-                Methods
-              </Link>
-              <Link href="/growth" className="text-gray-600 hover:text-gray-900">
-                Marketing
-              </Link>
-              <Link href="/templates" className="text-gray-600 hover:text-gray-900">
-                Templates
-              </Link>
-            </nav>
-          </div>
-        </div>
-      </header>
+      <Header />
 
       {/* Breadcrumbs */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
@@ -176,52 +149,7 @@ export default function StartLifeCoachingBusinessPage() {
         </section>
       </article>
 
-      {/* Footer */}
-      <footer className="bg-gray-900 text-white py-12 mt-16">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid md:grid-cols-4 gap-8">
-            <div>
-              <h3 className="text-lg font-semibold mb-4">Life Coach Library</h3>
-              <p className="text-gray-400">
-                Free resources and templates for professional life coaches.
-              </p>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Resources</h4>
-              <ul className="space-y-2">
-                <li><Link href="/guides" className="text-gray-400 hover:text-white">Business Guides</Link></li>
-                <li><Link href="/templates" className="text-gray-400 hover:text-white">Templates</Link></li>
-                <li><Link href="/methods" className="text-gray-400 hover:text-white">Coaching Methods</Link></li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Growth</h4>
-              <ul className="space-y-2">
-                <li><Link href="/growth" className="text-gray-400 hover:text-white">Marketing</Link></li>
-                <li><Link href="/workflows" className="text-gray-400 hover:text-white">Workflows</Link></li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Tools</h4>
-              <ul className="space-y-2">
-                <li>
-                  <a 
-                    href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library" 
-                    className="text-gray-400 hover:text-white"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Strengths Assessment
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 Life Coach Library. All rights reserved.</p>
-          </div>
-        </div>
-      </footer>
+      <Footer />
     </div>
   )
 }

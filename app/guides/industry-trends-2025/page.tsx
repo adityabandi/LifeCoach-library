@@ -1,65 +1,34 @@
-import { generateSEO } from '@/lib/seo'
 import Link from 'next/link'
-import Logo from '@/components/Logo'
+import { generateSEO } from '@/lib/seo'
+import Header from '@/components/Header'
+import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'The Booming Life‑Coaching Industry: Trends and Certifications for 2025',
-  description: 'Explore statistics on the rapid growth of the life‑coaching industry, learn why certification matters, and discover how virtual sessions are transforming coaching in 2025.',
-  keywords: ['life coaching industry', 'coaching trends 2025', 'coaching certification', 'virtual coaching', 'coaching market growth'],
+  title: 'Life Coaching Industry Trends 2025: Growth, Technology & Future Outlook',
+  description: 'Explore the latest trends shaping the life coaching industry in 2025, including AI integration, virtual coaching adoption, and emerging market opportunities.',
+  keywords: ['life coaching trends 2025', 'coaching industry growth', 'virtual coaching trends', 'AI coaching', 'coaching market outlook'],
   canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/guides/industry-trends-2025',
 })
 
 export default function IndustryTrends2025Page() {
   return (
     <div className="min-h-screen bg-white">
-      {/* Header */}
-      <header className="bg-white border-b border-gray-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center py-6">
-            <div className="flex justify-start lg:w-0 lg:flex-1">
-              <Link href="/">
-                <Logo variant="full" size="sm" />
-              </Link>
-            </div>
-            <nav className="hidden md:flex space-x-8">
-              <Link href="/guides" className="text-gray-600 hover:text-gray-900">
-                Guides
-              </Link>
-              <Link href="/workflows" className="text-gray-600 hover:text-gray-900">
-                Workflows
-              </Link>
-              <Link href="/methods" className="text-gray-600 hover:text-gray-900">
-                Methods
-              </Link>
-              <Link href="/growth" className="text-gray-600 hover:text-gray-900">
-                Marketing
-              </Link>
-              <Link href="/templates" className="text-gray-600 hover:text-gray-900">
-                Templates
-              </Link>
-            </nav>
-          </div>
-        </div>
-      </header>
+      <Header />
 
       {/* Breadcrumbs */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-        <nav aria-label="Breadcrumb navigation" className="text-sm text-gray-500">
-          <ol className="flex items-center space-x-2" role="list">
+        <nav aria-label="Breadcrumb" className="text-sm text-gray-500">
+          <ol className="flex items-center space-x-2">
             <li>
-              <Link href="/" className="hover:text-gray-700" aria-label="Home page">Home</Link>
+              <Link href="/" className="hover:text-gray-700">Home</Link>
             </li>
-            <li aria-hidden="true">
-              <span className="mx-2">›</span>
-            </li>
+            <li aria-hidden="true" className="mx-2">›</li>
             <li>
-              <Link href="/guides" className="hover:text-gray-700" aria-label="Guides section">Guides</Link>
+              <Link href="/guides" className="hover:text-gray-700">Guides</Link>
             </li>
-            <li aria-hidden="true">
-              <span className="mx-2">›</span>
-            </li>
+            <li aria-hidden="true" className="mx-2">›</li>
             <li aria-current="page">
-              <span className="text-gray-900 font-medium">Industry Trends 2025</span>
+              <span>Industry Trends 2025</span>
             </li>
           </ol>
         </nav>
@@ -157,52 +126,7 @@ export default function IndustryTrends2025Page() {
         </section>
       </article>
 
-      {/* Footer */}
-      <footer className="bg-gray-900 text-white py-12 mt-16">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid md:grid-cols-4 gap-8">
-            <div>
-              <h3 className="text-lg font-semibold mb-4">Life Coach Library</h3>
-              <p className="text-gray-400">
-                Free resources and templates for professional life coaches.
-              </p>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Resources</h4>
-              <ul className="space-y-2">
-                <li><Link href="/guides" className="text-gray-400 hover:text-white">Business Guides</Link></li>
-                <li><Link href="/templates" className="text-gray-400 hover:text-white">Templates</Link></li>
-                <li><Link href="/methods" className="text-gray-400 hover:text-white">Coaching Methods</Link></li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Growth</h4>
-              <ul className="space-y-2">
-                <li><Link href="/growth" className="text-gray-400 hover:text-white">Marketing</Link></li>
-                <li><Link href="/workflows" className="text-gray-400 hover:text-white">Workflows</Link></li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Tools</h4>
-              <ul className="space-y-2">
-                <li>
-                  <a 
-                    href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library" 
-                    className="text-gray-400 hover:text-white"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Strengths Assessment
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 Life Coach Library. All rights reserved.</p>
-          </div>
-        </div>
-      </footer>
+      <Footer />
     </div>
   )
 }
