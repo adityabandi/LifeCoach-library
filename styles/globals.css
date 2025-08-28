@@ -124,21 +124,21 @@
 
   /* Feature card styling */
   .feature-card {
-    @apply relative bg-white rounded-2xl p-8 shadow-soft border border-gray-100 transition-all duration-300 hover:shadow-strong hover:-translate-y-2 group;
+    @apply relative bg-white rounded-2xl p-8 shadow-soft border border-gray-100 transition-all duration-300 hover:shadow-strong hover:-translate-y-2;
   }
 
   .feature-card::before {
     content: '';
-    @apply absolute inset-0 bg-gradient-to-br from-primary-50 to-accent-50 rounded-2xl opacity-0 transition-opacity duration-300 group-hover:opacity-100;
+    @apply absolute inset-0 bg-gradient-to-br from-primary-50 to-accent-50 rounded-2xl opacity-0 transition-opacity duration-300;
   }
 
-  .feature-card > * {
-    @apply relative z-10;
+  .feature-card:hover::before {
+    @apply opacity-100;
   }
 
   /* Template card styling */
   .template-card {
-    @apply bg-white border border-gray-200 rounded-2xl p-6 transition-all duration-300 hover:shadow-medium hover:border-primary-200 group;
+    @apply bg-white border border-gray-200 rounded-2xl p-6 transition-all duration-300 hover:shadow-medium hover:border-primary-200;
   }
 
   .template-card:hover .template-icon {
