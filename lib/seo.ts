@@ -29,14 +29,14 @@ export function generateSEO({
       description,
       url: canonicalUrl || siteUrl,
       siteName: 'Life Coach Library',
-      images: ogImage ? [{ url: ogImage }] : undefined,
+      ...(ogImage && { images: [{ url: ogImage }] }),
       type: 'article',
     },
     twitter: {
       card: 'summary_large_image',
       title: fullTitle,
       description,
-      images: ogImage ? [ogImage] : undefined,
+      ...(ogImage && { images: [ogImage] }),
     },
     alternates: {
       canonical: canonicalUrl || siteUrl,
