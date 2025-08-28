@@ -409,7 +409,6 @@ SESSION GOAL QUESTIONS:
 [Template continues with detailed question frameworks for each section of the GROW model]`
   },
 
-  // Continue with more session plans
   {
     slug: 'goal-setting-session',
     title: 'Goal Setting Session',
@@ -1199,212 +1198,6 @@ TRACKING TIPS
 This tracker is designed to be a living document that evolves with your goal journey. Use it consistently for maximum benefit.`
   },
 
-  // Add a few more key templates to demonstrate full functionality
-  {
-    slug: 'coaching-agreement-template',
-    title: 'Coaching Agreement Template',
-    description: 'Professional coaching agreement template covering terms, expectations, and legal protections.',
-    category: 'business-forms',
-    content: `COACHING AGREEMENT TEMPLATE
-
-COACHING SERVICES AGREEMENT
-
-This Coaching Agreement ("Agreement") is entered into on ____________ ("Effective Date") between:
-
-COACH:
-Name: _________________________
-Business Name: ________________
-Address: ______________________
-Phone: _______________________
-Email: _______________________
-
-CLIENT:
-Name: _________________________
-Address: ______________________
-Phone: _______________________
-Email: _______________________
-
-1. COACHING SERVICES
-===================
-The Coach agrees to provide professional coaching services to the Client. Coaching is a partnership that involves:
-- Supporting the Client in identifying and achieving personal and professional goals
-- Providing tools, techniques, and frameworks for personal development
-- Offering accountability and encouragement
-- Facilitating self-discovery and awareness
-
-Coaching is NOT:
-- Therapy, counseling, or psychological treatment
-- Medical or mental health advice
-- Business or legal consultation
-- A guarantee of specific outcomes
-
-2. COACHING PROCESS
-==================
-Sessions will be conducted:
-☐ In person at: _______________
-☐ Via video call (Zoom/Teams/etc.)
-☐ Via telephone
-☐ Combination of above
-
-Session frequency: ☐ Weekly ☐ Bi-weekly ☐ Monthly
-Session duration: ☐ 45 minutes ☐ 60 minutes ☐ 90 minutes
-Total number of sessions: _____
-Program duration: _____________
-
-3. FEES AND PAYMENT
-==================
-Coaching Fee Structure:
-☐ Per session: $_______ per session
-☐ Package rate: $_______ for _____ sessions
-☐ Monthly retainer: $_______ per month
-☐ Other: _______________
-
-Payment Terms:
-☐ Payment due before each session
-☐ Payment due at beginning of each month
-☐ Payment due in full upon signing
-☐ Payment plan: _______________
-
-Payment Methods Accepted:
-☐ Cash ☐ Check ☐ Credit Card ☐ Bank Transfer ☐ PayPal ☐ Other: _______
-
-Late Payment: A fee of $_____ will be charged for payments more than _____ days late.
-
-4. SCHEDULING AND CANCELLATION
-=============================
-Session Scheduling:
-Sessions will be scheduled by mutual agreement. The Client is responsible for being punctual and prepared for each session.
-
-Cancellation Policy:
-- Client must provide at least _____ hours notice to cancel or reschedule
-- Sessions cancelled with less than required notice will be charged in full
-- Coach will provide 24 hours notice for any schedule changes
-- Emergency situations will be handled with flexibility
-
-Missed Sessions:
-Missed sessions without proper notice are forfeited and non-refundable.
-
-5. CLIENT RESPONSIBILITIES
-=========================
-The Client agrees to:
-☐ Be fully committed to the coaching process
-☐ Be honest and open in all communications
-☐ Complete agreed-upon action items between sessions
-☐ Come prepared to each session with agenda items
-☐ Take responsibility for their own decisions and actions
-☐ Notify Coach of any significant life changes that may impact coaching
-☐ Maintain confidentiality regarding Coach's methods and materials
-
-6. COACH RESPONSIBILITIES
-========================
-The Coach agrees to:
-☐ Maintain professional standards and ethics
-☐ Be punctual and prepared for each session
-☐ Provide a safe, supportive environment for growth
-☐ Respect Client's autonomy and decision-making authority
-☐ Maintain confidentiality as outlined in this agreement
-☐ Refer Client to appropriate professionals when needed
-☐ Continue professional development and training
-
-7. CONFIDENTIALITY
-=================
-All information shared during coaching sessions is confidential and will not be disclosed without written consent, except:
-- When required by law
-- When there is imminent danger to self or others
-- When professional consultation is needed (identity will be protected)
-
-The Client consents to Coach taking notes during sessions for coaching purposes only.
-
-8. BOUNDARIES AND LIMITATIONS
-============================
-- Coaching sessions will focus on agreed-upon topics and goals
-- Personal relationships outside of coaching are discouraged
-- Coach is not available for crisis intervention or emergency support
-- Coach will refer Client to appropriate mental health professionals if needed
-- All communication should occur during business hours unless otherwise arranged
-
-9. TECHNOLOGY AND COMMUNICATION
-==============================
-Between-session communication:
-☐ Email check-ins included
-☐ Text message reminders allowed
-☐ No contact between sessions
-☐ Emergency contact protocol: _______________
-
-Technology requirements for virtual sessions:
-- Reliable internet connection
-- Private, quiet environment
-- Backup communication method
-
-10. TERMINATION
-==============
-Either party may terminate this agreement with _____ days written notice.
-
-Grounds for immediate termination:
-- Violation of confidentiality
-- Inappropriate behavior or harassment
-- Non-payment of fees
-- Client no-shows for consecutive sessions without communication
-
-Upon termination:
-- All outstanding fees are due immediately
-- Confidentiality obligations continue
-- Coach will provide summary of progress if requested
-
-11. REFUND POLICY
-================
-☐ No refunds on services rendered
-☐ Pro-rated refunds for unused sessions in packages
-☐ Full refund available within _____ days of purchase
-☐ Other: _______________
-
-12. LIABILITY AND DISCLAIMER
-===========================
-The Client understands that:
-- Coaching involves risk and no specific outcomes are guaranteed
-- The Client is fully responsible for their decisions and actions
-- The Coach is not liable for any consequences of Client's choices
-- The Client releases Coach from any claims related to coaching services
-
-The Coach's liability is limited to the amount of fees paid by the Client.
-
-13. DISPUTE RESOLUTION
-=====================
-Any disputes will be resolved through:
-☐ Direct negotiation
-☐ Mediation
-☐ Binding arbitration
-☐ Court jurisdiction in [Location]: _______________
-
-14. ADDITIONAL TERMS
-===================
-Special arrangements or additional terms:
-_________________________________
-_________________________________
-_________________________________
-
-15. AGREEMENT TO TERMS
-=====================
-By signing below, both parties acknowledge they have read, understood, and agree to all terms and conditions of this Coaching Agreement.
-
-This agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, or agreements.
-
-CLIENT SIGNATURE: _________________________ DATE: _________
-Print Name: _________________________
-
-COACH SIGNATURE: _________________________ DATE: _________
-Print Name: _________________________
-
-WITNESS (if required): _________________________ DATE: _________
-Print Name: _________________________
-
-This agreement is governed by the laws of [State/Province]: _______________
-
-For questions about this agreement, contact:
-Coach Email: _________________________
-Coach Phone: _________________________`
-  },
-
   {
     slug: 'wheel-of-life-assessment',
     title: 'Wheel of Life Assessment',
@@ -1734,8 +1527,6 @@ Your Wheel of Life assessment is a snapshot of where you are today. Use these in
 ✓ Celebrate improvements in all areas
 ✓ Stay aware of how changes in one area affect others
 
-Remember: There's no "perfect" wheel. The goal is awareness, intentional choices, and progress toward what matters most to you.
-
 Reassess every 3-6 months to track your growth and adjust your focus as your life evolves.
 
 ADDITIONAL DEVELOPMENT RESOURCES
@@ -1749,5 +1540,2960 @@ Understanding your personality type can help you:
 • Choose strategies that work with your personality rather than against it  
 • Understand your relationship patterns and communication style
 • Identify your core strengths and how to leverage them across all life areas`
+  },
+
+  {
+    slug: 'habit-formation-tracker',
+    title: 'Habit Formation Tracker',
+    description: 'Daily and weekly habit tracking tool to help clients build positive habits and break negative patterns.',
+    category: 'progress-trackers',
+    content: `HABIT FORMATION TRACKER
+
+CLIENT INFORMATION
+==================
+Name: _____________________________
+Start Date: _______________________
+Coach: ____________________________
+Review Date: ______________________
+
+HABIT OVERVIEW
+==============
+Target Habit: ______________________
+___________________________________
+
+Habit Category:
+☐ Health & Wellness
+☐ Productivity & Work
+☐ Relationships & Social
+☐ Personal Development
+☐ Financial
+☐ Creative & Hobbies
+☐ Other: ______________
+
+Why This Habit Matters:
+___________________________________
+___________________________________
+
+HABIT DETAILS
+=============
+Specific Behavior: What exactly will you do?
+___________________________________
+___________________________________
+
+Frequency Goal:
+☐ Daily
+☐ X times per week: ___
+☐ X times per month: ___
+☐ Other: ______________
+
+Time of Day:
+☐ Morning (before 10am)
+☐ Midday (10am-2pm)
+☐ Afternoon (2pm-6pm)
+☐ Evening (6pm-10pm)
+☐ Night (after 10pm)
+☐ Flexible timing
+
+Duration: ______ minutes
+Location: ______________________
+
+HABIT STACKING
+==============
+Link your new habit to an existing routine:
+
+After I _________________________ (existing habit),
+I will __________________________ (new habit).
+
+For example:
+"After I brush my teeth in the morning, I will do 10 push-ups."
+
+DAILY TRACKING - WEEK 1
+=======================
+Mark with ✓ for completion, X for missed, ~ for partial
+
+Day 1 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 2 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 3 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 4 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 5 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 6 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 7 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 1 Success Rate: ___/7 (____%)
+
+DAILY TRACKING - WEEK 2
+=======================
+Day 8 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 9 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 10 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 11 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 12 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 13 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 14 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 2 Success Rate: ___/7 (____%)
+
+DAILY TRACKING - WEEK 3
+=======================
+Day 15 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 16 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 17 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 18 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 19 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 20 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 21 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 3 Success Rate: ___/7 (____%)
+
+DAILY TRACKING - WEEK 4
+=======================
+Day 22 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 23 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 24 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 25 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 26 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 27 (___/___ ): _____ Time: _____ Notes: _____________________
+Day 28 (___/___ ): _____ Time: _____ Notes: _____________________
+
+Week 4 Success Rate: ___/7 (____%)
+
+30-DAY SUMMARY
+==============
+Total Completions: ___/30 (____%)
+Longest Streak: _____ days
+Current Streak: _____ days
+
+Best Days of Week:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Most Challenging Days:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+OBSTACLE TRACKING
+=================
+Common Obstacles Encountered:
+☐ Lack of time
+☐ Forgot to do it
+☐ Too tired/low energy
+☐ Not feeling motivated
+☐ Schedule disruption
+☐ Other priorities took over
+☐ Physical discomfort/illness
+☐ Emotional resistance
+☐ Environmental barriers
+☐ Other: ______________
+
+Solutions That Worked:
+• ________________________________
+• ________________________________
+• ________________________________
+
+MOTIVATION & MINDSET
+===================
+Energy Level Assessment:
+Week 1: ☐ High ☐ Medium ☐ Low
+Week 2: ☐ High ☐ Medium ☐ Low
+Week 3: ☐ High ☐ Medium ☐ Low
+Week 4: ☐ High ☐ Medium ☐ Low
+
+Motivation Level Assessment:
+Week 1: ☐ High ☐ Medium ☐ Low
+Week 2: ☐ High ☐ Medium ☐ Low
+Week 3: ☐ High ☐ Medium ☐ Low
+Week 4: ☐ High ☐ Medium ☐ Low
+
+What kept you motivated?
+___________________________________
+___________________________________
+
+What demotivated you?
+___________________________________
+___________________________________
+
+REWARDS & CELEBRATIONS
+======================
+Small Daily Rewards (for completion):
+___________________________________
+
+Weekly Rewards (for meeting weekly goal):
+___________________________________
+
+Monthly Reward (for 30-day completion):
+___________________________________
+
+Celebration Moments:
+Week 1: ___________________________
+Week 2: ___________________________
+Week 3: ___________________________
+Week 4: ___________________________
+
+HABIT EVOLUTION
+===============
+How has the habit gotten easier over time?
+___________________________________
+___________________________________
+
+What adjustments did you make?
+___________________________________
+___________________________________
+
+How has this habit impacted other areas of your life?
+___________________________________
+___________________________________
+
+NEXT STEPS
+==========
+Based on your 30-day experience:
+
+☐ Continue this habit as is
+☐ Increase frequency/intensity
+☐ Modify the approach
+☐ Stack another habit
+☐ Focus on consistency
+☐ Other: ______________
+
+Next Habit to Work On:
+___________________________________
+
+Connection to Current Habit:
+___________________________________
+
+COACH NOTES
+===========
+Observations about client's habit formation:
+___________________________________
+___________________________________
+
+Patterns noticed:
+___________________________________
+___________________________________
+
+Recommended adjustments:
+___________________________________
+___________________________________
+
+Follow-up actions:
+___________________________________
+___________________________________
+
+HABIT FORMATION PRINCIPLES
+==========================
+✓ Start small - make it so easy you can't say no
+✓ Be consistent - same time, same place when possible
+✓ Stack habits - attach new habits to existing routines
+✓ Track visibly - seeing progress motivates continuation
+✓ Celebrate wins - acknowledge every success, however small
+✓ Plan for obstacles - identify barriers and solutions in advance
+✓ Focus on identity - "I am someone who..."
+✓ Environment design - make good habits obvious, bad habits invisible
+
+Remember: Habits are formed through repetition, not perfection. Focus on showing up consistently rather than performing perfectly.`
+  },
+
+  {
+    slug: 'session-notes-template',
+    title: 'Session Notes Template',
+    description: 'Structured template for recording coaching session notes, progress, and action items.',
+    category: 'progress-trackers',
+    content: `COACHING SESSION NOTES TEMPLATE
+
+SESSION INFORMATION
+==================
+Client Name: _______________________
+Session #: ________________________
+Date: _____________________________
+Time: Start: ______ End: ___________
+Duration: _________________________
+Session Type: ☐ In-Person ☐ Video ☐ Phone
+Coach: ____________________________
+
+PRE-SESSION PREPARATION
+======================
+☐ Reviewed previous session notes
+☐ Reviewed client's action items from last session
+☐ Prepared session materials/resources
+☐ Set up session environment
+☐ Confirmed technology (if virtual)
+
+Last Session Action Items Review:
+1. ________________________________
+   Status: ☐ Completed ☐ In Progress ☐ Not Started
+   
+2. ________________________________
+   Status: ☐ Completed ☐ In Progress ☐ Not Started
+   
+3. ________________________________
+   Status: ☐ Completed ☐ In Progress ☐ Not Started
+
+SESSION OPENING (5-10 minutes)
+=============================
+Client's Current State:
+Energy Level: ☐ High ☐ Medium ☐ Low
+Mood: _____________________________
+Recent Developments/Updates:
+_________________________________
+_________________________________
+
+What the client wants to focus on today:
+_________________________________
+_________________________________
+
+SESSION AGENDA
+=============
+Primary Focus Areas:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Time Allocation:
+Opening & Check-in: _____ minutes
+Focus Area 1: _____ minutes  
+Focus Area 2: _____ minutes
+Focus Area 3: _____ minutes
+Action Planning: _____ minutes
+Closing: _____ minutes
+
+DETAILED SESSION NOTES
+======================
+
+FOCUS AREA 1: ______________________
+Key Discussion Points:
+• ______________________________
+• ______________________________
+• ______________________________
+
+Insights/Breakthroughs:
+_________________________________
+_________________________________
+
+Questions Asked:
+• ______________________________
+• ______________________________
+• ______________________________
+
+Client's Responses/Realizations:
+_________________________________
+_________________________________
+
+FOCUS AREA 2: ______________________
+Key Discussion Points:
+• ______________________________
+• ______________________________
+• ______________________________
+
+Insights/Breakthroughs:
+_________________________________
+_________________________________
+
+Questions Asked:
+• ______________________________
+• ______________________________
+• ______________________________
+
+Client's Responses/Realizations:
+_________________________________
+_________________________________
+
+FOCUS AREA 3: ______________________
+Key Discussion Points:
+• ______________________________
+• ______________________________
+• ______________________________
+
+Insights/Breakthroughs:
+_________________________________
+_________________________________
+
+Questions Asked:
+• ______________________________
+• ______________________________
+• ______________________________
+
+Client's Responses/Realizations:
+_________________________________
+_________________________________
+
+COACHING TOOLS USED
+==================
+☐ GROW Model
+☐ Wheel of Life
+☐ Values Assessment
+☐ Goal Setting Framework
+☐ Visualization Exercise
+☐ Journaling/Reflection
+☐ Role Playing
+☐ Perspective Taking
+☐ Action Planning
+☐ Accountability Setup
+☐ Other: _______________
+
+Tools Effectiveness:
+Most Effective: ____________________
+Least Effective: ___________________
+Client's Preferred Approach: ________
+
+PROGRESS ASSESSMENT
+==================
+Progress on Current Goals:
+Goal 1: ___________________________
+Rating (1-10): _____
+Progress Since Last Session: ________
+
+Goal 2: ___________________________
+Rating (1-10): _____
+Progress Since Last Session: ________
+
+Goal 3: ___________________________
+Rating (1-10): _____
+Progress Since Last Session: ________
+
+Overall Session Rating:
+Client Engagement: ☐ High ☐ Medium ☐ Low
+Session Productivity: ☐ High ☐ Medium ☐ Low
+Client Satisfaction: ☐ High ☐ Medium ☐ Low
+
+CHALLENGES & OBSTACLES
+=====================
+Challenges Discussed:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Strategies Developed:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Resources Recommended:
+• ______________________________
+• ______________________________
+• ______________________________
+
+ACTION ITEMS FOR NEXT SESSION
+=============================
+Client Commitments:
+1. ______________________________
+   By When: ______________________
+   
+2. ______________________________
+   By When: ______________________
+   
+3. ______________________________
+   By When: ______________________
+
+Coach Follow-up Actions:
+☐ Send session summary
+☐ Provide resources discussed
+☐ Schedule next session
+☐ Send reminder about action items
+☐ Other: _______________
+
+OBSERVATIONS & INSIGHTS
+=======================
+Client's Communication Style:
+_________________________________
+
+Emotional State Throughout Session:
+_________________________________
+
+Recurring Patterns Noticed:
+_________________________________
+_________________________________
+
+Areas of Growth:
+_________________________________
+_________________________________
+
+Areas Needing More Support:
+_________________________________
+_________________________________
+
+CLIENT QUOTES
+=============
+Notable things the client said:
+"_______________________________"
+
+"_______________________________"
+
+"_______________________________"
+
+NEXT SESSION PLANNING
+====================
+Recommended Focus Areas:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Potential Tools/Approaches:
+_________________________________
+
+Materials to Prepare:
+_________________________________
+
+Follow-up Questions to Explore:
+• ______________________________
+• ______________________________
+• ______________________________
+
+SESSION CLOSING
+===============
+Client's Key Takeaways:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Client's Commitment Level (1-10): ____
+
+Energy/Motivation at End of Session:
+☐ Increased ☐ Same ☐ Decreased
+
+Next Session Scheduled:
+Date: ____________________________
+Time: ____________________________
+Format: ☐ In-Person ☐ Video ☐ Phone
+
+COACH REFLECTION
+================
+What went well in this session?
+_________________________________
+_________________________________
+
+What could have been better?
+_________________________________
+_________________________________
+
+Adjustments for future sessions:
+_________________________________
+_________________________________
+
+Professional development notes:
+_________________________________
+_________________________________
+
+CONFIDENTIALITY REMINDER
+========================
+All information in these notes is confidential and should be stored securely according to professional coaching standards and applicable privacy laws.
+
+Notes completed by: ________________
+Date: _____________________________
+Time: ____________________________`
+  },
+
+  {
+    slug: 'client-journey-map',
+    title: 'Client Journey Map',
+    description: 'Visual mapping tool to track the complete client experience from initial contact through coaching completion.',
+    category: 'progress-trackers',
+    content: `CLIENT JOURNEY MAP
+
+CLIENT INFORMATION
+==================
+Client Name: _______________________
+Journey Start Date: _______________
+Coach: ____________________________
+Current Phase: ____________________
+
+JOURNEY OVERVIEW
+===============
+Coaching Program: ___________________
+Total Duration: ____________________
+Number of Sessions: ________________
+Coaching Focus Areas:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+PHASE 1: DISCOVERY & INITIAL CONTACT
+===================================
+Date Range: From _______ To _______
+
+Touchpoints:
+☐ Website visit
+☐ Social media interaction
+☐ Referral conversation
+☐ Discovery call
+☐ Consultation session
+☐ Proposal/package discussion
+☐ Contract signing
+☐ Other: _______________
+
+Client's Initial State:
+Awareness Level: ☐ High ☐ Medium ☐ Low
+Motivation Level: ☐ High ☐ Medium ☐ Low
+Readiness for Change: ☐ High ☐ Medium ☐ Low
+
+Initial Goals Expressed:
+• ______________________________
+• ______________________________
+• ______________________________
+
+First Impressions:
+Client's Concerns: __________________
+Client's Expectations: ______________
+Coach's Observations: _______________
+
+Key Decisions Made:
+Coaching Package Selected: ___________
+Session Frequency: _________________
+Primary Focus Area: ________________
+
+PHASE 2: ONBOARDING & FOUNDATION
+================================
+Date Range: From _______ To _______
+
+Onboarding Activities:
+☐ Intake form completion
+☐ Assessment tools administered
+☐ Goal-setting session
+☐ Coaching agreement review
+☐ Expectation setting
+☐ Communication preferences established
+☐ First session completed
+
+Assessment Results:
+Tool 1: ___________________________
+Results: ___________________________
+
+Tool 2: ___________________________
+Results: ___________________________
+
+Established Goals:
+Primary Goal: ______________________
+Secondary Goals:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Foundation Building:
+Rapport Level: ☐ Strong ☐ Good ☐ Developing
+Trust Level: ☐ High ☐ Medium ☐ Building
+Communication Flow: ☐ Excellent ☐ Good ☐ Needs Work
+
+PHASE 3: ACTIVE COACHING JOURNEY
+===============================
+Date Range: From _______ To _______
+
+Session Progress Tracking:
+
+SESSION 1: ________________________
+Date: _____________________________
+Focus: ____________________________
+Key Insights: ______________________
+Action Items: ______________________
+Client Energy: ☐ High ☐ Medium ☐ Low
+
+SESSION 2: ________________________
+Date: _____________________________
+Focus: ____________________________
+Key Insights: ______________________
+Action Items: ______________________
+Client Energy: ☐ High ☐ Medium ☐ Low
+
+SESSION 3: ________________________
+Date: _____________________________
+Focus: ____________________________
+Key Insights: ______________________
+Action Items: ______________________
+Client Energy: ☐ High ☐ Medium ☐ Low
+
+SESSION 4: ________________________
+Date: _____________________________
+Focus: ____________________________
+Key Insights: ______________________
+Action Items: ______________________
+Client Energy: ☐ High ☐ Medium ☐ Low
+
+SESSION 5: ________________________
+Date: _____________________________
+Focus: ____________________________
+Key Insights: ______________________
+Action Items: ______________________
+Client Energy: ☐ High ☐ Medium ☐ Low
+
+SESSION 6: ________________________
+Date: _____________________________
+Focus: ____________________________
+Key Insights: ______________________
+Action Items: ______________________
+Client Energy: ☐ High ☐ Medium ☐ Low
+
+BREAKTHROUGH MOMENTS
+===================
+Session #: ________________________
+What Happened: ____________________
+___________________________________
+
+Impact on Client: __________________
+___________________________________
+
+Session #: ________________________
+What Happened: ____________________
+___________________________________
+
+Impact on Client: __________________
+___________________________________
+
+CHALLENGES & OBSTACLES
+=====================
+Challenge 1: _______________________
+When: _____________________________
+How Addressed: ____________________
+Outcome: __________________________
+
+Challenge 2: _______________________
+When: _____________________________
+How Addressed: ____________________
+Outcome: __________________________
+
+Challenge 3: _______________________
+When: _____________________________
+How Addressed: ____________________
+Outcome: __________________________
+
+PHASE 4: INTEGRATION & GROWTH
+=============================
+Date Range: From _______ To _______
+
+Skill Development Progress:
+Skill 1: ___________________________
+Initial Level (1-10): ______________
+Current Level (1-10): ______________
+
+Skill 2: ___________________________
+Initial Level (1-10): ______________
+Current Level (1-10): ______________
+
+Skill 3: ___________________________
+Initial Level (1-10): ______________
+Current Level (1-10): ______________
+
+Behavior Changes Observed:
+• ______________________________
+• ______________________________
+• ______________________________
+
+Mindset Shifts:
+• ______________________________
+• ______________________________
+• ______________________________
+
+PHASE 5: COMPLETION & TRANSITION
+================================
+Date Range: From _______ To _______
+
+Final Assessment:
+Goals Achievement Rating:
+Goal 1: _______ (% achieved)
+Goal 2: _______ (% achieved)
+Goal 3: _______ (% achieved)
+
+Overall Satisfaction: ☐ Excellent ☐ Good ☐ Fair ☐ Poor
+
+Transition Planning:
+☐ Self-coaching tools provided
+☐ Maintenance plan created
+☐ Follow-up sessions scheduled
+☐ Referrals made (if needed)
+☐ Resources for continued growth provided
+
+Client's Transformation Summary:
+Where they started: ________________
+___________________________________
+
+Where they ended: __________________
+___________________________________
+
+Biggest changes: ___________________
+___________________________________
+
+EMOTIONAL JOURNEY TRACKING
+=========================
+Map the client's emotional experience throughout:
+
+Phase 1 Emotions:
+☐ Excited ☐ Nervous ☐ Hopeful ☐ Skeptical ☐ Confused
+
+Phase 2 Emotions:
+☐ Motivated ☐ Overwhelmed ☐ Committed ☐ Uncertain ☐ Energized
+
+Phase 3 Emotions:
+☐ Frustrated ☐ Breakthrough ☐ Consistent ☐ Challenged ☐ Growing
+
+Phase 4 Emotions:
+☐ Confident ☐ Independent ☐ Accomplished ☐ Grateful ☐ Ready
+
+Phase 5 Emotions:
+☐ Proud ☐ Sad to end ☐ Equipped ☐ Transformed ☐ Empowered
+
+SUPPORT SYSTEM EVOLUTION
+========================
+Beginning Support System:
+Family: ___________________________
+Friends: __________________________
+Professional: _____________________
+Other: ____________________________
+
+Support System at End:
+Family: ___________________________
+Friends: __________________________
+Professional: _____________________
+Other: ____________________________
+
+Changes in Support System:
+___________________________________
+___________________________________
+
+TOOLS & RESOURCES IMPACT
+========================
+Most Effective Tools:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Least Effective Tools:
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Resources Client Found Most Helpful:
+___________________________________
+___________________________________
+
+CLIENT SUCCESS METRICS
+======================
+Quantitative Measures:
+Session Attendance: ____% (___/___sessions)
+Action Item Completion: ____% 
+Goal Achievement: ____% 
+Program Completion: ☐ Yes ☐ No
+
+Qualitative Measures:
+Self-Awareness Growth: ☐ Significant ☐ Moderate ☐ Minimal
+Confidence Increase: ☐ Significant ☐ Moderate ☐ Minimal
+Life Satisfaction: ☐ Much Higher ☐ Higher ☐ Same ☐ Lower
+
+POST-COACHING IMPACT
+===================
+3-Month Follow-up:
+Date: _____________________________
+Status of Goals: ___________________
+New Challenges: ____________________
+Continued Growth: ___________________
+
+6-Month Follow-up:
+Date: _____________________________
+Status of Goals: ___________________
+New Challenges: ____________________
+Continued Growth: ___________________
+
+LESSONS LEARNED
+===============
+For Coach:
+What worked well: __________________
+___________________________________
+
+What to improve: ___________________
+___________________________________
+
+Approach adjustments for similar clients:
+___________________________________
+___________________________________
+
+For Client (to share):
+Key insights to remember: ___________
+___________________________________
+
+Strategies to continue: _____________
+___________________________________
+
+REFERRAL & TESTIMONIAL
+======================
+Client Willing to Provide:
+☐ Testimonial
+☐ Case study participation
+☐ Referrals to friends/colleagues
+☐ LinkedIn recommendation
+☐ Online review
+
+Testimonial Text:
+"_______________________________
+___________________________________
+___________________________________"
+
+This journey map serves as a comprehensive record of the client's transformation and provides valuable insights for improving coaching effectiveness.`
+  },
+
+  {
+    slug: 'coaching-agreement-template',
+    title: 'Coaching Agreement Template',
+    description: 'Professional coaching agreement template covering terms, expectations, and legal protections.',
+    category: 'business-forms',
+    content: `COACHING AGREEMENT TEMPLATE
+
+COACHING SERVICES AGREEMENT
+
+This Coaching Agreement ("Agreement") is entered into on ____________ ("Effective Date") between:
+
+COACH:
+Name: _________________________
+Business Name: ________________
+Address: ______________________
+Phone: _______________________
+Email: _______________________
+
+CLIENT:
+Name: _________________________
+Address: ______________________
+Phone: _______________________
+Email: _______________________
+
+1. COACHING SERVICES
+===================
+The Coach agrees to provide professional coaching services to the Client. Coaching is a partnership that involves:
+- Supporting the Client in identifying and achieving personal and professional goals
+- Providing tools, techniques, and frameworks for personal development
+- Offering accountability and encouragement
+- Facilitating self-discovery and awareness
+
+Coaching is NOT:
+- Therapy, counseling, or psychological treatment
+- Medical or mental health advice
+- Business or legal consultation
+- A guarantee of specific outcomes
+
+2. COACHING PROCESS
+==================
+Sessions will be conducted:
+☐ In person at: _______________
+☐ Via video call (Zoom/Teams/etc.)
+☐ Via telephone
+☐ Combination of above
+
+Session frequency: ☐ Weekly ☐ Bi-weekly ☐ Monthly
+Session duration: ☐ 45 minutes ☐ 60 minutes ☐ 90 minutes
+Total number of sessions: _____
+Program duration: _____________
+
+3. FEES AND PAYMENT
+==================
+Coaching Fee Structure:
+☐ Per session: $_______ per session
+☐ Package rate: $_______ for _____ sessions
+☐ Monthly retainer: $_______ per month
+☐ Other: _______________
+
+Payment Terms:
+☐ Payment due before each session
+☐ Payment due at beginning of each month
+☐ Payment due in full upon signing
+☐ Payment plan: _______________
+
+Payment Methods Accepted:
+☐ Cash ☐ Check ☐ Credit Card ☐ Bank Transfer ☐ PayPal ☐ Other: _______
+
+Late Payment: A fee of $_____ will be charged for payments more than _____ days late.
+
+4. SCHEDULING AND CANCELLATION
+=============================
+Session Scheduling:
+Sessions will be scheduled by mutual agreement. The Client is responsible for being punctual and prepared for each session.
+
+Cancellation Policy:
+- Client must provide at least _____ hours notice to cancel or reschedule
+- Sessions cancelled with less than required notice will be charged in full
+- Coach will provide 24 hours notice for any schedule changes
+- Emergency situations will be handled with flexibility
+
+Missed Sessions:
+Missed sessions without proper notice are forfeited and non-refundable.
+
+5. CLIENT RESPONSIBILITIES
+=========================
+The Client agrees to:
+☐ Be fully committed to the coaching process
+☐ Be honest and open in all communications
+☐ Complete agreed-upon action items between sessions
+☐ Come prepared to each session with agenda items
+☐ Take responsibility for their own decisions and actions
+☐ Notify Coach of any significant life changes that may impact coaching
+☐ Maintain confidentiality regarding Coach's methods and materials
+
+6. COACH RESPONSIBILITIES
+========================
+The Coach agrees to:
+☐ Maintain professional standards and ethics
+☐ Be punctual and prepared for each session
+☐ Provide a safe, supportive environment for growth
+☐ Respect Client's autonomy and decision-making authority
+☐ Maintain confidentiality as outlined in this agreement
+☐ Refer Client to appropriate professionals when needed
+☐ Continue professional development and training
+
+7. CONFIDENTIALITY
+=================
+All information shared during coaching sessions is confidential and will not be disclosed without written consent, except:
+- When required by law
+- When there is imminent danger to self or others
+- When professional consultation is needed (identity will be protected)
+
+The Client consents to Coach taking notes during sessions for coaching purposes only.
+
+8. BOUNDARIES AND LIMITATIONS
+============================
+- Coaching sessions will focus on agreed-upon topics and goals
+- Personal relationships outside of coaching are discouraged
+- Coach is not available for crisis intervention or emergency support
+- Coach will refer Client to appropriate mental health professionals if needed
+- All communication should occur during business hours unless otherwise arranged
+
+9. TECHNOLOGY AND COMMUNICATION
+==============================
+Between-session communication:
+☐ Email check-ins included
+☐ Text message reminders allowed
+☐ No contact between sessions
+☐ Emergency contact protocol: _______________
+
+Technology requirements for virtual sessions:
+- Reliable internet connection
+- Private, quiet environment
+- Backup communication method
+
+10. TERMINATION
+==============
+Either party may terminate this agreement with _____ days written notice.
+
+Grounds for immediate termination:
+- Violation of confidentiality
+- Inappropriate behavior or harassment
+- Non-payment of fees
+- Client no-shows for consecutive sessions without communication
+
+Upon termination:
+- All outstanding fees are due immediately
+- Confidentiality obligations continue
+- Coach will provide summary of progress if requested
+
+11. REFUND POLICY
+================
+☐ No refunds on services rendered
+☐ Pro-rated refunds for unused sessions in packages
+☐ Full refund available within _____ days of purchase
+☐ Other: _______________
+
+12. LIABILITY AND DISCLAIMER
+===========================
+The Client understands that:
+- Coaching involves risk and no specific outcomes are guaranteed
+- The Client is fully responsible for their decisions and actions
+- The Coach is not liable for any consequences of Client's choices
+- The Client releases Coach from any claims related to coaching services
+
+The Coach's liability is limited to the amount of fees paid by the Client.
+
+13. DISPUTE RESOLUTION
+=====================
+Any disputes will be resolved through:
+☐ Direct negotiation
+☐ Mediation
+☐ Binding arbitration
+☐ Court jurisdiction in [Location]: _______________
+
+14. ADDITIONAL TERMS
+===================
+Special arrangements or additional terms:
+_________________________________
+_________________________________
+_________________________________
+
+15. AGREEMENT TO TERMS
+=====================
+By signing below, both parties acknowledge they have read, understood, and agree to all terms and conditions of this Coaching Agreement.
+
+This agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, or agreements.
+
+CLIENT SIGNATURE: _________________________ DATE: _________
+Print Name: _________________________
+
+COACH SIGNATURE: _________________________ DATE: _________
+Print Name: _________________________
+
+WITNESS (if required): _________________________ DATE: _________
+Print Name: _________________________
+
+This agreement is governed by the laws of [State/Province]: _______________
+
+For questions about this agreement, contact:
+Coach Email: _________________________
+Coach Phone: _________________________`
+  },
+
+  {
+    slug: 'service-proposal-template',
+    title: 'Service Proposal Template',
+    description: 'Professional proposal template for presenting coaching services to potential clients.',
+    category: 'business-forms',
+    content: `COACHING SERVICE PROPOSAL
+
+PROPOSAL HEADER
+===============
+To: _______________________________
+From: _____________________________
+Date: _____________________________
+Proposal #: _______________________
+Valid Until: ______________________
+
+EXECUTIVE SUMMARY
+================
+Thank you for your interest in coaching services. This proposal outlines a customized coaching program designed specifically for your needs and goals.
+
+Based on our discovery conversation, I understand that you are looking to:
+• ______________________________
+• ______________________________
+• ______________________________
+
+I believe coaching will provide you with the clarity, accountability, and support needed to achieve these outcomes.
+
+YOUR CURRENT SITUATION
+======================
+What you shared about where you are now:
+___________________________________
+___________________________________
+
+What you want to achieve:
+___________________________________
+___________________________________
+
+The gap between current state and desired outcome:
+___________________________________
+___________________________________
+
+PROPOSED COACHING PROGRAM
+========================
+
+Program Name: ______________________
+Duration: __________________________
+Total Sessions: ___________________
+Session Length: ___________________
+Session Frequency: ________________
+
+PROGRAM OBJECTIVES
+=================
+By the end of this coaching engagement, you will:
+
+1. ______________________________
+2. ______________________________
+3. ______________________________
+4. ______________________________
+
+SUCCESS METRICS
+===============
+We will measure success by:
+• ______________________________
+• ______________________________
+• ______________________________
+
+COACHING METHODOLOGY
+===================
+My coaching approach combines:
+
+☐ Goal-setting and action planning
+☐ Accountability and progress tracking
+☐ Strengths identification and development
+☐ Obstacle identification and problem-solving
+☐ Mindset and perspective work
+☐ Skill building and practice
+☐ Reflection and self-awareness development
+
+Specific frameworks we'll use:
+• ______________________________
+• ______________________________
+• ______________________________
+
+PROGRAM STRUCTURE
+================
+
+PHASE 1: FOUNDATION (Sessions 1-2)
+- Complete comprehensive intake assessment
+- Clarify vision and goals
+- Establish coaching agreement and expectations
+- Create initial action plan
+
+PHASE 2: MOMENTUM (Sessions 3-6)
+- Dive deep into primary focus areas
+- Build essential skills and habits
+- Address obstacles and limiting beliefs
+- Develop accountability systems
+
+PHASE 3: ACCELERATION (Sessions 7-10)
+- Refine strategies based on early results
+- Tackle more complex challenges
+- Expand comfort zone and capabilities
+- Strengthen new behaviors and mindsets
+
+PHASE 4: INTEGRATION (Sessions 11-12)
+- Consolidate learning and growth
+- Plan for sustained progress beyond coaching
+- Develop self-coaching capabilities
+- Celebrate achievements and plan next steps
+
+WHAT'S INCLUDED
+===============
+☐ __ individual coaching sessions (__ minutes each)
+☐ Comprehensive intake assessment
+☐ Goal-setting and action planning worksheets
+☐ Progress tracking tools and templates
+☐ Email support between sessions
+☐ Resource recommendations and materials
+☐ Session summaries and notes
+☐ Final progress review and future planning session
+
+OPTIONAL ADD-ONS
+===============
+☐ Additional sessions: $____ per session
+☐ Personality/Strengths assessment: $____
+☐ 360-degree feedback process: $____
+☐ Monthly check-ins for 3 months post-program: $____
+☐ Group coaching component: $____
+☐ Workshop or training session: $____
+
+INVESTMENT
+==========
+Program Fee: $_____________________
+
+Payment Options:
+☐ Pay in full: $_______ (save $____)
+☐ Two payments: $_______ each
+☐ Monthly payments: $_______ x __ months
+☐ Per session: $_______ each
+
+Payment Methods Accepted:
+☐ Credit card ☐ Bank transfer ☐ Check ☐ PayPal
+
+Payment Schedule:
+First payment due: _________________
+Subsequent payments: _______________
+
+COACHING AGREEMENT HIGHLIGHTS
+============================
+• Sessions are scheduled by mutual agreement
+• 24-hour cancellation notice required
+• Confidentiality is maintained according to coaching standards
+• Client is responsible for implementing action items
+• Coach provides support, guidance, and accountability
+• Either party may terminate with reasonable notice
+
+GETTING STARTED
+===============
+To begin your coaching journey:
+
+1. Review and sign the attached coaching agreement
+2. Submit your first payment
+3. Complete the intake assessment
+4. Schedule your first session
+
+Timeline:
+Week 1: Complete paperwork and assessment
+Week 2: First coaching session
+Ongoing: Regular sessions as scheduled
+
+YOUR COACH
+==========
+Brief bio and relevant credentials:
+___________________________________
+___________________________________
+
+Relevant experience:
+___________________________________
+___________________________________
+
+Coaching philosophy:
+___________________________________
+___________________________________
+
+CLIENT SUCCESS STORIES
+======================
+"[Testimonial from similar client about results achieved]"
+- Client Name, Title
+
+"[Another relevant testimonial]"
+- Client Name, Title
+
+FREQUENTLY ASKED QUESTIONS
+=========================
+
+Q: What if I need to reschedule a session?
+A: ______________________________
+
+Q: What happens if I miss a session?
+A: ______________________________
+
+Q: Can I contact you between sessions?
+A: ______________________________
+
+Q: What if I need additional sessions?
+A: ______________________________
+
+Q: Do you offer any guarantees?
+A: ______________________________
+
+NEXT STEPS
+==========
+I'm excited about the possibility of working together. This proposal is valid until [date]. To accept:
+
+1. Sign and return the coaching agreement
+2. Submit your first payment
+3. Schedule your first session
+
+If you have any questions or would like to discuss modifications to this proposal, please don't hesitate to contact me.
+
+CONTACT INFORMATION
+==================
+Name: _____________________________
+Phone: ___________________________
+Email: ___________________________
+Website: _________________________
+
+AUTHORIZATION
+=============
+Client Acceptance:
+
+I accept this proposal and agree to the terms outlined above.
+
+Client Signature: __________________
+Print Name: _______________________
+Date: _____________________________
+
+Coach Authorization:
+
+Coach Signature: ___________________
+Print Name: _______________________
+Date: _____________________________
+
+This proposal serves as a preliminary agreement. A detailed coaching agreement will be executed upon acceptance.`
+  },
+
+  // Add additional missing templates
+  {
+    slug: 'pricing-calculator',
+    title: 'Pricing Calculator',
+    description: 'Comprehensive worksheet to calculate coaching rates and package pricing based on value, market, and costs.',
+    category: 'business-forms',
+    content: `COACHING PRICING CALCULATOR
+
+COACH INFORMATION
+================
+Name: _____________________________
+Business Name: ____________________
+Date: _____________________________
+Location: _________________________
+
+MARKET RESEARCH
+===============
+Research at least 3-5 coaches in your area or niche:
+
+Competitor 1:
+Name/Business: ____________________
+Services: _________________________
+Price Range: ______________________
+Session Length: ___________________
+Package Options: __________________
+
+Competitor 2:
+Name/Business: ____________________
+Services: _________________________
+Price Range: ______________________
+Session Length: ___________________
+Package Options: __________________
+
+Competitor 3:
+Name/Business: ____________________
+Services: _________________________
+Price Range: ______________________
+Session Length: ___________________
+Package Options: __________________
+
+Market Average Price Range:
+Low: $_______ Mid: $_______ High: $_______
+
+COST ANALYSIS
+=============
+Calculate your monthly business expenses:
+
+BUSINESS EXPENSES (Monthly):
+Office/Space Rent: $_______________
+Phone/Internet: $__________________
+Website/Technology: $______________
+Insurance: $______________________
+Professional Development: $_________
+Marketing/Advertising: $___________
+Business Licenses: $_______________
+Accounting/Legal: $_________________
+Equipment/Supplies: $______________
+Other Expenses: $__________________
+
+Total Monthly Expenses: $___________
+
+PERSONAL EXPENSES (Monthly):
+Housing: $________________________
+Food: $___________________________
+Transportation: $__________________
+Healthcare: $______________________
+Personal Insurance: $______________
+Savings/Retirement: $______________
+Personal/Family: $__________________
+Other Living Expenses: $____________
+
+Total Monthly Personal: $___________
+
+TOTAL MONTHLY NEEDS: $______________
+
+VALUE ASSESSMENT
+================
+Rate your value factors (1-10 scale):
+
+Experience Level: ___/10
+Years coaching: ___________________
+Previous career experience: ________
+
+Education & Credentials: ___/10
+Degrees: __________________________
+Certifications: ___________________
+Specialized training: ______________
+
+Specialization/Niche: ___/10
+Specific expertise in: _____________
+Unique approach/methods: ____________
+
+Results/Success Rate: ___/10
+Client success stories: ____________
+Testimonials/referrals: ____________
+
+Personal Brand/Reputation: ___/10
+Online presence: ___________________
+Speaking/writing: __________________
+
+Total Value Score: ____/50
+
+VALUE MULTIPLIER:
+0-20 points: 0.8x market rate
+21-30 points: 1.0x market rate
+31-40 points: 1.2x market rate
+41-50 points: 1.5x market rate
+
+INCOME GOALS
+============
+Desired Annual Income: $____________
+Desired Monthly Income: $___________
+
+Working Schedule:
+Sessions per day: _________________
+Days per week: ____________________
+Weeks per year: ___________________
+(Account for vacation, holidays, sick days)
+
+Total Sessions per Year: ___________
+
+TARGET SESSION RATE CALCULATION
+===============================
+Method 1: Income-Based
+Monthly Income Goal: $______________
+Sessions per Month: _______________
+Required Rate per Session: $________
+
+Method 2: Cost-Plus
+Monthly Expenses: $________________
+Desired Profit: $__________________
+Sessions per Month: _______________
+Required Rate per Session: $________
+
+Method 3: Market-Based
+Market Average: $__________________
+Your Value Multiplier: ____________
+Suggested Rate: $__________________
+
+RECOMMENDED SESSION RATE: $__________
+
+PACKAGE PRICING
+===============
+Single Session Rate: $______________
+
+3-Session Package:
+Individual rate: $__________________
+Package discount: ____%
+Package price: $___________________
+Savings for client: $______________
+
+6-Session Package:
+Individual rate: $__________________
+Package discount: ____%
+Package price: $___________________
+Savings for client: $______________
+
+12-Session Package:
+Individual rate: $__________________
+Package discount: ____%
+Package price: $___________________
+Savings for client: $______________
+
+SPECIALIZED PROGRAMS
+===================
+Program Name: ______________________
+Duration: __________________________
+Number of Sessions: _______________
+Additional Components:
+☐ Workbooks/Materials
+☐ Email Support
+☐ Group Sessions
+☐ Assessments
+☐ Follow-up Check-ins
+
+Base Session Value: $_______________
+Additional Value: $________________
+Total Program Price: $______________
+
+PAYMENT OPTIONS
+===============
+Option 1: Pay in Full
+Full Price: $______________________
+Discount: ____% = $________________
+Final Price: $____________________
+
+Option 2: Payment Plan
+Number of Payments: _______________
+Payment Amount: $__________________
+Total with Plan: $________________
+Processing Fee: $__________________
+
+DIFFERENT MARKET SEGMENTS
+=========================
+Individual Clients:
+Session Rate: $____________________
+Package Rates: $___________________
+
+Corporate Clients:
+Hourly Rate: $____________________
+Day Rate: $______________________
+Project Rate: $___________________
+
+Group Coaching:
+Rate per Person: $________________
+Minimum Group Size: ______________
+Maximum Group Size: ______________
+
+TESTING AND ADJUSTMENTS
+=======================
+Initial Pricing Test:
+Start Date: ______________________
+Test Rate: $____________________
+Number of Inquiries: ______________
+Conversion Rate: ____%
+Feedback Received: ________________
+
+Adjustment 1:
+New Rate: $_______________________
+Date Changed: ____________________
+Results: _________________________
+
+Adjustment 2:
+New Rate: $_______________________
+Date Changed: ____________________
+Results: _________________________
+
+PRICING STRATEGY
+================
+Positioning Strategy:
+☐ Premium/High-end
+☐ Mid-market/Competitive
+☐ Value/Budget-friendly
+☐ Introductory/Building client base
+
+Pricing Justification:
+What makes your coaching worth the price?
+• ______________________________
+• ______________________________
+• ______________________________
+
+Value Communication:
+How will you communicate your value to prospects?
+___________________________________
+___________________________________
+
+SEASONAL ADJUSTMENTS
+===================
+Peak Season Rates (if applicable):
+Months: ___________________________
+Rate Increase: ____%
+Justification: ____________________
+
+Off-Season Rates (if applicable):
+Months: ___________________________
+Rate Decrease/Promotion: ___%
+Justification: ____________________
+
+REVIEW SCHEDULE
+===============
+Pricing Review Dates:
+Quarterly Review: __________________
+Annual Review: ____________________
+
+Factors to Consider in Reviews:
+☐ Cost of living changes
+☐ Experience gained
+☐ Market rate changes
+☐ Demand for services
+☐ Additional qualifications
+☐ Business growth
+
+FINAL PRICING DECISION
+======================
+Chosen Session Rate: $______________
+Chosen Package Options:
+3 Sessions: $______________________
+6 Sessions: $______________________
+12 Sessions: $____________________
+
+Confidence Level (1-10): ___________
+
+Implementation Date: _______________
+
+Notes:
+___________________________________
+___________________________________
+
+Remember: Pricing is not permanent. Start with rates that feel sustainable and adjust as you gain experience and confidence. Your rates should reflect the value you provide and support your business and personal financial goals.`
+  },
+
+  {
+    slug: 'client-feedback-survey',
+    title: 'Client Feedback Survey',
+    description: 'Comprehensive survey template to gather client feedback and measure coaching effectiveness.',
+    category: 'business-forms',
+    content: `CLIENT FEEDBACK SURVEY
+
+SURVEY INFORMATION
+==================
+Client Name: _______________________
+Program/Service: ___________________
+Start Date: _______________________
+Completion Date: __________________
+Coach: ____________________________
+Survey Date: ______________________
+
+OVERALL SATISFACTION
+===================
+1. Overall, how satisfied are you with your coaching experience?
+☐ Extremely satisfied
+☐ Very satisfied  
+☐ Satisfied
+☐ Somewhat satisfied
+☐ Not satisfied
+
+Please explain your rating:
+___________________________________
+___________________________________
+
+2. How likely are you to recommend our coaching services to others?
+0 ── 1 ── 2 ── 3 ── 4 ── 5 ── 6 ── 7 ── 8 ── 9 ── 10
+(0 = Not at all likely, 10 = Extremely likely)
+
+What's the primary reason for your score?
+___________________________________
+___________________________________
+
+GOAL ACHIEVEMENT
+================
+3. To what extent did coaching help you achieve your goals?
+☐ Exceeded my expectations
+☐ Met my expectations
+☐ Mostly met my expectations
+☐ Partially met my expectations
+☐ Did not meet my expectations
+
+4. Rate your progress in each goal area (1-10 scale):
+
+Goal 1: ___________________________
+Progress Rating: ___/10
+Comments: _________________________
+
+Goal 2: ___________________________
+Progress Rating: ___/10
+Comments: _________________________
+
+Goal 3: ___________________________
+Progress Rating: ___/10
+Comments: _________________________
+
+5. What was your biggest achievement or breakthrough during coaching?
+___________________________________
+___________________________________
+
+COACHING PROCESS
+================
+6. How would you rate the following aspects of your coaching experience?
+
+Coach's communication skills:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Coach's listening skills:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Coach's ability to ask powerful questions:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Coach's support and encouragement:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Coach's expertise and knowledge:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Session structure and organization:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Follow-up between sessions:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+7. Which coaching tools or techniques were most helpful?
+☐ Goal setting
+☐ Action planning
+☐ Accountability check-ins
+☐ Reflection exercises
+☐ Assessment tools
+☐ Visualization techniques
+☐ Challenging questions
+☐ Reframing perspectives
+☐ Other: _______________
+
+PROGRAM LOGISTICS
+================
+8. How was the session frequency for your needs?
+☐ Too frequent
+☐ Just right
+☐ Too infrequent
+
+9. How was the session length?
+☐ Too long
+☐ Just right
+☐ Too short
+
+10. How was the program duration?
+☐ Too long
+☐ Just right  
+☐ Too short
+
+11. Rate the scheduling and logistics:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Comments: _________________________
+
+VALUE AND INVESTMENT
+===================
+12. Do you feel the coaching provided good value for your investment?
+☐ Excellent value
+☐ Good value
+☐ Fair value
+☐ Poor value
+☐ Very poor value
+
+13. How do the results you achieved compare to your investment?
+☐ Results far exceeded investment
+☐ Results exceeded investment
+☐ Results matched investment
+☐ Results somewhat below investment
+☐ Results far below investment
+
+PERSONAL IMPACT
+===============
+14. How has coaching impacted different areas of your life?
+
+Self-awareness:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+Confidence:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+Motivation:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+Goal clarity:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+Action-taking ability:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+Life satisfaction:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+15. What specific skills or insights did you gain?
+___________________________________
+___________________________________
+
+16. How likely are you to continue using what you learned?
+☐ Extremely likely
+☐ Very likely
+☐ Likely
+☐ Somewhat likely
+☐ Not likely
+
+IMPROVEMENT SUGGESTIONS
+======================
+17. What could have made your coaching experience better?
+___________________________________
+___________________________________
+
+18. What would you like to see added to the coaching program?
+___________________________________
+___________________________________
+
+19. What would you like to see removed or changed?
+___________________________________
+___________________________________
+
+20. Any suggestions for improvement in:
+
+Communication:
+___________________________________
+
+Session structure:
+___________________________________
+
+Materials/resources:
+___________________________________
+
+Follow-up support:
+___________________________________
+
+TESTIMONIAL AND REFERRALS
+=========================
+21. Would you be willing to provide a testimonial about your experience?
+☐ Yes ☐ No ☐ Maybe
+
+If yes, please write a brief testimonial:
+"_________________________________
+___________________________________
+___________________________________"
+
+22. May we use your name with your testimonial?
+☐ Yes, use my full name
+☐ Yes, use first name and last initial
+☐ Yes, but keep anonymous
+☐ No
+
+23. Would you be comfortable referring others to our coaching services?
+☐ Yes, definitely
+☐ Yes, probably
+☐ Maybe
+☐ Probably not
+☐ Definitely not
+
+FUTURE SERVICES
+===============
+24. Are you interested in any additional services?
+☐ Additional coaching sessions
+☐ Group coaching programs
+☐ Workshops or seminars
+☐ Online courses
+☐ Maintenance/check-in sessions
+☐ None at this time
+
+25. What topics would you be interested in for future coaching?
+___________________________________
+___________________________________
+
+26. What's the best way to stay in touch?
+☐ Email newsletter
+☐ Social media
+☐ Periodic check-in calls
+☐ No ongoing contact preferred
+
+FINAL THOUGHTS
+==============
+27. What would you tell someone considering working with this coach?
+___________________________________
+___________________________________
+
+28. Is there anything else you'd like to share about your coaching experience?
+___________________________________
+___________________________________
+
+29. One word to describe your coaching experience:
+___________________________________
+
+DEMOGRAPHICS (Optional)
+======================
+Age Range:
+☐ 18-25 ☐ 26-35 ☐ 36-45 ☐ 46-55 ☐ 56-65 ☐ 65+
+
+How did you find out about our coaching services?
+☐ Referral from friend/colleague
+☐ Online search
+☐ Social media
+☐ Professional network
+☐ Website
+☐ Advertisement
+☐ Other: _______________
+
+FOLLOW-UP PERMISSION
+===================
+☐ Yes, you may contact me for follow-up questions about this survey
+☐ Yes, you may contact me for a brief interview about my experience
+☐ No, please do not contact me for follow-up
+
+Thank you for taking the time to provide this valuable feedback. Your responses help us continuously improve our coaching services and better serve future clients.
+
+Survey completed by: _______________
+Date: _____________________________
+Submission method: ☐ Email ☐ Online ☐ Phone ☐ In-person`
+  },
+
+  {
+    slug: 'values-clarification-exercise',
+    title: 'Values Clarification Exercise',
+    description: 'Interactive assessment to help clients identify and prioritize their core values for aligned decision-making.',
+    category: 'assessment-tools',
+    content: `VALUES CLARIFICATION EXERCISE
+
+INTRODUCTION
+============
+Your values are your core beliefs and principles that guide your decisions and behavior. When your life and goals align with your values, you experience greater satisfaction, motivation, and authenticity. This exercise will help you identify and prioritize your most important values.
+
+CLIENT INFORMATION
+==================
+Name: _____________________________
+Date: _____________________________
+Coach: ____________________________
+Session/Context: __________________
+
+PART 1: VALUES IDENTIFICATION
+=============================
+
+INSTRUCTIONS: Read through the values list below. Circle or check all values that resonate with you. Don't overthink it - go with your initial reaction.
+
+ACHIEVEMENT & SUCCESS
+☐ Accomplishment
+☐ Excellence
+☐ Recognition
+☐ Success
+☐ Winning
+☐ Mastery
+☐ Competence
+☐ Influence
+☐ Power
+☐ Leadership
+
+RELATIONSHIPS & CONNECTION
+☐ Love
+☐ Family
+☐ Friendship
+☐ Community
+☐ Belonging
+☐ Intimacy
+☐ Companionship
+☐ Loyalty
+☐ Trust
+☐ Collaboration
+
+PERSONAL GROWTH
+☐ Learning
+☐ Wisdom
+☐ Self-improvement
+☐ Consciousness
+☐ Spirituality
+☐ Inner peace
+☐ Mindfulness
+☐ Authenticity
+☐ Self-awareness
+☐ Personal development
+
+CONTRIBUTION & SERVICE
+☐ Service
+☐ Helping others
+☐ Making a difference
+☐ Social justice
+☐ Equality
+☐ Compassion
+☐ Generosity
+☐ Charity
+☐ Volunteering
+☐ Legacy
+
+FREEDOM & INDEPENDENCE
+☐ Freedom
+☐ Independence
+☐ Autonomy
+☐ Choice
+☐ Flexibility
+☐ Self-direction
+☐ Liberation
+☐ Non-conformity
+☐ Spontaneity
+☐ Adventure
+
+SECURITY & STABILITY
+☐ Security
+☐ Stability
+☐ Safety
+☐ Consistency
+☐ Predictability
+☐ Order
+☐ Structure
+☐ Financial security
+☐ Health
+☐ Peace
+
+CREATIVITY & EXPRESSION
+☐ Creativity
+☐ Art
+☐ Beauty
+☐ Innovation
+☐ Originality
+☐ Self-expression
+☐ Imagination
+☐ Inspiration
+☐ Design
+☐ Music
+
+PLEASURE & ENJOYMENT
+☐ Fun
+☐ Pleasure
+☐ Joy
+☐ Happiness
+☐ Humor
+☐ Play
+☐ Entertainment
+☐ Leisure
+☐ Relaxation
+☐ Celebration
+
+INTEGRITY & MORALITY
+☐ Honesty
+☐ Integrity
+☐ Truth
+☐ Justice
+☐ Fairness
+☐ Ethics
+☐ Morality
+☐ Principles
+☐ Honor
+☐ Responsibility
+
+CHALLENGE & GROWTH
+☐ Challenge
+☐ Risk-taking
+☐ Courage
+☐ Resilience
+☐ Perseverance
+☐ Determination
+☐ Growth
+☐ Change
+☐ Progress
+☐ Achievement
+
+OTHER VALUES
+☐ Nature
+☐ Environment
+☐ Health
+☐ Fitness
+☐ Knowledge
+☐ Education
+☐ Tradition
+☐ Culture
+☐ Diversity
+☐ Technology
+
+Add any values not listed:
+☐ _____________________________
+☐ _____________________________
+☐ _____________________________
+
+PART 2: VALUES REFINEMENT
+=========================
+
+From your selections above, write down your top 15 values:
+
+1. _____________________________
+2. _____________________________
+3. _____________________________
+4. _____________________________
+5. _____________________________
+6. _____________________________
+7. _____________________________
+8. _____________________________
+9. _____________________________
+10. ____________________________
+11. ____________________________
+12. ____________________________
+13. ____________________________
+14. ____________________________
+15. ____________________________
+
+PART 3: VALUES PRIORITIZATION
+=============================
+
+Now narrow down to your TOP 10 values. This requires difficult choices - consider which values are absolutely essential to who you are:
+
+1. _____________________________
+2. _____________________________
+3. _____________________________
+4. _____________________________
+5. _____________________________
+6. _____________________________
+7. _____________________________
+8. _____________________________
+9. _____________________________
+10. ____________________________
+
+PART 4: CORE VALUES SELECTION
+=============================
+
+Finally, identify your TOP 5 CORE VALUES. These are the values that define you at your deepest level:
+
+CORE VALUE #1: _____________________
+Why this is essential to you:
+___________________________________
+___________________________________
+
+CORE VALUE #2: _____________________
+Why this is essential to you:
+___________________________________
+___________________________________
+
+CORE VALUE #3: _____________________
+Why this is essential to you:
+___________________________________
+___________________________________
+
+CORE VALUE #4: _____________________
+Why this is essential to you:
+___________________________________
+___________________________________
+
+CORE VALUE #5: _____________________
+Why this is essential to you:
+___________________________________
+___________________________________
+
+PART 5: VALUES DEFINITION
+=========================
+
+For each core value, write your personal definition:
+
+VALUE 1: ___________________________
+My definition:
+___________________________________
+___________________________________
+
+VALUE 2: ___________________________
+My definition:
+___________________________________
+___________________________________
+
+VALUE 3: ___________________________
+My definition:
+___________________________________
+___________________________________
+
+VALUE 4: ___________________________
+My definition:
+___________________________________
+___________________________________
+
+VALUE 5: ___________________________
+My definition:
+___________________________________
+___________________________________
+
+PART 6: VALUES IN ACTION
+=======================
+
+For each core value, identify how it shows up in your life:
+
+VALUE 1: ___________________________
+How I currently honor this value:
+___________________________________
+___________________________________
+
+How I could honor it more:
+___________________________________
+___________________________________
+
+VALUE 2: ___________________________
+How I currently honor this value:
+___________________________________
+___________________________________
+
+How I could honor it more:
+___________________________________
+___________________________________
+
+VALUE 3: ___________________________
+How I currently honor this value:
+___________________________________
+___________________________________
+
+How I could honor it more:
+___________________________________
+___________________________________
+
+VALUE 4: ___________________________
+How I currently honor this value:
+___________________________________
+___________________________________
+
+How I could honor it more:
+___________________________________
+___________________________________
+
+VALUE 5: ___________________________
+How I currently honor this value:
+___________________________________
+___________________________________
+
+How I could honor it more:
+___________________________________
+___________________________________
+
+PART 7: VALUES CONFLICTS
+========================
+
+Sometimes values can conflict with each other. Identify any potential conflicts:
+
+Potential Conflict 1:
+Value A: ___________________________
+Value B: ___________________________
+How they might conflict:
+___________________________________
+
+How to balance them:
+___________________________________
+
+Potential Conflict 2:
+Value A: ___________________________
+Value B: ___________________________
+How they might conflict:
+___________________________________
+
+How to balance them:
+___________________________________
+
+PART 8: VALUES ALIGNMENT ASSESSMENT
+===================================
+
+Rate how well your current life aligns with each core value (1-10):
+
+VALUE 1: ___________________________ Rating: ___/10
+What's working: ____________________
+What needs to change: ______________
+
+VALUE 2: ___________________________ Rating: ___/10
+What's working: ____________________
+What needs to change: ______________
+
+VALUE 3: ___________________________ Rating: ___/10
+What's working: ____________________
+What needs to change: ______________
+
+VALUE 4: ___________________________ Rating: ___/10
+What's working: ____________________
+What needs to change: ______________
+
+VALUE 5: ___________________________ Rating: ___/10
+What's working: ____________________
+What needs to change: ______________
+
+OVERALL VALUES ALIGNMENT: ___/10
+
+PART 9: ACTION PLANNING
+======================
+
+Based on your assessment, what changes could you make to better align with your values?
+
+IMMEDIATE ACTIONS (Next 30 days):
+1. _______________________________
+2. _______________________________
+3. _______________________________
+
+SHORT-TERM CHANGES (Next 3-6 months):
+1. _______________________________
+2. _______________________________
+3. _______________________________
+
+LONG-TERM ALIGNMENT (Next 1-2 years):
+1. _______________________________
+2. _______________________________
+3. _______________________________
+
+PART 10: DECISION-MAKING FRAMEWORK
+==================================
+
+Use your core values to guide future decisions:
+
+When facing a decision, ask yourself:
+• Which option best honors my core values?
+• Will this choice move me toward or away from my values?
+• How can I integrate my values into this situation?
+• What would I do if I were living my values fully?
+
+VALUES-BASED DECISION TEMPLATE:
+Decision to make: ___________________
+
+Option 1: ___________________________
+Values alignment score (1-10): _____
+How it honors my values: ____________
+
+Option 2: ___________________________
+Values alignment score (1-10): _____
+How it honors my values: ____________
+
+Recommended choice: _________________
+Reason: ____________________________
+
+REFLECTION QUESTIONS
+===================
+
+1. What surprised you about your core values?
+___________________________________
+___________________________________
+
+2. How do your values influence your goals?
+___________________________________
+___________________________________
+
+3. When do you feel most authentic and aligned?
+___________________________________
+___________________________________
+
+4. What happens when you act against your values?
+___________________________________
+___________________________________
+
+5. How might understanding your values change your life?
+___________________________________
+___________________________________
+
+Remember: Values clarification is an ongoing process. Your values may evolve as you grow and change. Revisit this exercise periodically to ensure your life remains aligned with what matters most to you.`
+  },
+
+  // Add marketing templates
+  {
+    slug: 'email-sequence-templates',
+    title: 'Email Sequence Templates',
+    description: 'Ready-to-use email sequences for coaching business including welcome series, nurture campaigns, and client onboarding.',
+    category: 'marketing-tools',
+    content: `EMAIL SEQUENCE TEMPLATES FOR COACHES
+
+TEMPLATE COLLECTION OVERVIEW
+============================
+This collection includes email sequences for:
+1. Welcome Series (5 emails)
+2. Nurture Campaign (7 emails)
+3. Client Onboarding (4 emails)
+4. Post-Session Follow-up (3 emails)
+5. Program Completion (3 emails)
+
+SEQUENCE 1: WELCOME SERIES
+=========================
+
+EMAIL 1: IMMEDIATE WELCOME
+Subject: Welcome! Here's what to expect...
+
+Hi [First Name],
+
+Welcome to the [Your Business Name] community! I'm thrilled you've joined us.
+
+You signed up because you're interested in [specific benefit/topic]. That tells me you're someone who values growth and is ready to take action toward your goals.
+
+Here's what you can expect from me:
+• Weekly insights on [your specialty area]
+• Practical tools you can use immediately
+• Real stories from clients who've achieved breakthrough results
+• Exclusive invitations to workshops and programs
+
+In tomorrow's email, I'll share the #1 mistake I see people make when [relevant topic] and how to avoid it.
+
+Talk soon,
+[Your Name]
+
+P.S. Hit reply and let me know: What's your biggest challenge with [relevant area] right now?
+
+EMAIL 2: COMMON MISTAKE + VALUE
+Subject: The #1 mistake that's holding you back
+
+Hi [First Name],
+
+Yesterday I promised to share the biggest mistake I see people make when [relevant topic].
+
+Here it is: [Describe common mistake]
+
+I used to make this mistake too. [Brief personal story]
+
+The good news? Once you recognize this pattern, you can start shifting it immediately.
+
+Here's how: [Provide 2-3 actionable tips]
+
+Try this approach this week and notice what shifts.
+
+Tomorrow, I'll share the simple framework I use with all my clients to [achieve specific result].
+
+[Your Name]
+
+EMAIL 3: FRAMEWORK/METHODOLOGY
+Subject: The simple framework that changes everything
+
+Hi [First Name],
+
+Today I want to share the framework that's helped hundreds of my clients [achieve specific result].
+
+I call it the [Name] Method:
+
+[Letter] - [Step 1 with brief explanation]
+[Letter] - [Step 2 with brief explanation]  
+[Letter] - [Step 3 with brief explanation]
+[Letter] - [Step 4 with brief explanation]
+
+Here's how it works: [Provide example or case study]
+
+The beauty of this framework is its simplicity. You can start using it today.
+
+Which step resonates most with you? Hit reply and let me know.
+
+[Your Name]
+
+EMAIL 4: SOCIAL PROOF + STORY
+Subject: How [Client Name] transformed their [area] in [timeframe]
+
+Hi [First Name],
+
+I want to tell you about [Client Name] (used with permission).
+
+When we first started working together, they were [describe starting point/challenges].
+
+Sound familiar?
+
+After [timeframe] of coaching, here's what shifted:
+• [Specific result 1]
+• [Specific result 2]
+• [Specific result 3]
+
+But here's what [Client Name] said was the most valuable part: [quote about mindset/approach change]
+
+[Include brief story about the transformation process]
+
+The key was [main insight/approach that made the difference].
+
+You can apply this same approach: [1-2 actionable tips]
+
+[Your Name]
+
+EMAIL 5: SOFT PITCH + INVITATION
+Subject: Ready for your own transformation?
+
+Hi [First Name],
+
+Over the past few days, I've shared:
+• The biggest mistake that holds people back
+• My proven framework for [achieving result]
+• How [Client Name] created real change
+
+Here's what I know about you: You're here because you want something to change. You're ready to invest in yourself and create the [life/career/relationship] you truly want.
+
+If you're ready to go deeper, I have a few ways I can help:
+
+1. FREE RESOURCES
+Download my [Resource Name]: [Brief description and link]
+
+2. GROUP COACHING
+Join my next [Program Name] starting [Date]. [Brief description]
+[Link to learn more]
+
+3. PRIVATE COACHING
+Work with me one-on-one. I have [number] spots opening in [timeframe].
+[Link to book discovery call]
+
+Which option feels right for you?
+
+Here to support your journey,
+[Your Name]
+
+SEQUENCE 2: NURTURE CAMPAIGN
+===========================
+
+EMAIL 1: MINDSET SHIFT
+Subject: What if the problem isn't what you think?
+
+Hi [First Name],
+
+Most people think [common belief about problem] is the issue.
+
+But after working with [number] clients, I've discovered something different...
+
+[Continue with insight that challenges conventional thinking]
+
+EMAIL 2: COMMON OBSTACLE
+Subject: Why [common goal] feels so hard
+
+Hi [First Name],
+
+"I know what I should be doing, but I just can't seem to [action]."
+
+Sound familiar?
+
+[Address common obstacle with empathy and solutions]
+
+EMAIL 3: TOOL OR TECHNIQUE
+Subject: Try this 5-minute exercise
+
+Hi [First Name],
+
+Want to [achieve small result] in just 5 minutes?
+
+Here's a simple exercise I use with clients:
+
+[Provide detailed, actionable technique]
+
+EMAIL 4: PERSONAL STORY
+Subject: My biggest failure (and what it taught me)
+
+Hi [First Name],
+
+I want to share something vulnerable with you...
+
+[Tell personal story of failure/struggle and lesson learned]
+
+EMAIL 5: CLIENT SUCCESS
+Subject: "I never thought this was possible"
+
+Hi [First Name],
+
+Those are the words [Client Name] said to me last week...
+
+[Share detailed client success story]
+
+EMAIL 6: ADDRESSING OBJECTIONS
+Subject: "But I don't have time/money/support..."
+
+Hi [First Name],
+
+I hear this a lot: [common objection]
+
+I get it. [Acknowledge the concern with empathy]
+
+But here's what I've learned: [Reframe the objection]
+
+EMAIL 7: CLEAR CALL TO ACTION
+Subject: Ready to take the next step?
+
+Hi [First Name],
+
+Over the past few weeks, I've shared [recap key topics].
+
+If you're ready to [achieve desired outcome], let's talk.
+
+[Clear call to action with link]
+
+SEQUENCE 3: CLIENT ONBOARDING
+============================
+
+EMAIL 1: WELCOME + WHAT'S NEXT
+Subject: Welcome to [Program Name]! Here's what happens next
+
+Hi [First Name],
+
+Welcome to [Program Name]! I'm so excited to work with you.
+
+Here's what to expect: [Outline program structure]
+
+Your first session is scheduled for [date/time]. Here's how to prepare: [Instructions]
+
+EMAIL 2: EXPECTATION SETTING
+Subject: How to get the most from our work together
+
+Hi [First Name],
+
+To help you get maximum value from our coaching relationship, here are my recommendations:
+
+[List expectations and guidelines]
+
+EMAIL 3: PREPARATION FOR FIRST SESSION
+Subject: Preparing for tomorrow's session
+
+Hi [First Name],
+
+Looking forward to our first session tomorrow!
+
+To make the most of our time, please:
+[List specific preparation items]
+
+EMAIL 4: POST-FIRST SESSION
+Subject: Great start! Here are your action items
+
+Hi [First Name],
+
+Thank you for such an engaging first session!
+
+Here's what we covered: [Summary]
+
+Your action items for this week: [List items]
+
+CUSTOMIZATION GUIDELINES
+========================
+
+FOR EACH EMAIL:
+• Replace [bracketed placeholders] with your specific content
+• Adjust tone to match your brand voice
+• Add your signature and contact information
+• Include unsubscribe link as required by law
+
+TIMING RECOMMENDATIONS:
+• Welcome Series: Daily for 5 days
+• Nurture Campaign: Every 2-3 days
+• Client Onboarding: Based on session schedule
+• Post-Session: Within 24 hours of session
+
+PERSONALIZATION TIPS:
+• Use subscriber's first name
+• Reference their specific interests/challenges
+• Include relevant examples from your experience
+• Adjust content based on subscriber source
+
+METRICS TO TRACK:
+• Open rates
+• Click-through rates
+• Reply rates
+• Unsubscribe rates
+• Conversion to consultation/program
+
+Remember: The goal is to build relationship and trust while providing genuine value. Always prioritize helping over selling.`
+  },
+
+  {
+    slug: 'social-media-content-pack',
+    title: 'Social Media Content Pack',
+    description: 'Ready-to-post social media content templates for coaches including post ideas, captions, and engagement strategies.',
+    category: 'marketing-tools',
+    content: `SOCIAL MEDIA CONTENT PACK FOR COACHES
+
+CONTENT CALENDAR OVERVIEW
+=========================
+This pack includes:
+• 30 post ideas with captions
+• Content pillars framework
+• Engagement strategies
+• Platform-specific adaptations
+• Visual content suggestions
+
+CONTENT PILLARS FOR COACHES
+===========================
+
+PILLAR 1: EDUCATION/TIPS (40% of content)
+- Coaching insights
+- Personal development tips
+- Industry knowledge
+- How-to content
+
+PILLAR 2: INSPIRATION/MOTIVATION (25% of content)
+- Motivational quotes
+- Success stories
+- Mindset shifts
+- Encouragement
+
+PILLAR 3: PERSONAL/BEHIND-THE-SCENES (20% of content)
+- Your journey
+- Day in the life
+- Personal insights
+- Vulnerable moments
+
+PILLAR 4: COMMUNITY/ENGAGEMENT (10% of content)
+- Questions for audience
+- Polls and surveys
+- User-generated content
+- Community highlights
+
+PILLAR 5: BUSINESS/OFFERS (5% of content)
+- Program announcements
+- Free resources
+- Testimonials
+- Call-to-actions
+
+30 READY-TO-USE POSTS
+=====================
+
+POST 1: TIP TUESDAY
+"The difference between a goal and a dream? A deadline and a plan.
+
+Your dreams are valid. Your goals are achievable. But they need structure.
+
+Here's my simple goal-setting framework:
+✅ Be specific about what you want
+✅ Set a realistic timeline
+✅ Break it into weekly actions
+✅ Track your progress
+✅ Celebrate small wins
+
+What goal are you working toward right now? 👇
+
+#GoalSetting #PersonalDevelopment #LifeCoaching #Motivation"
+
+POST 2: MINDSET MONDAY
+"Your comfort zone is a beautiful place, but nothing grows there. 🌱
+
+I used to think staying comfortable meant staying safe. But I learned that my biggest growth happened when I felt the most uncomfortable.
+
+That job interview that scared you? Apply anyway.
+That conversation you've been avoiding? Have it.
+That dream you think is too big? Start working toward it.
+
+Discomfort is just growth wearing a disguise.
+
+What's one uncomfortable action you could take this week?
+
+#MindsetShift #GrowthMindset #ComfortZone #PersonalGrowth #LifeCoaching"
+
+POST 3: WISDOM WEDNESDAY
+"You can't change what happened, but you can change what happens next.
+
+This is something I remind clients when they're stuck in regret or 'what if' thinking.
+
+The past is data, not destiny. Use it to inform your future choices, but don't let it imprison your possibilities.
+
+Every moment is a fresh start. Every day is a new beginning.
+
+What story from your past are you ready to rewrite?
+
+#LetGo #FreshStart #MindsetCoaching #PersonalDevelopment #NewBeginnings"
+
+POST 4: FEATURE FRIDAY - CLIENT WIN
+"CLIENT WIN FRIDAY! 🎉
+
+'I never thought I could speak up in meetings, but this week I shared my idea and the team loved it!' - Sarah
+
+Six months ago, Sarah came to coaching feeling invisible at work. She had great ideas but never felt confident enough to share them.
+
+Through our work together, she:
+✨ Identified her unique strengths
+✨ Practiced assertive communication
+✨ Built unshakeable self-confidence
+✨ Created strategies for workplace success
+
+Now she's being considered for a promotion!
+
+What's possible when you believe in yourself? Everything.
+
+#ClientWin #ConfidenceCoaching #WorkplaceSuccess #PersonalDevelopment"
+
+POST 5: SELF-CARE SUNDAY
+"Self-care isn't selfish. It's strategic.
+
+You can't pour from an empty cup. You can't give what you don't have.
+
+My non-negotiable self-care practices:
+🧘‍♀️ 10 minutes of morning meditation
+📚 Reading before bed (no screens!)
+🚶‍♀️ Daily walk in nature
+🛁 Sunday evening bubble bath
+📝 Weekly journal reflection
+
+These aren't luxuries. They're necessities for showing up as my best self.
+
+What's one self-care practice you want to add to your routine?
+
+#SelfCare #SelfCareStrategy #Mindfulness #Balance #LifeCoaching"
+
+POST 6: MOTIVATION MONDAY
+"Your past doesn't define you. Your choices do.
+
+Every day, you have the power to choose:
+• Growth over comfort
+• Courage over fear
+• Action over excuses
+• Hope over doubt
+• Love over judgment
+
+You are not stuck. You are not broken. You are not behind.
+
+You are exactly where you need to be to become who you're meant to be.
+
+What choice will you make today?
+
+#MondayMotivation #PersonalPower #ChoiceArchitecture #LifeCoaching #Empowerment"
+
+POST 7: TIP TUESDAY - PRODUCTIVITY
+"The secret to productivity isn't doing more. It's doing what matters.
+
+My simple priority system:
+1️⃣ Brain dump everything on your to-do list
+2️⃣ Circle only what moves you toward your big goals
+3️⃣ Pick the top 3 for today
+4️⃣ Do the hardest one first
+5️⃣ Celebrate completion
+
+Quality over quantity. Impact over activity.
+
+What's the ONE thing that would make the biggest difference in your day?
+
+#ProductivityTips #PriorityManagement #GoalFocused #TimeManagement #LifeCoaching"
+
+POST 8: WISDOM WEDNESDAY - BOUNDARIES
+"Boundaries aren't walls. They're gates with you as the gatekeeper.
+
+Healthy boundaries:
+✅ Protect your energy
+✅ Honor your values
+✅ Communicate your needs
+✅ Create space for what matters
+✅ Allow authentic relationships
+
+You're not responsible for managing other people's emotions about your boundaries.
+
+You're responsible for protecting your peace.
+
+Where in your life do you need stronger boundaries?
+
+#Boundaries #HealthyRelationships #SelfCare #PersonalDevelopment #LifeCoaching"
+
+POST 9: TRANSFORMATION THURSDAY
+"One year ago, I was afraid to share my story. Today, I'm helping others rewrite theirs.
+
+The journey from fear to courage isn't a straight line. It's messy, uncomfortable, and sometimes scary.
+
+But every step matters. Every small act of bravery builds your courage muscle.
+
+Your story isn't over. The best chapters might be yet to come.
+
+What story are you ready to tell?
+
+#TransformationThursday #CourageOverFear #PersonalStory #GrowthJourney #LifeCoaching"
+
+POST 10: FEATURE FRIDAY - TOOL SHARE
+"TOOL FRIDAY: The 10-10-10 Decision Framework
+
+Struggling with a decision? Ask yourself:
+• How will I feel about this in 10 minutes?
+• How will I feel about this in 10 months?
+• How will I feel about this in 10 years?
+
+This helps you see beyond immediate emotions and consider long-term impact.
+
+Sometimes what feels scary in 10 minutes becomes the best decision in 10 years.
+
+Try it and let me know how it works for you!
+
+#DecisionMaking #LifeCoaching #PersonalDevelopment #ToolFriday #Clarity"
+
+[Continue with 20 more posts following similar patterns...]
+
+PLATFORM-SPECIFIC ADAPTATIONS
+=============================
+
+INSTAGRAM:
+- Use 3-5 relevant hashtags
+- Include emojis for visual appeal
+- Ask questions to encourage engagement
+- Use Stories for behind-the-scenes content
+- Share carousel posts for tips/insights
+
+FACEBOOK:
+- Longer captions work well
+- Ask questions to boost engagement
+- Share personal stories
+- Use Facebook groups for community building
+- Go live for Q&A sessions
+
+LINKEDIN:
+- Professional tone
+- Industry insights
+- Career-focused content
+- Professional development tips
+- Share articles and thought leadership
+
+TWITTER:
+- Keep it concise
+- Use trending hashtags
+- Share quick tips
+- Engage in conversations
+- Thread longer insights
+
+VISUAL CONTENT IDEAS
+===================
+
+QUOTE GRAPHICS:
+- Key insights from posts
+- Client quotes (with permission)
+- Motivational statements
+- Questions for reflection
+
+BEHIND-THE-SCENES:
+- Workspace photos
+- Reading/learning moments
+- Daily routines
+- Planning sessions
+
+EDUCATIONAL GRAPHICS:
+- Tip lists
+- Process frameworks
+- Before/after transformations
+- Infographics
+
+VIDEO CONTENT:
+- Quick tips (60 seconds)
+- Client success stories
+- Day in the life
+- Live Q&A sessions
+
+ENGAGEMENT STRATEGIES
+====================
+
+BOOST ENGAGEMENT:
+- Ask specific questions
+- Share polls and surveys
+- Respond to all comments
+- Tag relevant people
+- Use current events/trends
+
+BUILD COMMUNITY:
+- Create hashtags for your community
+- Feature client wins (with permission)
+- Share user-generated content
+- Host live sessions
+- Create Facebook groups
+
+GROW FOLLOWING:
+- Collaborate with other coaches
+- Guest post on others' accounts
+- Share valuable free resources
+- Engage with your ideal clients' content
+- Be consistent with posting
+
+CONTENT PLANNING TEMPLATE
+=========================
+
+WEEKLY SCHEDULE:
+Monday: Motivation/Mindset
+Tuesday: Tips/Education
+Wednesday: Wisdom/Insights
+Thursday: Transformation/Stories
+Friday: Features/Tools
+Saturday: Self-care/Balance
+Sunday: Reflection/Preparation
+
+MONTHLY THEMES:
+January: New Beginnings
+February: Self-Love
+March: Goal Progress
+April: Spring Cleaning (mindset)
+May: Growth & Change
+June: Confidence Building
+July: Summer Self-Care
+August: Productivity & Focus
+September: Back to Basics
+October: Overcoming Fear
+November: Gratitude & Reflection
+December: Year-End Review
+
+Remember: Authenticity beats perfection. Your audience wants to connect with the real you, not a perfect version. Share your journey, struggles, and insights genuinely.`
   }
 ]

@@ -1,69 +1,69 @@
-import { generateSEO } from '@/lib/seo'
 import Link from 'next/link'
+import { generateSEO } from '@/lib/seo'
+import Header from '@/components/Header'
+import Footer from '@/components/Footer'
+import Logo from '@/components/Logo'
 
 export const metadata = generateSEO({
-  title: 'Free Coaching Templates & Downloads - Life Coach Library',
-  description: 'Download free professional coaching templates including intake forms, session plans, personality assessments, progress trackers, and business documents. No email required.',
-  keywords: ['coaching templates', 'free coaching forms', 'intake form template', 'coaching session plan', 'personality assessment tools', 'coaching business forms', 'goal tracking templates'],
+  title: 'Free Coaching Templates - Intake Forms, Session Plans & Progress Trackers',
+  description: 'Download free professional coaching templates including client intake forms, session agendas, progress trackers, and assessment tools. Ready to use immediately.',
+  keywords: ['coaching templates', 'intake forms', 'session plans', 'progress trackers', 'coaching tools'],
   canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/templates',
 })
 
 export default function TemplatesPage() {
   return (
     <div className="min-h-screen bg-white">
-      {/* Header */}
-      <header className="bg-white border-b border-gray-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center py-6">
-            <div className="flex justify-start lg:w-0 lg:flex-1">
-              <Link href="/" className="text-2xl font-bold text-gray-900">
-                Life Coach Library
-              </Link>
-            </div>
-            <nav className="hidden md:flex space-x-8">
-              <Link href="/guides" className="text-gray-600 hover:text-gray-900">
-                Guides
-              </Link>
-              <Link href="/workflows" className="text-gray-600 hover:text-gray-900">
-                Workflows
-              </Link>
-              <Link href="/methods" className="text-gray-600 hover:text-gray-900">
-                Methods
-              </Link>
-              <Link href="/growth" className="text-gray-600 hover:text-gray-900">
-                Marketing
-              </Link>
-              <Link href="/templates" className="text-gray-600 hover:text-gray-900">
-                Templates
-              </Link>
-            </nav>
-          </div>
-        </div>
-      </header>
+      <Header />
 
       {/* Hero Section */}
-      <section className="bg-gradient-to-b from-primary-50 to-white py-16">
+      <section className="hero-gradient py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              Free Coaching Templates & Resources
+            <div className="mb-8">
+              <Logo variant="icon" size="xl" className="mx-auto animate-float" />
+            </div>
+            <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
+              <span className="gradient-text">Free Coaching</span><br />
+              Templates & Resources
             </h1>
-            <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Professional templates for intake forms, session plans, personality assessments, progress tracking, and business operations. Download immediately - no email required.
+            <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
+              Professional templates for intake forms, session plans, personality assessments, progress tracking, and business operations. 
+              Download immediately. No email required.
             </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Link href="#templates" className="btn-primary hover-lift">
+                Browse Templates
+                <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+                </svg>
+              </Link>
+              <Link href="/guides" className="btn-secondary hover-lift">
+                Business Guides
+              </Link>
+            </div>
           </div>
         </div>
       </section>
 
-      {/* Template Categories */}
-      <section className="py-16">
+      {/* Templates Grid */}
+      <section id="templates" className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl font-bold text-gray-900 mb-6">
+              Professional <span className="gradient-text">Template Collection</span>
+            </h2>
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+              Comprehensive library of ready-to-use templates designed by experienced coaches
+            </p>
+          </div>
+
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             
             {/* Intake Forms */}
-            <div className="bg-white border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div className="template-card hover-glow">
               <div className="flex items-center mb-4">
-                <div className="w-12 h-12 bg-primary-100 rounded-lg flex items-center justify-center">
+                <div className="w-12 h-12 bg-primary-100 rounded-lg flex items-center justify-center template-icon">
                   <svg className="w-6 h-6 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
@@ -78,7 +78,7 @@ export default function TemplatesPage() {
                   <span className="text-sm text-gray-700">General Life Coaching Intake</span>
                   <Link
                     href="/templates/general-life-coaching-intake"
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View General Life Coaching Intake form"
                   >
                     View Template
@@ -88,7 +88,7 @@ export default function TemplatesPage() {
                   <span className="text-sm text-gray-700">Executive Coaching Intake</span>
                   <Link
                     href="/templates/executive-coaching-intake"
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View Executive Coaching Intake form"
                   >
                     View Template
@@ -98,7 +98,7 @@ export default function TemplatesPage() {
                   <span className="text-sm text-gray-700">Career Transition Intake</span>
                   <Link
                     href="/templates/career-transition-intake"
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View Career Transition Intake form"
                   >
                     View Template
@@ -108,7 +108,7 @@ export default function TemplatesPage() {
                   <span className="text-sm text-gray-700">Wellness Coaching Intake</span>
                   <Link
                     href="/templates/wellness-coaching-intake"
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View Wellness Coaching Intake form"
                   >
                     View Template
@@ -118,9 +118,9 @@ export default function TemplatesPage() {
             </div>
 
             {/* Session Plans */}
-            <div className="bg-white border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div className="template-card hover-glow">
               <div className="flex items-center mb-4">
-                <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center">
+                <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center template-icon">
                   <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
@@ -128,24 +128,14 @@ export default function TemplatesPage() {
                 <h3 className="text-xl font-semibold text-gray-900 ml-4">Session Plans</h3>
               </div>
               <p className="text-gray-600 mb-6">
-                Structured session agendas and conversation frameworks to guide productive coaching conversations.
+                Structured session agendas and planning templates. Includes GROW model frameworks and goal-setting templates.
               </p>
               <div className="space-y-3">
-                <div className="flex justify-between items-center py-2 border-b border-gray-100">
-                  <span className="text-sm text-gray-700">First Session Script</span>
-                  <Link
-                    href="/templates/first-session-script"
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="View First Session Script"
-                  >
-                    View Template
-                  </Link>
-                </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">GROW Model Template</span>
                   <Link
                     href="/templates/grow-model-template"
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View GROW Model Template"
                   >
                     View Template
@@ -155,7 +145,7 @@ export default function TemplatesPage() {
                   <span className="text-sm text-gray-700">Goal Setting Session</span>
                   <Link
                     href="/templates/goal-setting-session"
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View Goal Setting Session"
                   >
                     View Template
@@ -165,7 +155,7 @@ export default function TemplatesPage() {
                   <span className="text-sm text-gray-700">Progress Review Template</span>
                   <Link
                     href="/templates/progress-review-template"
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View Progress Review Template"
                   >
                     View Template
@@ -175,149 +165,137 @@ export default function TemplatesPage() {
             </div>
 
             {/* Progress Tracking */}
-            <div className="bg-white border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div className="template-card hover-glow">
               <div className="flex items-center mb-4">
-                <div className="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center">
+                <div className="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center template-icon">
                   <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-semibold text-gray-900 ml-4">Progress Trackers</h3>
+                <h3 className="text-xl font-semibold text-gray-900 ml-4">Progress Tracking</h3>
               </div>
               <p className="text-gray-600 mb-6">
-                Google Sheets and tracking tools to monitor client progress, goals, and milestones throughout the coaching journey.
+                Goal tracking sheets, milestone markers, and progress measurement tools. Available in Google Sheets and PDF formats.
               </p>
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
-                  <span className="text-sm text-gray-700">Goal Progress Tracker</span>
+                  <span className="text-sm text-gray-700">90-Day Goal Tracker</span>
                   <Link
-                    href="/templates/goal-progress-tracker"
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="View Goal Progress Tracker"
+                    href="/templates/90-day-goal-tracker"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View 90-Day Goal Tracker"
                   >
                     View Template
                   </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
-                  <span className="text-sm text-gray-700">Habit Formation Tracker</span>
-                  <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Habit Formation Tracker"
+                  <span className="text-sm text-gray-700">Weekly Check-in Form</span>
+                  <Link
+                    href="/templates/weekly-check-in-form"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View Weekly Check-in Form"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
-                  <span className="text-sm text-gray-700">Session Notes Template</span>
-                  <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Session Notes Template"
+                  <span className="text-sm text-gray-700">Habit Tracker Worksheet</span>
+                  <Link
+                    href="/templates/habit-tracker-worksheet"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View Habit Tracker Worksheet"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Client Journey Map</span>
-                  <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Client Journey Map"
+                  <Link
+                    href="/templates/client-journey-map"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View Client Journey Map"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
               </div>
             </div>
 
             {/* Business Documents */}
-            <div className="bg-white border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div className="template-card hover-glow">
               <div className="flex items-center mb-4">
-                <div className="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center">
+                <div className="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center template-icon">
                   <svg className="w-6 h-6 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-semibold text-gray-900 ml-4">Business Forms</h3>
+                <h3 className="text-xl font-semibold text-gray-900 ml-4">Business Documents</h3>
               </div>
               <p className="text-gray-600 mb-6">
-                Legal agreements, proposals, and business documents to protect your practice and streamline operations.
+                Essential business templates including service agreements, pricing sheets, and client feedback forms.
               </p>
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
-                  <span className="text-sm text-gray-700">Coaching Agreement Template</span>
+                  <span className="text-sm text-gray-700">Service Agreement Template</span>
                   <Link
-                    href="/templates/coaching-agreement-template"
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="View Coaching Agreement Template"
+                    href="/templates/service-agreement-template"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View Service Agreement Template"
                   >
                     View Template
                   </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
-                  <span className="text-sm text-gray-700">Service Proposal Template</span>
-                  <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Service Proposal Template"
-                  >
-                    Download
-                  </button>
-                </div>
-                <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Pricing Calculator</span>
-                  <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Pricing Calculator"
+                  <Link
+                    href="/templates/pricing-calculator"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View Pricing Calculator"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Client Feedback Survey</span>
-                  <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Client Feedback Survey"
+                  <Link
+                    href="/templates/client-feedback-survey"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View Client Feedback Survey"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
               </div>
             </div>
 
             {/* Marketing Materials */}
-            <div className="bg-white border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div className="template-card hover-glow">
               <div className="flex items-center mb-4">
-                <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center">
+                <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center template-icon">
                   <svg className="w-6 h-6 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5.882V19.24a1.76 1.76 0 01-3.417.592l-2.147-6.15M18 13a3 3 0 100-6M5.436 13.683A4.001 4.001 0 017 6h1.832c4.1 0 7.625-1.234 9.168-3v14c-1.543-1.766-5.067-3-9.168-3H7a3.988 3.988 0 01-1.564-.317z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-semibold text-gray-900 ml-4">Marketing Tools</h3>
+                <h3 className="text-xl font-semibold text-gray-900 ml-4">Marketing Materials</h3>
               </div>
               <p className="text-gray-600 mb-6">
-                Marketing templates and promotional materials to attract clients and grow your coaching practice.
+                Professional marketing templates for social media, lead magnets, and content creation.
               </p>
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
-                  <span className="text-sm text-gray-700">Email Sequence Templates</span>
-                  <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Email Sequence Templates"
-                  >
-                    Download
-                  </button>
-                </div>
-                <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Social Media Content Pack</span>
-                  <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Social Media Content Pack"
+                  <Link
+                    href="/templates/social-media-content-pack"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View Social Media Content Pack"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Webinar Presentation Deck</span>
                   <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="Download Webinar Presentation Deck"
                   >
                     Download
@@ -326,7 +304,7 @@ export default function TemplatesPage() {
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Lead Magnet Templates</span>
                   <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="Download Lead Magnet Templates"
                   >
                     Download
@@ -336,9 +314,9 @@ export default function TemplatesPage() {
             </div>
 
             {/* Assessment Tools */}
-            <div className="bg-white border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div className="template-card hover-glow">
               <div className="flex items-center mb-4">
-                <div className="w-12 h-12 bg-indigo-100 rounded-lg flex items-center justify-center">
+                <div className="w-12 h-12 bg-indigo-100 rounded-lg flex items-center justify-center template-icon">
                   <svg className="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
                   </svg>
@@ -346,14 +324,14 @@ export default function TemplatesPage() {
                 <h3 className="text-xl font-semibold text-gray-900 ml-4">Assessment Tools</h3>
               </div>
               <p className="text-gray-600 mb-6">
-                Professional assessments and evaluation tools to understand client needs, measure coaching effectiveness, and provide deeper personality insights for personalized coaching approaches.
+                Personality assessments, self-discovery exercises, and evaluation tools for deeper client insights.
               </p>
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Wheel of Life Assessment</span>
                   <Link
                     href="/templates/wheel-of-life-assessment"
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View Wheel of Life Assessment"
                   >
                     View Template
@@ -361,17 +339,18 @@ export default function TemplatesPage() {
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Values Clarification Exercise</span>
-                  <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
-                    aria-label="Download Values Clarification Exercise"
+                  <Link
+                    href="/templates/values-clarification-exercise"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View Values Clarification Exercise"
                   >
-                    Download
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Readiness for Change Scale</span>
                   <button 
-                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="Download Readiness for Change Scale"
                   >
                     Download
@@ -379,44 +358,25 @@ export default function TemplatesPage() {
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <div className="flex-1">
-                    <a href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library" 
-                       className="text-primary-600 hover:text-primary-700 font-medium"
-                       target="_blank" 
-                       rel="noopener noreferrer">
-                      Premium Personality & Strengths Assessment
-                    </a>
-                    <p className="text-xs text-gray-500 mt-1">Comprehensive personality insights for deeper coaching conversations</p>
+                    <span className="text-sm text-gray-700">Personality Assessment Tool</span>
+                    <div className="text-xs text-gray-500 mt-1">External link to comprehensive assessment</div>
                   </div>
-                  <span className="text-xs text-gray-500 ml-2">External</span>
+                  <a 
+                    href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift inline-flex items-center"
+                    aria-label="Visit Personality Assessment Tool"
+                  >
+                    Visit Tool
+                    <svg className="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-2M7 7h.01M7 3h5l2 2v5" />
+                    </svg>
+                  </a>
                 </div>
               </div>
             </div>
 
-          </div>
-        </div>
-      </section>
-
-      {/* Assessment Tools Highlight */}
-      <section className="bg-primary-50 py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">
-              Enhance Your Coaching with Professional Assessments
-            </h2>
-            <p className="text-gray-600 mb-6">
-              Take your coaching to the next level with comprehensive personality and strengths assessments. Understanding your clients' personality types, strengths, and motivational drivers enables more personalized and effective coaching conversations.
-            </p>
-            <a
-              href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors"
-            >
-              Explore Professional Assessments
-              <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-2M7 7h.01M7 3h5l2 2v5" />
-              </svg>
-            </a>
           </div>
         </div>
       </section>
@@ -433,13 +393,13 @@ export default function TemplatesPage() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
               href="/workflows"
-              className="bg-primary-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors"
+              className="btn-primary hover-lift"
             >
               Browse Workflows
             </Link>
             <Link
               href="/guides"
-              className="bg-white text-primary-600 px-8 py-3 rounded-lg font-semibold border border-primary-600 hover:bg-primary-50 transition-colors"
+              className="btn-secondary hover-lift"
             >
               Business Guides
             </Link>
@@ -447,62 +407,7 @@ export default function TemplatesPage() {
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="bg-gray-900 text-white py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid md:grid-cols-4 gap-8">
-            <div>
-              <h3 className="text-lg font-semibold mb-4">Life Coach Library</h3>
-              <p className="text-gray-400">
-                Free resources and templates for professional life coaches.
-              </p>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Resources</h4>
-              <ul className="space-y-2">
-                <li><Link href="/guides" className="text-gray-400 hover:text-white">Business Guides</Link></li>
-                <li><Link href="/templates" className="text-gray-400 hover:text-white">Templates</Link></li>
-                <li><Link href="/methods" className="text-gray-400 hover:text-white">Coaching Methods</Link></li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Growth</h4>
-              <ul className="space-y-2">
-                <li><Link href="/growth" className="text-gray-400 hover:text-white">Marketing</Link></li>
-                <li><Link href="/workflows" className="text-gray-400 hover:text-white">Workflows</Link></li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Assessment Tools</h4>
-              <ul className="space-y-2">
-                <li>
-                  <a 
-                    href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library" 
-                    className="text-gray-400 hover:text-white"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Professional Personality Assessments
-                  </a>
-                </li>
-                <li>
-                  <a 
-                    href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library" 
-                    className="text-gray-400 hover:text-white"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Strengths & Values Analysis
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 Life Coach Library. All rights reserved.</p>
-          </div>
-        </div>
-      </footer>
+      <Footer />
     </div>
   )
 }
