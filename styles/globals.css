@@ -129,7 +129,7 @@
 
   .feature-card::before {
     content: '';
-    @apply absolute inset-0 bg-gradient-to-br from-primary-50 via-primary-25 to-accent-50 rounded-2xl opacity-0 transition-all duration-500 ease-out;
+    @apply absolute inset-0 bg-gradient-to-br from-primary-50 via-primary-100 to-accent-50 rounded-2xl opacity-0 transition-all duration-500 ease-out;
   }
 
   .feature-card:hover::before {
