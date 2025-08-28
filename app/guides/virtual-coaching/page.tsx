@@ -1,5 +1,6 @@
 import { generateSEO } from '@/lib/seo'
 import Link from 'next/link'
+import Logo from '@/components/Logo'
 
 export const metadata = generateSEO({
   title: 'Harnessing the Power of Virtual Coaching: Benefits and Tools',
@@ -16,8 +17,8 @@ export default function VirtualCoachingPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-6">
             <div className="flex justify-start lg:w-0 lg:flex-1">
-              <Link href="/" className="text-2xl font-bold text-gray-900">
-                Life Coach Library
+              <Link href="/">
+                <Logo variant="full" size="sm" />
               </Link>
             </div>
             <nav className="hidden md:flex space-x-8">

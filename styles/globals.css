@@ -124,16 +124,31 @@
 
   /* Feature card styling */
   .feature-card {
-    @apply relative bg-white rounded-2xl p-8 shadow-soft border border-gray-100 transition-all duration-300 hover:shadow-strong hover:-translate-y-2;
+    @apply relative bg-white rounded-2xl p-8 shadow-soft border border-gray-100 transition-all duration-500 ease-out hover:shadow-strong hover:-translate-y-3;
   }
 
   .feature-card::before {
     content: '';
-    @apply absolute inset-0 bg-gradient-to-br from-primary-50 to-accent-50 rounded-2xl opacity-0 transition-opacity duration-300;
+    @apply absolute inset-0 bg-gradient-to-br from-primary-50 via-primary-25 to-accent-50 rounded-2xl opacity-0 transition-all duration-500 ease-out;
   }
 
   .feature-card:hover::before {
     @apply opacity-100;
+  }
+
+  .feature-card::after {
+    content: '';
+    @apply absolute inset-0 rounded-2xl opacity-0 transition-all duration-500 ease-out;
+    background: linear-gradient(135deg, rgba(45, 158, 117, 0.1) 0%, rgba(237, 115, 26, 0.1) 100%);
+    box-shadow: 0 0 40px rgba(45, 158, 117, 0.15), 0 0 60px rgba(45, 158, 117, 0.08);
+  }
+
+  .feature-card:hover::after {
+    @apply opacity-100;
+  }
+
+  .feature-card:hover .feature-card-content {
+    @apply relative z-10;
   }
 
   /* Template card styling */
