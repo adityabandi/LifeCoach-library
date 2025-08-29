@@ -1,5 +1,6 @@
 import { generateSEO } from '@/lib/seo'
 import Link from 'next/link'
+import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
   title: 'Tracking Client Progress and Accountability in Life Coaching',
@@ -177,52 +178,7 @@ export default function ProgressTrackingPage() {
         </section>
       </article>
 
-      {/* Footer */}
-      <footer className="bg-gray-900 text-white py-12 mt-16">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid md:grid-cols-4 gap-8">
-            <div>
-              <h3 className="text-lg font-semibold mb-4">Life Coach Library</h3>
-              <p className="text-gray-400">
-                Free resources and templates for professional life coaches.
-              </p>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Resources</h4>
-              <ul className="space-y-2">
-                <li><Link href="/guides" className="text-gray-400 hover:text-white">Business Guides</Link></li>
-                <li><Link href="/templates" className="text-gray-400 hover:text-white">Templates</Link></li>
-                <li><Link href="/methods" className="text-gray-400 hover:text-white">Coaching Methods</Link></li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Growth</h4>
-              <ul className="space-y-2">
-                <li><Link href="/growth" className="text-gray-400 hover:text-white">Marketing</Link></li>
-                <li><Link href="/workflows" className="text-gray-400 hover:text-white">Workflows</Link></li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Tools</h4>
-              <ul className="space-y-2">
-                <li>
-                  <a 
-                    href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library" 
-                    className="text-gray-400 hover:text-white"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Strengths Assessment
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 Life Coach Library. All rights reserved.</p>
-          </div>
-        </div>
-      </footer>
+      <Footer />
     </div>
   )
 }
