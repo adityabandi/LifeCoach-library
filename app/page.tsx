@@ -5,9 +5,9 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'Free Coaching Templates & Business Resources for Life Coaches',
-  description: 'Access free coaching templates, intake forms, session plans, and business guides. Proven methods and tools to grow your life coaching practice.',
-  keywords: ['coaching templates', 'life coach resources', 'coaching business', 'intake forms', 'coaching methods'],
+  title: 'How to Become a Life Coach: Complete Guide & Free Resources',
+  description: 'Learn how to become a life coach with our comprehensive guide. Get free templates, coaching methods, business strategies, and step-by-step training to start your coaching practice.',
+  keywords: ['how to become a life coach', 'life coach training', 'coaching certification', 'start coaching business', 'life coach career', 'coaching methods', 'life coaching guide'],
   canonicalUrl: 'https://lifecoachlibrary.com',
 })
 
@@ -24,21 +24,20 @@ export default function HomePage() {
               <Logo variant="icon" size="xl" className="mx-auto animate-float" />
             </div>
             <h1 className="mobile-hero-title text-gray-900 mb-8 leading-tight">
-              Everything You Need to Build a <span className="gradient-text">Thriving Coaching Practice</span>
+              Learn <span className="gradient-text">How to Become a Life Coach</span> and Build a Thriving Practice
             </h1>
             <p className="mobile-hero-subtitle mb-10 max-w-4xl mx-auto leading-relaxed">
-              From startup guides to advanced marketing strategies, get access to proven templates, 
-              coaching methodologies, and business resources used by successful life coaches worldwide.
+              Discover step-by-step training, free templates, proven coaching methods, and business strategies to start your life coaching career.
             </p>
             <div className="mobile-button-grid">
-              <Link href="/templates" className="btn-primary hover-lift">
-                Get Free Templates
+              <Link href="/guides/start-life-coaching-business" className="btn-primary hover-lift">
+                Start Your Journey
                 <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
                 </svg>
               </Link>
-              <Link href="/guides/start-life-coaching-business" className="btn-secondary hover-lift">
-                Start Your Practice
+              <Link href="/templates" className="btn-secondary hover-lift">
+                Get Free Templates
               </Link>
             </div>
           </div>
