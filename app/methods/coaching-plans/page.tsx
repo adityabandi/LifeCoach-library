@@ -153,7 +153,7 @@ export default function CoachingPlansPage() {
                 Download ready-to-use coaching plan templates and goal-setting worksheets.
               </p>
               <Link href="/templates" className="text-primary-600 text-sm font-medium">
-                Download Templates →
+                View Templates →
               </Link>
             </div>
           </div>

@@ -285,19 +285,19 @@ export default function CoachingIntakeQuestionsPage() {
             <div className="bg-gray-50 p-6 rounded-lg">
               <h4 className="font-semibold mb-2">Complete Intake Form</h4>
               <p className="text-gray-600 text-sm mb-3">All 25 questions in Typeform and Google Forms format</p>
-              <Link href="/templates" className="text-primary-600 text-sm font-medium">Download Forms →</Link>
+              <Link href="/templates" className="text-primary-600 text-sm font-medium">View Forms →</Link>
             </div>
             
             <div className="bg-gray-50 p-6 rounded-lg">
               <h4 className="font-semibold mb-2">Red Flag Checklist</h4>
               <p className="text-gray-600 text-sm mb-3">Decision matrix for client acceptance</p>
-              <Link href="/templates" className="text-primary-600 text-sm font-medium">Get Checklist →</Link>
+              <Link href="/templates" className="text-primary-600 text-sm font-medium">View Template →</Link>
             </div>
             
             <div className="bg-gray-50 p-6 rounded-lg">
               <h4 className="font-semibold mb-2">Consent Form Template</h4>
               <p className="text-gray-600 text-sm mb-3">Legal protection and boundary setting</p>
-              <Link href="/templates" className="text-primary-600 text-sm font-medium">Download Template →</Link>
+              <Link href="/templates" className="text-primary-600 text-sm font-medium">View →</Link>
             </div>
             
             <div className="bg-gray-50 p-6 rounded-lg">

@@ -197,7 +197,7 @@ export default function GuidesPage() {
                 Professional templates for intake forms, session plans, and progress tracking. Download immediately.
               </p>
               <Link href="/templates" className="text-primary-600 font-medium hover:text-primary-700 transition-colors hover-lift">
-                Download Templates →
+                View Templates →
               </Link>
             </div>
 

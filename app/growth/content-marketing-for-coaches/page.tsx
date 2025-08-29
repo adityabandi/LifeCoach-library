@@ -169,7 +169,7 @@ export default function ContentMarketingForCoachesPage() {
             <li><strong>Mention client work:</strong> "This is exactly what I help clients with..."</li>
             <li><strong>Reference your method:</strong> "Using my GROW framework..."</li>
             <li><strong>Include gentle CTAs:</strong> "If this resonates, let's chat"</li>
-            <li><strong>Link to resources:</strong> Free downloads that capture leads</li>
+            <li>Free resource offers</li>
           </ul>
 
           <h2>Content pillar strategy</h2>

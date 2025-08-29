@@ -145,7 +145,7 @@ export default function CoachingSessionStructurePage() {
                 Download ready-to-use session plans, progress trackers, and frameworks.
               </p>
               <Link href="/templates" className="text-primary-600 text-sm font-medium">
-                Download Templates →
+                View Templates →
               </Link>
             </div>
           </div>

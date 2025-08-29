@@ -157,7 +157,7 @@ export default function EmailFunnelsPage() {
               </p>
               <ul className="text-sm text-gray-700 space-y-1">
                 <li>• Warm welcome and thank you</li>
-                <li>• Direct link to download lead magnet</li>
+                <li>• Direct link to access lead magnet</li>
                 <li>• Brief introduction to what's coming next</li>
                 <li>• Encourage them to whitelist your email</li>
               </ul>

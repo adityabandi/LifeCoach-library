@@ -166,7 +166,7 @@ export default function ClientIntakeOnboardingPage() {
                 Download ready-to-use intake forms, agreements, and session templates.
               </p>
               <Link href="/templates" className="text-primary-600 text-sm font-medium">
-                Download Templates →
+                View Templates →
               </Link>
             </div>
           </div>

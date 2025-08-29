@@ -196,7 +196,7 @@ export default function LinkedInForCoachesPage() {
           <ul>
             <li>Program announcements</li>
             <li>Speaking engagements</li>
-            <li>Free resources and downloads</li>
+            <li>Free resources and templates</li>
             <li>Client testimonials</li>
           </ul>
 

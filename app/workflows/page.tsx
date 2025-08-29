@@ -246,22 +246,22 @@ export default function WorkflowsPage() {
             <div className="bg-white p-6 rounded-lg border hover:shadow-lg transition-shadow">
               <h4 className="font-semibold mb-2">Discovery Call Notes</h4>
               <p className="text-gray-600 text-sm mb-3">Google Doc template</p>
-              <Link href="/templates" className="text-primary-600 text-sm font-medium">Download →</Link>
+              <Link href="/templates" className="text-primary-600 text-sm font-medium">View →</Link>
             </div>
             <div className="bg-white p-6 rounded-lg border hover:shadow-lg transition-shadow">
               <h4 className="font-semibold mb-2">Intake Forms</h4>
               <p className="text-gray-600 text-sm mb-3">PDF + Typeform versions</p>
-              <Link href="/templates" className="text-primary-600 text-sm font-medium">Download →</Link>
+              <Link href="/templates" className="text-primary-600 text-sm font-medium">View →</Link>
             </div>
             <div className="bg-white p-6 rounded-lg border hover:shadow-lg transition-shadow">
               <h4 className="font-semibold mb-2">First Session Slides</h4>
               <p className="text-gray-600 text-sm mb-3">Google Slides template</p>
-              <Link href="/templates" className="text-primary-600 text-sm font-medium">Download →</Link>
+              <Link href="/templates" className="text-primary-600 text-sm font-medium">View →</Link>
             </div>
             <div className="bg-white p-6 rounded-lg border hover:shadow-lg transition-shadow">
               <h4 className="font-semibold mb-2">Progress Tracker</h4>
               <p className="text-gray-600 text-sm mb-3">Google Sheets template</p>
-              <Link href="/templates" className="text-primary-600 text-sm font-medium">Download →</Link>
+              <Link href="/templates" className="text-primary-600 text-sm font-medium">View →</Link>
             </div>
           </div>
         </div>

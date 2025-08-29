@@ -144,7 +144,7 @@ export default function CoachingExercisesPage() {
                 Download ready-to-use worksheets for Wheel of Life, values exercises, and more.
               </p>
               <Link href="/templates" className="text-primary-600 text-sm font-medium">
-                Download Templates →
+                View Templates →
               </Link>
             </div>
           </div>

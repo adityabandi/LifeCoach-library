@@ -281,7 +281,7 @@ export default function GrowthPage() {
             <div className="bg-white p-6 rounded-lg border hover:shadow-lg transition-shadow">
               <h4 className="font-semibold mb-2">LinkedIn Marketing</h4>
               <p className="text-gray-600 text-sm mb-3">Professional networking strategies</p>
-              <Link href="/growth/linkedin-for-coaches" className="text-primary-600 text-sm font-medium">Learn Strategy →</Link>
+              <Link href="/templates" className="text-primary-600 text-sm font-medium">View →</Link>
             </div>
             <div className="bg-white p-6 rounded-lg border hover:shadow-lg transition-shadow">
               <h4 className="font-semibold mb-2">Instagram/TikTok</h4>
@@ -302,41 +302,7 @@ export default function GrowthPage() {
         </div>
       </section>
 
-      {/* Download Resources */}
-      <section className="py-16 bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Marketing Templates & Tools</h2>
-            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Ready-to-use resources to implement these marketing strategies immediately.
-            </p>
-          </div>
-
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <div className="bg-gray-50 p-6 rounded-lg">
-              <h4 className="font-semibold mb-2">SEO Topical Map</h4>
-              <p className="text-gray-600 text-sm mb-3">CSV starter template</p>
-              <Link href="/templates" className="text-primary-600 text-sm font-medium">Download →</Link>
-            </div>
-            <div className="bg-gray-50 p-6 rounded-lg">
-              <h4 className="font-semibold mb-2">30-Day LinkedIn Plan</h4>
-              <p className="text-gray-600 text-sm mb-3">Content calendar template</p>
-              <Link href="/templates" className="text-primary-600 text-sm font-medium">Download →</Link>
-            </div>
-            <div className="bg-gray-50 p-6 rounded-lg">
-              <h4 className="font-semibold mb-2">20 Video Hooks</h4>
-              <p className="text-gray-600 text-sm mb-3">Short-form content starters</p>
-              <Link href="/templates" className="text-primary-600 text-sm font-medium">Download →</Link>
-            </div>
-            <div className="bg-gray-50 p-6 rounded-lg">
-              <h4 className="font-semibold mb-2">Email Sequences</h4>
-              <p className="text-gray-600 text-sm mb-3">3 proven funnel templates</p>
-              <Link href="/templates" className="text-primary-600 text-sm font-medium">Download →</Link>
-            </div>
-          </div>
-        </div>
-      </section>
-
+      {/* View Resources */}
       <Footer />
     </div>
   )

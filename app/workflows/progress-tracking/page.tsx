@@ -171,7 +171,7 @@ export default function ProgressTrackingPage() {
                 Download ready-to-use progress trackers, goal sheets, and session summary templates.
               </p>
               <Link href="/templates" className="text-primary-600 text-sm font-medium">
-                Download Templates →
+                View Templates →
               </Link>
             </div>
           </div>

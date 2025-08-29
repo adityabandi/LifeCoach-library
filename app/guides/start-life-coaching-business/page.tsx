@@ -142,7 +142,7 @@ export default function StartLifeCoachingBusinessPage() {
                 Download ready-to-use business plans, pricing calculators, and service agreements.
               </p>
               <Link href="/templates" className="text-primary-600 text-sm font-medium">
-                Download Templates →
+                View Templates →
               </Link>
             </div>
           </div>
