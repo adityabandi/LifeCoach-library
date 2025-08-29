@@ -8,7 +8,7 @@ export const metadata = generateSEO({
   title: 'Client Onboarding Checklist - First Week Setup for Life Coaches',
   description: 'Complete onboarding checklist for new coaching clients. Set expectations, establish metrics, define success milestones, and create accountability systems from day one.',
   keywords: ['client onboarding', 'coaching checklist', 'new client setup', 'coaching expectations', 'client success metrics'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/workflows/client-onboarding-checklist',
+  canonicalUrl: 'https://lifecoachlibrary.com/workflows/client-onboarding-checklist',
 })
 
 export default function ClientOnboardingChecklistPage() {

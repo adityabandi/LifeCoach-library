@@ -8,7 +8,7 @@ export const metadata = generateSEO({
   title: 'First Coaching Session Agenda - 60-Minute Template for Life Coaches',
   description: 'Complete first session agenda template with timeboxed segments: Open → Goals → Plan → Next Steps. Maximize impact and set the foundation for successful coaching relationships.',
   keywords: ['first coaching session', 'session agenda', 'coaching structure', 'session template', 'life coach session plan'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/workflows/first-session-agenda',
+  canonicalUrl: 'https://lifecoachlibrary.com/workflows/first-session-agenda',
 })
 
 export default function FirstSessionAgendaPage() {

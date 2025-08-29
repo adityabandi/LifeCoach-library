@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'Building Strong Client Relationships: Communication & Boundary Framework',
   description: 'Master the essential skills for building trust, maintaining boundaries, and communicating effectively with coaching clients. Complete guide with templates and strategies.',
   keywords: ['client relationships', 'coaching boundaries', 'client communication', 'trust building', 'professional coaching'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/workflows/client-relationships',
+  canonicalUrl: 'https://lifecoachlibrary.com/workflows/client-relationships',
 })
 
 export default function ClientRelationshipsPage() {

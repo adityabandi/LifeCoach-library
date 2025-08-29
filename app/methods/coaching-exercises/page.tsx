@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'Essential Coaching Exercises Every Life Coach Should Know',
   description: 'Master the five fundamental coaching exercises including Wheel of Life, values identification, and goal setting to transform your coaching sessions.',
   keywords: ['coaching exercises', 'wheel of life', 'values identification', 'coaching techniques', 'life coaching tools'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/methods/coaching-exercises',
+  canonicalUrl: 'https://lifecoachlibrary.com/methods/coaching-exercises',
 })
 
 export default function CoachingExercisesPage() {

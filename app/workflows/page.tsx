@@ -9,7 +9,7 @@ export const metadata = generateSEO({
   title: 'Client Lifecycle Workflows - Life Coach Process Templates',
   description: 'Complete client journey workflows from lead to offboarding. Process maps, checklists, and templates for discovery, intake, onboarding, sessions, reviews, and reactivation.',
   keywords: ['coaching workflows', 'client lifecycle', 'coaching process', 'client onboarding', 'coaching templates', 'discovery call script'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/workflows',
+  canonicalUrl: 'https://lifecoachlibrary.com/workflows',
 })
 
 export default function WorkflowsPage() {

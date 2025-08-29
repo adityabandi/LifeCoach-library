@@ -8,7 +8,7 @@ export const metadata = generateSEO({
   title: 'Proven Coaching Models & Frameworks - GROW, OSKAR, Solution-Focused',
   description: 'Master evidence-based coaching models including GROW, OSKAR, CBT, and NLP frameworks. Templates and practical applications for life coaches.',
   keywords: ['coaching models', 'GROW model', 'OSKAR model', 'CBT coaching', 'NLP coaching', 'coaching frameworks'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/methods/coaching-models',
+  canonicalUrl: 'https://lifecoachlibrary.com/methods/coaching-models',
 })
 
 export default function CoachingModelsPage() {

@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'Life Coaching Industry Trends 2025: Growth, Technology & Future Outlook',
   description: 'Explore the latest trends shaping the life coaching industry in 2025, including AI integration, virtual coaching adoption, and emerging market opportunities.',
   keywords: ['life coaching trends 2025', 'coaching industry growth', 'virtual coaching trends', 'AI coaching', 'coaching market outlook'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/guides/industry-trends-2025',
+  canonicalUrl: 'https://lifecoachlibrary.com/guides/industry-trends-2025',
 })
 
 export default function IndustryTrends2025Page() {

@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'Virtual Coaching: Best Practices for Online Life Coaching Sessions',
   description: 'Master virtual coaching with proven strategies for technology setup, client engagement, and building rapport in online sessions. Essential guide for remote coaching success.',
   keywords: ['virtual coaching', 'online coaching', 'remote coaching', 'virtual sessions', 'digital coaching tools'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/guides/virtual-coaching',
+  canonicalUrl: 'https://lifecoachlibrary.com/guides/virtual-coaching',
 })
 
 export default function VirtualCoachingPage() {

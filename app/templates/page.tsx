@@ -8,7 +8,7 @@ export const metadata = generateSEO({
   title: 'Free Coaching Templates - Intake Forms, Session Plans & Progress Trackers',
   description: 'Access free professional coaching templates including client intake forms, session agendas, progress trackers, and assessment tools. Ready to use immediately.',
   keywords: ['coaching templates', 'intake forms', 'session plans', 'progress trackers', 'coaching tools'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/templates',
+  canonicalUrl: 'https://lifecoachlibrary.com/templates',
 })
 
 export default function TemplatesPage() {

@@ -9,7 +9,7 @@ export const metadata = generateSEO({
   title: 'Life Coach Marketing & Growth Strategies - Build Your Practice',
   description: 'Complete marketing funnel for life coaches: positioning, website conversion, SEO, LinkedIn, email funnels, referrals, pricing, and proof strategies.',
   keywords: ['life coach marketing', 'coaching business growth', 'coach SEO', 'LinkedIn for coaches', 'coaching referrals', 'coach pricing'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/growth',
+  canonicalUrl: 'https://lifecoachlibrary.com/growth',
 })
 
 export default function GrowthPage() {

@@ -98,7 +98,7 @@ export function generateArticleSchema(article: {
       name: 'Life Coach Library',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://adityabandi.github.io/LifeCoach-library/logo.png',
+        url: 'https://lifecoachlibrary.com/logo.png',
       },
     },
     mainEntityOfPage: {

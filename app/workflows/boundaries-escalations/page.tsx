@@ -8,7 +8,7 @@ export const metadata = generateSEO({
   title: 'Coach Boundaries & Escalation Protocols - Professional Practice Management',
   description: 'Essential boundaries, scope management, and escalation protocols for life coaches. Learn how to handle mental health concerns, maintain professional limits, and refer appropriately.',
   keywords: ['coaching boundaries', 'scope management', 'coach ethics', 'mental health referrals', 'professional coaching', 'escalation protocols'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/workflows/boundaries-escalations',
+  canonicalUrl: 'https://lifecoachlibrary.com/workflows/boundaries-escalations',
 })
 
 export default function BoundariesEscalationsPage() {

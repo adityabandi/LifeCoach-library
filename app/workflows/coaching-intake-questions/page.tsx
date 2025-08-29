@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'Coaching Intake: Questions, Consent & Red Flags (Free Forms) | Life Coach Library',
   description: 'Complete coaching intake process with 25 essential questions, consent forms, red flag identification, and free Typeform templates. Set proper boundaries from day one.',
   keywords: ['coaching intake questions', 'coaching intake form', 'coaching consent form', 'coaching red flags', 'client intake process'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/workflows/coaching-intake-questions',
+  canonicalUrl: 'https://lifecoachlibrary.com/workflows/coaching-intake-questions',
 })
 
 export default function CoachingIntakeQuestionsPage() {

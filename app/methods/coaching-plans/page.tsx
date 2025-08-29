@@ -6,7 +6,7 @@ export const metadata = generateSEO({
   title: 'Developing Effective Coaching Plans: Templates and Frameworks for Success',
   description: 'Learn how coaching plans and templates provide structure, clarity and accountability, and explore evidence‑based frameworks such as the Best Possible Self and Life Domain Satisfaction exercises.',
   keywords: ['coaching plans', 'coaching templates', 'coaching frameworks', 'SMART goals coaching', 'coaching structure'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/methods/coaching-plans',
+  canonicalUrl: 'https://lifecoachlibrary.com/methods/coaching-plans',
 })
 
 export default function CoachingPlansPage() {

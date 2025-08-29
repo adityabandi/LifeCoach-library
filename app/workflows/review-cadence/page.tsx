@@ -8,7 +8,7 @@ export const metadata = generateSEO({
   title: 'Review Cadence for Life Coaches - Client Progress Assessment System',
   description: 'Structured review schedule and assessment frameworks to track client progress, celebrate wins, adjust goals, and maintain momentum throughout coaching programs.',
   keywords: ['coaching reviews', 'progress tracking', 'client assessment', 'coaching cadence', 'milestone reviews'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/workflows/review-cadence',
+  canonicalUrl: 'https://lifecoachlibrary.com/workflows/review-cadence',
 })
 
 export default function ReviewCadencePage() {

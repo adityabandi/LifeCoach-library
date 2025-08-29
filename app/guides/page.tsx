@@ -9,7 +9,7 @@ export const metadata = generateSEO({
   title: 'Free Life Coaching Business Guides - Start & Grow Your Practice',
   description: 'Comprehensive guides for starting, marketing, and scaling your life coaching business. Industry trends, virtual coaching, and proven strategies.',
   keywords: ['life coaching business', 'coaching guides', 'start coaching practice', 'coaching industry trends'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/guides',
+  canonicalUrl: 'https://lifecoachlibrary.com/guides',
 })
 
 export default function GuidesPage() {

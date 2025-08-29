@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'Instagram & TikTok for Life Coaches: Video Content That Converts (No Dancing)',
   description: 'Master short-form video content for life coaches. Learn proven hooks, content frameworks, and strategies to attract ideal clients on Instagram and TikTok without dancing.',
   keywords: ['how to be a life coach', 'Instagram for life coaches', 'TikTok for coaches', 'video content coaching', 'social media for coaches', 'coaching reels'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/growth/short-video-for-coaches',
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/short-video-for-coaches',
 })
 
 export default function ShortVideoForCoachesPage() {

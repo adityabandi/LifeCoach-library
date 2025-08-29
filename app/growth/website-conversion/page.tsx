@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'Website That Converts: Layout, Copy, Offers & Proof for Life Coaches',
   description: 'Learn how to be a life coach with a high-converting website. Master layout design, persuasive copy, irresistible offers, and social proof that turns visitors into clients.',
   keywords: ['how to be a life coach', 'life coach website', 'converting website', 'coach website design', 'life coaching business', 'website copy'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/growth/website-conversion',
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/website-conversion',
 })
 
 export default function WebsiteConversionPage() {

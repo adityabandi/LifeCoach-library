@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'How to Start a Life Coaching Business: Complete 2025 Guide',
   description: 'Learn how to start a successful life coaching business with our comprehensive guide covering certification, niche selection, pricing, and client acquisition strategies.',
   keywords: ['start life coaching business', 'life coach certification', 'coaching business plan', 'life coaching career', 'coaching niche'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/guides/start-life-coaching-business',
+  canonicalUrl: 'https://lifecoachlibrary.com/guides/start-life-coaching-business',
 })
 
 export default function StartLifeCoachingBusinessPage() {

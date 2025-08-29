@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'How to Be a Life Coach: Build Email Funnels That Convert Leads to Clients',
   description: 'Master email marketing for life coaches. Learn to create automated sequences, lead magnets, and nurture campaigns that convert subscribers into paying coaching clients.',
   keywords: ['how to be a life coach', 'email funnel', 'email marketing for coaches', 'lead magnet', 'email automation', 'life coaching business'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/growth/email-funnels',
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/email-funnels',
 })
 
 export default function EmailFunnelsPage() {

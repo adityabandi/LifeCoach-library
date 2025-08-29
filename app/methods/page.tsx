@@ -9,7 +9,7 @@ export const metadata = generateSEO({
   title: 'Proven Coaching Methods & Techniques - Frameworks for Life Coaches',
   description: 'Evidence-based coaching methods, exercises, and session structures. Learn GROW model, coaching plans, and transformational techniques.',
   keywords: ['coaching methods', 'coaching techniques', 'GROW model', 'coaching exercises', 'session structure'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/methods',
+  canonicalUrl: 'https://lifecoachlibrary.com/methods',
 })
 
 export default function MethodsPage() {

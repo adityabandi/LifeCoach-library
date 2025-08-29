@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'How to Collect Powerful Testimonials & Case Studies for Life Coaches',
   description: 'Master the art of collecting compelling testimonials and creating case studies that convert. Includes scripts, templates, and proven strategies for building social proof.',
   keywords: ['how to be a life coach', 'testimonials for coaches', 'case studies', 'social proof', 'client testimonials', 'coaching results'],
-  canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/growth/testimonials-case-studies',
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/testimonials-case-studies',
 })
 
 export default function TestimonialsPage() {
