@@ -59,8 +59,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ]
 
-  // Pillar pages
-  const pillarPages = [
+  // Guide pages
+  const guidePages = [
     {
       url: `${baseUrl}/guides/start-life-coaching-business`,
       lastModified: new Date(),
@@ -79,26 +79,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly' as const,
       priority: 0.9,
     },
+  ]
+
+  // Methods pages
+  const methodPages = [
     {
-      url: `${baseUrl}/workflows/client-intake-onboarding`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.9,
-    },
-    {
-      url: `${baseUrl}/workflows/progress-tracking`,
+      url: `${baseUrl}/methods/coaching-exercises`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
     },
     {
       url: `${baseUrl}/methods/coaching-models`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.9,
-    },
-    {
-      url: `${baseUrl}/methods/coaching-exercises`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
@@ -115,6 +107,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly' as const,
       priority: 0.9,
     },
+  ]
+
+  // Growth/Marketing pages
+  const growthPages = [
+    {
+      url: `${baseUrl}/growth/content-marketing-for-coaches`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/growth/email-funnels`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/growth/linkedin-for-coaches`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    },
     {
       url: `${baseUrl}/growth/marketing-for-life-coaches`,
       lastModified: new Date(),
@@ -122,24 +136,118 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/growth/content-marketing-for-coaches`,
+      url: `${baseUrl}/growth/positioning-for-coaches`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
-      priority: 0.9,
+      priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/linkedin-for-coaches`,
+      url: `${baseUrl}/growth/pricing-for-coaches`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
-      priority: 0.9,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/growth/referrals-partnerships`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
     },
     {
       url: `${baseUrl}/growth/seo-for-life-coaches`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
-      priority: 0.9,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/growth/short-video-for-coaches`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/growth/testimonials-case-studies`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/growth/webinar-playbook`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/growth/website-conversion`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
     },
   ]
 
-  return [...staticPages, ...pillarPages]
+  // Workflow pages
+  const workflowPages = [
+    {
+      url: `${baseUrl}/workflows/boundaries-escalations`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/workflows/client-intake-onboarding`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/workflows/client-onboarding-checklist`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/workflows/client-relationships`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/workflows/coaching-intake-questions`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/workflows/discovery-call-script`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/workflows/first-session-agenda`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/workflows/offboarding-reactivation`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/workflows/progress-tracking`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/workflows/review-cadence`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+  ]
+
+  return [...staticPages, ...guidePages, ...methodPages, ...growthPages, ...workflowPages]
 }
