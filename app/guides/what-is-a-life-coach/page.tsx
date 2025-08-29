@@ -169,7 +169,7 @@ export default function WhatIsALifeCoachPage() {
                   <li className="flex items-start">
                     <svg className="w-5 h-5 text-blue-500 mr-3 mt-1" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
-    </svg>
+                    </svg>
                     <span>Action planning and milestone tracking</span>
                   </li>
                   <li className="flex items-start">
@@ -720,7 +720,7 @@ export default function WhatIsALifeCoachPage() {
             </div>
 
             <div className="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-8 rounded-lg mt-8">
-              <h3 className="text-2xl font-bold mb-4">Ready to Start Your Life Coaching Journey?</h3>
+              <h3 className="text-2xl font-bold text-white mb-4">Ready to Start Your Life Coaching Journey?</h3>
               <p className="text-primary-100 mb-6">
                 Get access to our complete business startup guide, templates, and resources to launch your coaching practice successfully.
               </p>
