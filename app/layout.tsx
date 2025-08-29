@@ -78,6 +78,19 @@ export default function RootLayout({
   return (
     <html lang="en" className="font-sans">
       <head>
+        {/* Google Analytics */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-K7ZE52MEMX"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-K7ZE52MEMX');
+            `,
+          }}
+        />
+
         {/* Enhanced favicon support */}
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />

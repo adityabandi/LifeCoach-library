@@ -168,64 +168,109 @@ export default function HomePage() {
 
             {/* Virtual Coaching */}
             <div className="feature-card hover-glow">
-              <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mb-4">
-                <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div className="w-16 h-16 bg-gradient-to-br from-blue-100 to-blue-200 rounded-2xl flex items-center justify-center mb-6 template-icon">
+                <svg className="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-3">Virtual Coaching</h3>
-              <p className="text-gray-600 mb-4">
+              <h3 className="text-2xl font-bold text-gray-900 mb-4">Virtual Coaching</h3>
+              <p className="text-gray-600 mb-6 leading-relaxed">
                 Master online coaching with tools, best practices, and strategies for delivering powerful virtual sessions.
               </p>
-              <ul className="space-y-2 text-sm text-gray-600 mb-6">
-                <li>• Essential virtual coaching tools</li>
-                <li>• Online session best practices</li>
-                <li>• Global reach & cost reduction strategies</li>
+              <ul className="space-y-3 text-gray-600 mb-8">
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-blue-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  Essential virtual coaching tools
+                </li>
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-blue-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  Online session best practices
+                </li>
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-blue-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  Global reach & cost reduction strategies
+                </li>
               </ul>
-              <Link href="/guides/virtual-coaching" className="text-primary-600 font-medium hover:text-primary-700 transition-colors hover-lift">
-                Go Virtual →
+              <Link href="/guides/virtual-coaching" className="btn-outline w-full hover-lift">
+                Go Virtual
               </Link>
             </div>
 
             {/* Marketing & Growth */}
             <div className="feature-card hover-glow">
-              <div className="w-12 h-12 bg-orange-100 rounded-lg flex items-center justify-center mb-4">
-                <svg className="w-6 h-6 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div className="w-16 h-16 bg-gradient-to-br from-orange-100 to-orange-200 rounded-2xl flex items-center justify-center mb-6 template-icon">
+                <svg className="w-8 h-8 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-3">Marketing & Growth</h3>
-              <p className="text-gray-600 mb-4">
+              <h3 className="text-2xl font-bold text-gray-900 mb-4">Marketing & Growth</h3>
+              <p className="text-gray-600 mb-6 leading-relaxed">
                 Proven marketing strategies to attract ideal clients and scale your coaching practice organically.
               </p>
-              <ul className="space-y-2 text-sm text-gray-600 mb-6">
-                <li>• SEO & content marketing strategies</li>
-                <li>• LinkedIn networking for coaches</li>
-                <li>• Referral & word-of-mouth systems</li>
+              <ul className="space-y-3 text-gray-600 mb-8">
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-orange-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  SEO & content marketing strategies
+                </li>
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-orange-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  LinkedIn networking for coaches
+                </li>
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-orange-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  Referral & word-of-mouth systems
+                </li>
               </ul>
-              <Link href="/growth" className="text-primary-600 font-medium hover:text-primary-700 transition-colors hover-lift">
-                Grow Practice →
+              <Link href="/growth" className="btn-outline w-full hover-lift">
+                Grow Practice
               </Link>
             </div>
 
             {/* Templates & Tools */}
             <div className="feature-card hover-glow">
-              <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center mb-4">
-                <svg className="w-6 h-6 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div className="w-16 h-16 bg-gradient-to-br from-red-100 to-red-200 rounded-2xl flex items-center justify-center mb-6 template-icon">
+                <svg className="w-8 h-8 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-3">Ready-to-Use Templates</h3>
-              <p className="text-gray-600 mb-4">
+              <h3 className="text-2xl font-bold text-gray-900 mb-4">Ready-to-Use Templates</h3>
+              <p className="text-gray-600 mb-6 leading-relaxed">
                 Access immediately. No email required. Ready to use.
               </p>
-              <ul className="space-y-2 text-sm text-gray-600 mb-6">
-                <li>• Client intake & assessment forms</li>
-                <li>• Session agendas & planning sheets</li>
-                <li>• Progress trackers & goal worksheets</li>
+              <ul className="space-y-3 text-gray-600 mb-8">
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-red-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  Client intake & assessment forms
+                </li>
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-red-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  Session agendas & planning sheets
+                </li>
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-red-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  Progress trackers & goal worksheets
+                </li>
               </ul>
-              <Link href="/templates" className="text-primary-600 font-medium hover:text-primary-700 transition-colors hover-lift">
-                Access Templates →
+              <Link href="/templates" className="btn-outline w-full hover-lift">
+                Access Templates
               </Link>
             </div>
           </div>
