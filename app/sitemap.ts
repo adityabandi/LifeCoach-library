@@ -1,8 +1,24 @@
 import { MetadataRoute } from 'next'
 
+// Environment-aware site URL configuration
+function getSiteUrl(): string {
+  // Check for environment variable first (for different deployment environments)
+  if (process.env.NEXT_PUBLIC_SITE_URL) {
+    return process.env.NEXT_PUBLIC_SITE_URL
+  }
+
+  // Fallback to GitHub Pages URL
+  if (process.env.NODE_ENV === 'production') {
+    return 'https://adityabandi.github.io/LifeCoach-library'
+  }
+
+  // Development fallback
+  return 'http://localhost:3000'
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://adityabandi.github.io/LifeCoach-library'
-  
+  const baseUrl = getSiteUrl()
+
   // Static pages
   const staticPages = [
     {
@@ -52,7 +68,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
+      url: `${baseUrl}/guides/industry-trends-2025`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/guides/virtual-coaching`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/workflows/client-intake-onboarding`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/workflows/progress-tracking`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
@@ -64,7 +98,43 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
+      url: `${baseUrl}/methods/coaching-exercises`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/methods/coaching-plans`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/methods/coaching-session-structure`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/growth/marketing-for-life-coaches`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/growth/content-marketing-for-coaches`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/growth/linkedin-for-coaches`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/growth/seo-for-life-coaches`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,

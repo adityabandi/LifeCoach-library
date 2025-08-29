@@ -131,25 +131,27 @@
     content: '';
     @apply absolute inset-0 bg-gradient-to-br from-primary-50 via-primary-100 to-accent-50 rounded-2xl opacity-0 transition-all duration-500 ease-out;
     pointer-events: none;
+    z-index: 1;
   }
 
   .feature-card:hover::before {
-    @apply opacity-100;
+    @apply opacity-30;
   }
 
   .feature-card::after {
     content: '';
     @apply absolute inset-0 rounded-2xl opacity-0 transition-all duration-500 ease-out;
-    background: linear-gradient(135deg, rgba(45, 158, 117, 0.1) 0%, rgba(237, 115, 26, 0.1) 100%);
-    box-shadow: 0 0 40px rgba(45, 158, 117, 0.15), 0 0 60px rgba(45, 158, 117, 0.08);
+    background: linear-gradient(135deg, rgba(45, 158, 117, 0.15) 0%, rgba(237, 115, 26, 0.15) 100%);
+    box-shadow: 0 0 40px rgba(45, 158, 117, 0.2), 0 0 60px rgba(45, 158, 117, 0.1);
     pointer-events: none;
+    z-index: 2;
   }
 
   .feature-card:hover::after {
     @apply opacity-100;
   }
 
-  .feature-card:hover .feature-card-content {
+  .feature-card > * {
     @apply relative z-10;
   }
 

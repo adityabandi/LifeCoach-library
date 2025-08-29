@@ -9,6 +9,22 @@ interface SEOProps {
   noindex?: boolean
 }
 
+// Environment-aware site URL configuration
+function getSiteUrl(): string {
+  // Check for environment variable first (for different deployment environments)
+  if (process.env.NEXT_PUBLIC_SITE_URL) {
+    return process.env.NEXT_PUBLIC_SITE_URL
+  }
+
+  // Fallback to GitHub Pages URL
+  if (process.env.NODE_ENV === 'production') {
+    return 'https://adityabandi.github.io/LifeCoach-library'
+  }
+
+  // Development fallback
+  return 'http://localhost:3000'
+}
+
 export function generateSEO({
   title,
   description,
@@ -17,9 +33,12 @@ export function generateSEO({
   ogImage,
   noindex = false,
 }: SEOProps): Metadata {
-  const siteUrl = 'https://adityabandi.github.io/LifeCoach-library'
+  const siteUrl = getSiteUrl()
   const fullTitle = `${title} | Life Coach Library`
-  
+
+  // Ensure canonical URL includes the full path
+  const finalCanonicalUrl = canonicalUrl || siteUrl
+
   return {
     title: fullTitle,
     description,
@@ -27,21 +46,30 @@ export function generateSEO({
     openGraph: {
       title: fullTitle,
       description,
-      url: canonicalUrl || siteUrl,
+      url: finalCanonicalUrl,
       siteName: 'Life Coach Library',
-      ...(ogImage && { images: [{ url: ogImage }] }),
+      ...(ogImage && { images: [{ url: ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}` }] }),
       type: 'article',
     },
     twitter: {
       card: 'summary_large_image',
       title: fullTitle,
       description,
-      ...(ogImage && { images: [ogImage] }),
+      ...(ogImage && { images: [ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`] }),
     },
     alternates: {
-      canonical: canonicalUrl || siteUrl,
+      canonical: finalCanonicalUrl,
     },
     robots: noindex ? { index: false, follow: false } : { index: true, follow: true },
+    // Add additional metadata for better SEO
+    authors: [{ name: 'Life Coach Library' }],
+    creator: 'Life Coach Library',
+    publisher: 'Life Coach Library',
+    formatDetection: {
+      email: false,
+      address: false,
+      telephone: false,
+    },
   }
 }
 
