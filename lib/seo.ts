@@ -16,9 +16,9 @@ function getSiteUrl(): string {
     return process.env.NEXT_PUBLIC_SITE_URL
   }
 
-  // Fallback to GitHub Pages URL
+  // Production URL for custom domain
   if (process.env.NODE_ENV === 'production') {
-    return 'https://adityabandi.github.io/LifeCoach-library'
+    return 'https://lifecoachlibrary.com'
   }
 
   // Development fallback

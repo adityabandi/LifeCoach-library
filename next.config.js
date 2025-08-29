@@ -9,9 +9,7 @@ const nextConfig = {
     mdxRs: true,
   },
   pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx'],
-  basePath: '/LifeCoach-library',
-  assetPrefix: '/LifeCoach-library',
-  // Disable server-side features for static export
+  // Removed basePath and assetPrefix for custom domain
   poweredByHeader: false,
 }
 
