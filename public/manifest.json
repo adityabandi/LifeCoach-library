@@ -1,0 +1,42 @@
+{
+  "name": "Life Coach Library",
+  "short_name": "Coach Library",
+  "description": "Free coaching templates, business guides, and proven methods for life coaches",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2d9e75",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "categories": ["education", "business", "productivity"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Templates",
+      "short_name": "Templates",
+      "description": "Download free coaching templates",
+      "url": "/templates",
+      "icons": [{ "src": "/favicon.svg", "sizes": "96x96" }]
+    },
+    {
+      "name": "Guides",
+      "short_name": "Guides",
+      "description": "Business guides for coaches",
+      "url": "/guides",
+      "icons": [{ "src": "/favicon.svg", "sizes": "96x96" }]
+    }
+  ]
+}

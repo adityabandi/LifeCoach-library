@@ -17,20 +17,20 @@ export default function HomePage() {
       <Header />
 
       {/* Hero Section */}
-      <section className="hero-gradient py-24">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <section className="mobile-hero">
+        <div className="mobile-container">
           <div className="text-center">
             <div className="mb-12">
               <Logo variant="icon" size="xl" className="mx-auto animate-float" />
             </div>
-            <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-8 leading-tight">
+            <h1 className="mobile-hero-title text-gray-900 mb-8 leading-tight">
               Everything You Need to Build a <span className="gradient-text">Thriving Coaching Practice</span>
             </h1>
-            <p className="text-xl text-gray-600 mb-10 max-w-4xl mx-auto leading-relaxed">
+            <p className="mobile-hero-subtitle mb-10 max-w-4xl mx-auto leading-relaxed">
               From startup guides to advanced marketing strategies, get access to proven templates, 
               coaching methodologies, and business resources used by successful life coaches worldwide.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <div className="mobile-button-grid">
               <Link href="/templates" className="btn-primary hover-lift">
                 Get Free Templates
                 <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">

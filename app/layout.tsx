@@ -1,6 +1,22 @@
 import '../styles/globals.css'
 import { Metadata } from 'next'
 
+// Environment-aware site URL configuration
+function getSiteUrl(): string {
+  // Check for environment variable first (for different deployment environments)
+  if (process.env.NEXT_PUBLIC_SITE_URL) {
+    return process.env.NEXT_PUBLIC_SITE_URL
+  }
+
+  // Fallback to GitHub Pages URL
+  if (process.env.NODE_ENV === 'production') {
+    return 'https://adityabandi.github.io/LifeCoach-library'
+  }
+
+  // Development fallback
+  return 'http://localhost:3000'
+}
+
 export const metadata: Metadata = {
   title: {
     default: 'Life Coach Library - Free Templates & Resources for Coaches',
@@ -14,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://adityabandi.github.io/LifeCoach-library/',
+    url: getSiteUrl(),
     siteName: 'Life Coach Library',
     title: 'Life Coach Library - Free Templates & Resources for Coaches',
     description: 'Free coaching templates, business guides, and proven methods for life coaches. Download intake forms, session plans, and grow your coaching practice.',
@@ -39,6 +55,17 @@ export const metadata: Metadata = {
   verification: {
     google: 'verification_token_here',
   },
+  // Mobile optimization
+  viewport: {
+    width: 'device-width',
+    initialScale: 1,
+    maximumScale: 5,
+  },
+  themeColor: '#2d9e75',
+  colorScheme: 'light',
+  formatDetection: {
+    telephone: false,
+  },
 }
 
 export default function RootLayout({
@@ -46,16 +73,45 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+  const siteUrl = getSiteUrl()
+
   return (
     <html lang="en" className="font-sans">
       <head>
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href="https://adityabandi.github.io/LifeCoach-library/" />
+        {/* Enhanced favicon support */}
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/favicon.svg" />
+        <link rel="manifest" href="/manifest.json" />
+
+        {/* Environment-aware canonical URL */}
+        <link rel="canonical" href={siteUrl} />
+
+        {/* Preconnect for performance */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet" />
+
+        {/* Mobile optimization meta tags */}
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+        <meta name="theme-color" content="#2d9e75" />
+        <meta name="color-scheme" content="light" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+        <meta name="apple-mobile-web-app-title" content="Life Coach Library" />
+
+        {/* Open Graph images for social sharing */}
+        <meta property="og:image" content={`${siteUrl}/og-image.jpg`} />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:type" content="image/jpeg" />
+
+        {/* Twitter Card images */}
+        <meta name="twitter:image" content={`${siteUrl}/og-image.jpg`} />
       </head>
-      <body>
+      <body className="min-h-screen bg-white text-gray-900 antialiased">
         {children}
       </body>
     </html>
