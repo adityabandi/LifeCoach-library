@@ -1,1 +1,21 @@
-npm run validate
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# Load nvm and use the correct node version if available
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+
+# Try to find npm in common locations
+if command -v npm >/dev/null 2>&1; then
+    npm run validate
+elif [ -f "/usr/local/bin/npm" ]; then
+    /usr/local/bin/npm run validate
+elif [ -f "$HOME/.nvm/versions/node/*/bin/npm" ]; then
+    # Find the latest npm version installed via nvm
+    NPM_PATH=$(find "$HOME/.nvm/versions/node" -name "npm" -type f | head -1)
+    "$NPM_PATH" run validate
+else
+    echo "npm not found in PATH. Skipping pre-commit validation."
+    echo "Please ensure Node.js and npm are properly installed."
+    exit 1
+fi
