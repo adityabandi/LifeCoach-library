@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import { Metadata } from 'next'
+import { Metadata, Viewport } from 'next'
 
 // Environment-aware site URL configuration
 function getSiteUrl(): string {
@@ -55,17 +55,17 @@ export const metadata: Metadata = {
   verification: {
     google: 'verification_token_here',
   },
-  // Mobile optimization
-  viewport: {
-    width: 'device-width',
-    initialScale: 1,
-    maximumScale: 5,
-  },
-  themeColor: '#2d9e75',
-  colorScheme: 'light',
   formatDetection: {
     telephone: false,
   },
+}
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 5,
+  themeColor: '#2d9e75',
+  colorScheme: 'light',
 }
 
 export default function RootLayout({
@@ -93,10 +93,6 @@ export default function RootLayout({
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet" />
 
         {/* Mobile optimization meta tags */}
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
-        <meta name="theme-color" content="#2d9e75" />
-        <meta name="color-scheme" content="light" />
-        <meta name="format-detection" content="telephone=no" />
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />

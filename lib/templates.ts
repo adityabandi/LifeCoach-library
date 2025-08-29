@@ -4495,5 +4495,853 @@ November: Gratitude & Reflection
 December: Year-End Review
 
 Remember: Authenticity beats perfection. Your audience wants to connect with the real you, not a perfect version. Share your journey, struggles, and insights genuinely.`
+  },
+
+  // Add missing templates
+  {
+    slug: 'weekly-check-in-form',
+    title: 'Weekly Check-in Form',
+    description: 'Simple yet comprehensive weekly check-in form to track client progress, challenges, and wins between sessions.',
+    category: 'progress-trackers',
+    content: `WEEKLY CHECK-IN FORM
+
+CLIENT INFORMATION
+==================
+Name: _____________________________
+Week of: ___________________________
+Session Number: ____________________
+Coach: ____________________________
+
+PROGRESS REVIEW
+===============
+1. How would you rate your overall week?
+1 ── 2 ── 3 ── 4 ── 5 ── 6 ── 7 ── 8 ── 9 ── 10
+(1 = Very challenging, 10 = Excellent)
+
+2. What were your biggest wins this week?
+___________________________________
+___________________________________
+___________________________________
+
+3. What challenges did you face?
+___________________________________
+___________________________________
+___________________________________
+
+GOAL PROGRESS
+=============
+4. Rate your progress on your main goal this week:
+☐ Exceeded expectations
+☐ Met expectations  
+☐ Made some progress
+☐ No progress
+☐ Moved backward
+
+5. What specific actions did you take toward your goal?
+☐ Action 1: _______________________
+☐ Action 2: _______________________
+☐ Action 3: _______________________
+☐ Other: _________________________
+
+6. What prevented you from making more progress?
+___________________________________
+___________________________________
+
+ENERGY & WELL-BEING
+==================
+7. How were your energy levels this week?
+☐ Very high ☐ High ☐ Moderate ☐ Low ☐ Very low
+
+8. How well did you take care of yourself?
+☐ Excellent ☐ Good ☐ Average ☐ Poor ☐ Very poor
+
+9. What self-care activities did you engage in?
+☐ Exercise/Movement
+☐ Healthy eating
+☐ Adequate sleep
+☐ Meditation/Mindfulness
+☐ Social connection
+☐ Hobbies/Fun activities
+☐ Other: _____________
+
+RELATIONSHIPS & COMMUNICATION
+=============================
+10. How were your relationships this week?
+Family: ☐ Great ☐ Good ☐ Okay ☐ Challenging
+Friends: ☐ Great ☐ Good ☐ Okay ☐ Challenging  
+Work: ☐ Great ☐ Good ☐ Okay ☐ Challenging
+Romantic: ☐ Great ☐ Good ☐ Okay ☐ Challenging ☐ N/A
+
+11. Any relationship insights or challenges to discuss?
+___________________________________
+___________________________________
+
+LEARNING & GROWTH
+================
+12. What did you learn about yourself this week?
+___________________________________
+___________________________________
+
+13. What patterns did you notice in your behavior or thinking?
+___________________________________
+___________________________________
+
+14. How did you step out of your comfort zone?
+___________________________________
+___________________________________
+
+LOOKING AHEAD
+=============
+15. What are your top 3 priorities for next week?
+1. ________________________________
+2. ________________________________
+3. ________________________________
+
+16. What support do you need from your coach?
+___________________________________
+___________________________________
+
+17. What would make next week a success?
+___________________________________
+___________________________________
+
+GRATITUDE & REFLECTION
+======================
+18. What are you most grateful for this week?
+___________________________________
+___________________________________
+
+19. If you could redo this week, what would you do differently?
+___________________________________
+___________________________________
+
+20. Additional thoughts or items to discuss in our next session:
+___________________________________
+___________________________________
+___________________________________
+
+COACH NOTES SECTION
+==================
+(For coach use only)
+
+Observations:
+___________________________________
+___________________________________
+
+Action items for next session:
+___________________________________
+___________________________________
+
+Follow-up needed:
+___________________________________
+___________________________________`
+  },
+
+  {
+    slug: 'webinar-presentation-deck',
+    title: 'Webinar Presentation Deck',
+    description: 'Complete webinar presentation template for life coaches to deliver engaging and valuable online sessions.',
+    category: 'marketing-tools',
+    content: `WEBINAR PRESENTATION DECK TEMPLATE
+
+WEBINAR PLANNING CHECKLIST
+==========================
+☐ Topic selected and validated
+☐ Target audience defined
+☐ Learning objectives set
+☐ Content outline created
+☐ Registration page live
+☐ Promotional materials ready
+☐ Technology tested
+☐ Follow-up sequence planned
+
+SLIDE STRUCTURE TEMPLATE
+========================
+
+SLIDE 1: TITLE SLIDE
+Title: [Your Webinar Title]
+Subtitle: [Brief description]
+Presenter: [Your name and credentials]
+Date: [Webinar date]
+
+SLIDE 2: WELCOME & HOUSEKEEPING
+"Welcome to [Webinar Title]"
+• Please mute your microphone
+• Questions in chat - we'll answer at the end
+• This session is being recorded
+• Slides will be shared afterward
+
+SLIDE 3: WHO AM I?
+• Your name and photo
+• Your coaching credentials
+• Brief personal story/journey
+• What makes you qualified to teach this topic
+
+SLIDE 4: AGENDA
+What we'll cover today:
+1. [Main point 1]
+2. [Main point 2] 
+3. [Main point 3]
+4. [Action steps]
+5. Q&A
+
+SLIDE 5: POLL/ENGAGEMENT
+Interactive question to engage audience:
+"In the chat, tell us: What's your biggest challenge with [topic]?"
+or
+"On a scale of 1-10, how confident do you feel about [topic]?"
+
+SLIDE 6: THE PROBLEM
+• What challenge are your audience facing?
+• Statistics or research to support
+• Paint the picture of their pain point
+• "Raise your hand if you've ever felt..."
+
+SLIDE 7: WHY THIS MATTERS
+• The cost of not solving this problem
+• The opportunity they're missing
+• Why now is the right time to address it
+
+SLIDE 8: INTRODUCE THE SOLUTION
+• Your methodology/framework
+• Why it works
+• Brief overview of what you'll teach
+
+MAIN CONTENT SLIDES (9-20)
+==========================
+
+SLIDE 9: MAIN POINT 1 - TITLE
+[Clear, compelling title]
+
+SLIDE 10: MAIN POINT 1 - CONTENT
+• Key concept explained
+• Why it matters
+• Common mistakes to avoid
+
+SLIDE 11: MAIN POINT 1 - EXAMPLE
+Real example or case study
+• Client story (anonymized)
+• Before and after
+• Specific results
+
+SLIDE 12: MAIN POINT 2 - TITLE
+[Clear, compelling title]
+
+SLIDE 13: MAIN POINT 2 - CONTENT
+• Key concept explained  
+• Why it matters
+• Common mistakes to avoid
+
+SLIDE 14: MAIN POINT 2 - EXAMPLE
+Real example or case study
+• Different client story
+• Before and after
+• Specific results
+
+SLIDE 15: MAIN POINT 3 - TITLE
+[Clear, compelling title]
+
+SLIDE 16: MAIN POINT 3 - CONTENT
+• Key concept explained
+• Why it matters
+• Common mistakes to avoid
+
+SLIDE 17: MAIN POINT 3 - EXAMPLE
+Real example or case study
+• Third client story
+• Before and after
+• Specific results
+
+SLIDE 18: RECAP
+What we've covered:
+✓ [Main point 1]
+✓ [Main point 2]
+✓ [Main point 3]
+
+SLIDE 19: YOUR NEXT STEPS
+3 action items they can implement immediately:
+1. [Specific action]
+2. [Specific action]
+3. [Specific action]
+
+SLIDE 20: OFFER/CTA (if applicable)
+• What you're offering
+• Who it's for
+• What's included
+• Special webinar bonus
+• Clear next step
+
+CLOSING SLIDES (21-25)
+=====================
+
+SLIDE 21: FREE RESOURCE
+• Link to download
+• QR code
+• Brief description of value
+
+SLIDE 22: CONNECT WITH ME
+• Website
+• Social media handles
+• Email address
+• LinkedIn profile
+
+SLIDE 23: Q&A
+"Let's answer your questions!"
+• Keep chat open
+• Address questions one by one
+• Thank people for participating
+
+SLIDE 24: THANK YOU
+• Express gratitude
+• Reminder about recording/slides
+• Next steps
+• How to stay connected
+
+SLIDE 25: CONTACT INFO
+• All contact information
+• Website
+• Social media
+• Email for follow-up questions
+
+WEBINAR DELIVERY TIPS
+====================
+
+BEFORE THE WEBINAR:
+• Test all technology 30 minutes before
+• Have water nearby
+• Eliminate distractions
+• Review slides one final time
+• Set phone to silent
+
+DURING THE WEBINAR:
+• Start with energy and enthusiasm
+• Vary your vocal tone and pace
+• Pause for questions/interaction
+• Watch the chat for engagement
+• Stay on time with your agenda
+
+AFTER THE WEBINAR:
+• Send thank you email within 24 hours
+• Include recording link and slides
+• Follow up with non-attendees
+• Analyze engagement metrics
+• Plan your next webinar
+
+TECHNICAL SETUP
+===============
+
+RECOMMENDED TOOLS:
+• Platform: Zoom, WebEx, or GoToWebinar
+• Presentation: PowerPoint or Keynote
+• Backup internet connection
+• External microphone
+• Good lighting setup
+• Professional background
+
+SLIDE DESIGN BEST PRACTICES:
+• Maximum 6 lines of text per slide
+• Use large, readable fonts (24pt minimum)
+• High contrast colors
+• Consistent branding throughout
+• Minimal animations/transitions
+• Include your logo on each slide
+
+ENGAGEMENT STRATEGIES
+====================
+
+• Start with a poll or question
+• Use chat for interaction
+• Share your screen clearly
+• Tell stories and use examples
+• Ask rhetorical questions
+• Use the participants' names
+• Encourage note-taking
+• Provide actionable tips
+• Create urgency around your offer
+• End with clear next steps
+
+Remember: The goal is to provide value first, build relationships, and position yourself as the expert solution to their problems.`
+  },
+
+  {
+    slug: 'lead-magnet-templates',
+    title: 'Lead Magnet Templates',
+    description: 'Collection of high-converting lead magnet templates to build your email list and attract ideal coaching clients.',
+    category: 'marketing-tools',
+    content: `LEAD MAGNET TEMPLATES FOR COACHES
+
+TEMPLATE COLLECTION OVERVIEW
+============================
+This collection includes templates for:
+1. Checklists and Cheat Sheets
+2. Assessments and Quizzes
+3. Mini-Courses and Email Series
+4. Toolkits and Resource Lists
+5. Templates and Worksheets
+
+TEMPLATE 1: ULTIMATE CHECKLIST
+==============================
+
+TITLE: "The Ultimate [Your Niche] Success Checklist"
+SUBTITLE: "10 Essential Steps to [Desired Outcome]"
+
+INTRODUCTION:
+"Are you ready to [achieve specific goal]? This comprehensive checklist will guide you through the exact steps successful [target audience] follow to [desired outcome]. Print it out, keep it handy, and check off each item as you progress!"
+
+THE CHECKLIST:
+☐ Step 1: [Specific action with brief explanation]
+☐ Step 2: [Specific action with brief explanation]
+☐ Step 3: [Specific action with brief explanation]
+☐ Step 4: [Specific action with brief explanation]
+☐ Step 5: [Specific action with brief explanation]
+☐ Step 6: [Specific action with brief explanation]
+☐ Step 7: [Specific action with brief explanation]
+☐ Step 8: [Specific action with brief explanation]
+☐ Step 9: [Specific action with brief explanation]
+☐ Step 10: [Specific action with brief explanation]
+
+BONUS SECTION:
+"5 Common Mistakes to Avoid"
+1. [Mistake with explanation]
+2. [Mistake with explanation]
+3. [Mistake with explanation]
+4. [Mistake with explanation]
+5. [Mistake with explanation]
+
+CALL TO ACTION:
+"Ready to take your [goal] to the next level? I'd love to help you implement these strategies personally. Click here to schedule a free [X]-minute discovery call."
+
+TEMPLATE 2: SELF-ASSESSMENT QUIZ
+================================
+
+TITLE: "What's Your [Topic] Style?"
+SUBTITLE: "Discover Your Unique Approach and Get Personalized Recommendations"
+
+INTRODUCTION:
+"Take this quick 2-minute assessment to discover your unique [topic] style and receive personalized strategies that align with your natural strengths."
+
+QUESTIONS (10-15 multiple choice):
+1. When facing a challenge, you typically:
+   a) Dive in headfirst and figure it out as you go
+   b) Research thoroughly before taking action
+   c) Seek advice from others first
+   d) Create a detailed plan step by step
+
+2. Your ideal work environment is:
+   a) Fast-paced and dynamic
+   b) Structured and predictable
+   c) Collaborative and social
+   d) Quiet and focused
+
+[Continue with 8-13 more questions]
+
+RESULTS BREAKDOWN:
+Mostly A's: "The Action Taker"
+Mostly B's: "The Strategist"  
+Mostly C's: "The Collaborator"
+Mostly D's: "The Planner"
+
+[Include detailed description of each type with specific recommendations]
+
+TEMPLATE 3: 5-DAY EMAIL MINI-COURSE
+===================================
+
+TITLE: "5 Days to [Desired Outcome]"
+SUBTITLE: "A Free Email Course to Transform Your [Area of Life]"
+
+EMAIL 1: "Welcome! Your Journey Starts Now"
+• Welcome message
+• What to expect over 5 days
+• Day 1 lesson: [Foundation concept]
+• Action step for today
+
+EMAIL 2: "Day 2: [Key Concept]"
+• Quick recap of Day 1
+• Day 2 lesson: [Building block]
+• Real-life example
+• Action step for today
+
+EMAIL 3: "Day 3: [Advanced Strategy]"
+• Progress check-in
+• Day 3 lesson: [More complex concept]
+• Case study
+• Action step for today
+
+EMAIL 4: "Day 4: [Implementation Focus]"
+• Addressing common challenges
+• Day 4 lesson: [Practical application]
+• Troubleshooting tips
+• Action step for today
+
+EMAIL 5: "Day 5: [Mastery & Next Steps]"
+• Celebration of progress
+• Day 5 lesson: [Advanced strategy]
+• How to continue your growth
+• Soft pitch for your services
+
+TEMPLATE 4: RESOURCE TOOLKIT
+=============================
+
+TITLE: "The [Your Niche] Toolkit"
+SUBTITLE: "Essential Resources, Tools, and Templates for [Target Audience]"
+
+SECTION 1: RECOMMENDED BOOKS
+• Book 1: [Title] by [Author] - Why it's valuable
+• Book 2: [Title] by [Author] - Why it's valuable
+• Book 3: [Title] by [Author] - Why it's valuable
+
+SECTION 2: HELPFUL APPS & TOOLS
+• Tool 1: [Name] - What it does and why it's useful
+• Tool 2: [Name] - What it does and why it's useful
+• Tool 3: [Name] - What it does and why it's useful
+
+SECTION 3: FREE TEMPLATES
+• Template 1: [Description and link]
+• Template 2: [Description and link]
+• Template 3: [Description and link]
+
+SECTION 4: WEBSITES & BLOGS
+• Resource 1: [URL] - What you'll find there
+• Resource 2: [URL] - What you'll find there
+• Resource 3: [URL] - What you'll find there
+
+SECTION 5: PODCASTS TO FOLLOW
+• Podcast 1: [Name] - Why it's valuable
+• Podcast 2: [Name] - Why it's valuable
+• Podcast 3: [Name] - Why it's valuable
+
+TEMPLATE 5: WORKSHEET/WORKBOOK
+===============================
+
+TITLE: "[Specific Goal] Worksheet"
+SUBTITLE: "A Step-by-Step Guide to [Desired Outcome]"
+
+PART 1: CURRENT STATE ASSESSMENT
+Where are you now?
+1. Rate your current satisfaction with [topic]: ___/10
+2. What's working well? ________________
+3. What's not working? ________________
+4. What's your biggest challenge? ________________
+
+PART 2: VISION SETTING
+Where do you want to be?
+1. Describe your ideal [outcome]: ________________
+2. How will you know when you've achieved it? ________________
+3. What will be different in your life? ________________
+4. Why is this important to you? ________________
+
+PART 3: GAP ANALYSIS
+What's the difference between where you are and where you want to be?
+1. Skill gaps: ________________
+2. Resource gaps: ________________
+3. Mindset gaps: ________________
+4. Support gaps: ________________
+
+PART 4: ACTION PLANNING
+What steps will you take?
+Goal: ________________
+Timeline: ________________
+
+Week 1 Actions:
+• ________________
+• ________________
+• ________________
+
+Week 2 Actions:
+• ________________
+• ________________
+• ________________
+
+Week 3 Actions:
+• ________________
+• ________________
+• ________________
+
+Week 4 Actions:
+• ________________
+• ________________
+• ________________
+
+PART 5: ACCOUNTABILITY
+How will you stay on track?
+1. Who will support you? ________________
+2. How will you measure progress? ________________
+3. What might derail you? ________________
+4. How will you overcome obstacles? ________________
+
+LEAD MAGNET OPTIMIZATION TIPS
+=============================
+
+DESIGN BEST PRACTICES:
+• Clean, professional layout
+• Consistent branding and colors
+• Easy-to-read fonts
+• Plenty of white space
+• Include your logo and contact info
+
+CONTENT BEST PRACTICES:
+• Solve a specific problem
+• Provide immediate value
+• Keep it actionable
+• Make it easy to consume
+• Include next steps
+
+DELIVERY BEST PRACTICES:
+• Instant download after opt-in
+• Welcome email with download link
+• Follow-up sequence planned
+• Clear instructions for use
+• Contact info for questions
+
+PROMOTION STRATEGIES:
+• Social media posts
+• Blog post content upgrades
+• Guest posting
+• Joint ventures
+• Paid advertising
+• Webinar offers
+• Podcast interviews
+• Video content
+
+Remember: The best lead magnets solve a real problem for your ideal client and give them a taste of the transformation you can provide. Always follow up with valuable content that builds trust and demonstrates your expertise.`
+  },
+
+  {
+    slug: 'readiness-for-change-scale',
+    title: 'Readiness for Change Scale',
+    description: 'Assessment tool to evaluate client motivation and readiness for change, helping tailor coaching approaches accordingly.',
+    category: 'assessment-tools',
+    content: `READINESS FOR CHANGE SCALE
+
+ASSESSMENT OVERVIEW
+==================
+This assessment helps determine a client's readiness and motivation for change. Use this tool during intake or when exploring new goals to tailor your coaching approach effectively.
+
+CLIENT INFORMATION
+==================
+Name: _____________________________
+Date: _____________________________
+Coach: ____________________________
+Area of Change Being Assessed: ______
+___________________________________
+
+INSTRUCTIONS
+============
+For each statement below, circle the number that best represents how you feel right now about making changes in the area identified above.
+
+1 = Strongly Disagree
+2 = Disagree  
+3 = Somewhat Disagree
+4 = Neutral
+5 = Somewhat Agree
+6 = Agree
+7 = Strongly Agree
+
+MOTIVATION TO CHANGE
+===================
+1. I want to make changes in this area of my life.
+   1    2    3    4    5    6    7
+
+2. Making this change is important to me personally.
+   1    2    3    4    5    6    7
+
+3. I am committed to working on this change.
+   1    2    3    4    5    6    7
+
+4. The benefits of changing outweigh the costs.
+   1    2    3    4    5    6    7
+
+5. I have clear reasons for wanting to make this change.
+   1    2    3    4    5    6    7
+
+Motivation Score: ___/35
+
+CONFIDENCE TO CHANGE
+===================
+6. I believe I can successfully make this change.
+   1    2    3    4    5    6    7
+
+7. I have the skills needed to make this change.
+   1    2    3    4    5    6    7
+
+8. I can overcome obstacles that might arise.
+   1    2    3    4    5    6    7
+
+9. I have been successful at making similar changes before.
+   1    2    3    4    5    6    7
+
+10. I feel confident in my ability to maintain this change long-term.
+    1    2    3    4    5    6    7
+
+Confidence Score: ___/35
+
+READINESS TO ACT
+================
+11. I am ready to start working on this change immediately.
+    1    2    3    4    5    6    7
+
+12. I have already taken some steps toward this change.
+    1    2    3    4    5    6    7
+
+13. I am willing to invest time and energy into this change.
+    1    2    3    4    5    6    7
+
+14. I am prepared to make this change a priority in my life.
+    1    2    3    4    5    6    7
+
+15. I have a clear plan for how to make this change.
+    1    2    3    4    5    6    7
+
+Readiness Score: ___/35
+
+SUPPORT SYSTEM
+==============
+16. I have people in my life who will support this change.
+    1    2    3    4    5    6    7
+
+17. My environment will support me in making this change.
+    1    2    3    4    5    6    7
+
+18. I have access to the resources I need for this change.
+    1    2    3    4    5    6    7
+
+19. Important people in my life want me to make this change.
+    1    2    3    4    5    6    7
+
+20. I feel comfortable asking for help when I need it.
+    1    2    3    4    5    6    7
+
+Support Score: ___/35
+
+TOTAL READINESS SCORE
+=====================
+Motivation Score: ___/35
+Confidence Score: ___/35  
+Readiness Score: ___/35
+Support Score: ___/35
+
+TOTAL SCORE: ___/140
+
+SCORING INTERPRETATION
+======================
+
+TOTAL SCORE RANGES:
+
+115-140: HIGH READINESS
+You are highly motivated and ready for change. You have confidence in your abilities and strong support systems. This is an excellent time to begin your coaching journey.
+
+Coaching Approach:
+• Set challenging but achievable goals
+• Move quickly into action planning
+• Focus on implementation strategies
+• Regular accountability check-ins
+
+90-114: MODERATE-HIGH READINESS  
+You are generally ready for change but may need to strengthen certain areas. Focus on building confidence or motivation where scores are lower.
+
+Coaching Approach:
+• Address specific concerns in lower-scoring areas
+• Build on existing strengths and motivation
+• Create detailed action plans with built-in support
+• Regular progress reviews and adjustments
+
+65-89: MODERATE READINESS
+You have some motivation for change but may face significant barriers. Additional preparation and support may be needed before diving into action.
+
+Coaching Approach:
+• Explore ambivalence about change
+• Build motivation through values exploration
+• Develop support systems
+• Start with small, manageable steps
+
+40-64: LOW-MODERATE READINESS
+You may have some interest in change but face significant barriers or ambivalence. Focus on exploration and preparation before action.
+
+Coaching Approach:
+• Extensive exploration of motivation for change
+• Address barriers and concerns
+• Build confidence through skill development
+• Create strong support network before action
+
+20-39: LOW READINESS
+You may not be ready for significant change at this time. Focus on awareness building and preparation.
+
+Coaching Approach:
+• Explore what brought them to coaching
+• Focus on awareness and insight building
+• Address ambivalence about change
+• Consider if coaching is appropriate at this time
+
+INDIVIDUAL DIMENSION ANALYSIS
+=============================
+
+LOW MOTIVATION (1-20):
+• Explore values and personal reasons for change
+• Examine costs of not changing
+• Connect change to important life goals
+• Use motivational interviewing techniques
+
+LOW CONFIDENCE (1-20):
+• Break goals into smaller steps
+• Identify past successes and strengths
+• Develop specific skills needed for change
+• Practice and rehearse new behaviors
+
+LOW READINESS TO ACT (1-20):
+• Explore what's preventing action
+• Address practical barriers
+• Create specific timelines and plans
+• Start with very small steps
+
+LOW SUPPORT (1-20):
+• Identify potential sources of support
+• Address environmental barriers
+• Develop strategies for difficult relationships
+• Consider group coaching or support groups
+
+FOLLOW-UP QUESTIONS
+==================
+1. Which area scored lowest for you? Why do you think that is?
+___________________________________
+___________________________________
+
+2. What would need to change for you to feel more ready?
+___________________________________
+___________________________________
+
+3. What has helped you make changes successfully in the past?
+___________________________________
+___________________________________
+
+4. What are your biggest concerns about making this change?
+___________________________________
+___________________________________
+
+5. How important is making this change on a scale of 1-10? ___
+
+6. How confident are you that you can make this change on a scale of 1-10? ___
+
+COACH NOTES
+===========
+Assessment Date: _______________
+Key Observations:
+___________________________________
+___________________________________
+
+Recommended Coaching Approach:
+___________________________________
+___________________________________
+
+Areas to Focus On:
+___________________________________
+___________________________________
+
+Next Steps:
+___________________________________
+___________________________________
+
+Follow-up Assessment Date: __________
+
+Remember: Readiness for change can fluctuate over time. Regular reassessment can help track progress and adjust coaching approaches as needed.`
   }
 ]

@@ -181,7 +181,7 @@ export default function TemplatesPage() {
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">90-Day Goal Tracker</span>
                   <Link
-                    href="/templates/90-day-goal-tracker"
+                    href="/templates/goal-progress-tracker"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View 90-Day Goal Tracker"
                   >
@@ -201,7 +201,7 @@ export default function TemplatesPage() {
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Habit Tracker Worksheet</span>
                   <Link
-                    href="/templates/habit-tracker-worksheet"
+                    href="/templates/habit-formation-tracker"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View Habit Tracker Worksheet"
                   >
@@ -238,7 +238,7 @@ export default function TemplatesPage() {
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Service Agreement Template</span>
                   <Link
-                    href="/templates/service-agreement-template"
+                    href="/templates/coaching-agreement-template"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View Service Agreement Template"
                   >
@@ -294,21 +294,23 @@ export default function TemplatesPage() {
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Webinar Presentation Deck</span>
-                  <button 
+                  <Link
+                    href="/templates/webinar-presentation-deck"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View Webinar Presentation Deck"
                   >
-                    View
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Lead Magnet Templates</span>
-                  <button 
+                  <Link
+                    href="/templates/lead-magnet-templates"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View Lead Magnet Templates"
                   >
-                    View
-                  </button>
+                    View Template
+                  </Link>
                 </div>
               </div>
             </div>
@@ -349,12 +351,13 @@ export default function TemplatesPage() {
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Readiness for Change Scale</span>
-                  <button 
+                  <Link
+                    href="/templates/readiness-for-change-scale"
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
                     aria-label="View Readiness for Change Scale"
                   >
-                    View
-                  </button>
+                    View Template
+                  </Link>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <div className="flex-1">
