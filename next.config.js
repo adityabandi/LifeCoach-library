@@ -9,8 +9,8 @@ const nextConfig = {
     mdxRs: true,
   },
   pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx'],
-  basePath: process.env.NODE_ENV === 'production' ? '/LifeCoach-library' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/LifeCoach-library' : '',
+  basePath: '/LifeCoach-library',
+  assetPrefix: '/LifeCoach-library',
   // Disable server-side features for static export
   poweredByHeader: false,
 }

@@ -77,7 +77,7 @@ export default function GuidesPage() {
                   Finding your coaching niche
                 </li>
               </ul>
-              <Link href="/LifeCoach-library/guides/start-life-coaching-business" className="btn-primary w-full hover-lift">
+              <Link href="/guides/start-life-coaching-business" className="btn-primary w-full hover-lift">
                 Start Your Journey
               </Link>
             </div>
@@ -113,7 +113,7 @@ export default function GuidesPage() {
                   Technology & digital trends
                 </li>
               </ul>
-              <Link href="/LifeCoach-library/guides/industry-trends-2025" className="btn-primary w-full hover-lift">
+              <Link href="/guides/industry-trends-2025" className="btn-primary w-full hover-lift">
                 Read Analysis
               </Link>
             </div>
@@ -149,7 +149,7 @@ export default function GuidesPage() {
                   Global reach strategies
                 </li>
               </ul>
-              <Link href="/LifeCoach-library/guides/virtual-coaching" className="btn-primary w-full hover-lift">
+              <Link href="/guides/virtual-coaching" className="btn-primary w-full hover-lift">
                 Master Virtual Coaching
               </Link>
             </div>
