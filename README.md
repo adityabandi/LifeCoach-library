@@ -40,7 +40,7 @@ The project is configured for automatic deployment to GitHub Pages via GitHub Ac
 - `/workflows` - Client management workflows
 - `/methods` - Coaching methodologies
 - `/growth` - Marketing and growth strategies
-- `/templates` - Downloadable templates and resources
+- `/templates` - Free templates and resources
 
 ## SEO Features
 

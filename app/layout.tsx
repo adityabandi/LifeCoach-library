@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     default: 'Life Coach Library - Free Templates & Resources for Coaches',
     template: '%s | Life Coach Library'
   },
-  description: 'Free coaching templates, business guides, and proven methods for life coaches. Download intake forms, session plans, and grow your coaching practice.',
+  description: 'Free coaching templates, business guides, and proven methods for life coaches. Access intake forms, session plans, and grow your coaching practice.',
   keywords: ['life coaching', 'coaching templates', 'coaching business', 'coach resources', 'life coach tools'],
   authors: [{ name: 'Life Coach Library Team' }],
   creator: 'Life Coach Library',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     url: getSiteUrl(),
     siteName: 'Life Coach Library',
     title: 'Life Coach Library - Free Templates & Resources for Coaches',
-    description: 'Free coaching templates, business guides, and proven methods for life coaches. Download intake forms, session plans, and grow your coaching practice.',
+    description: 'Free coaching templates, business guides, and proven methods for life coaches. Access intake forms, session plans, and grow your coaching practice.',
   },
   twitter: {
     card: 'summary_large_image',

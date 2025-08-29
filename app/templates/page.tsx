@@ -6,7 +6,7 @@ import Logo from '@/components/Logo'
 
 export const metadata = generateSEO({
   title: 'Free Coaching Templates - Intake Forms, Session Plans & Progress Trackers',
-  description: 'Download free professional coaching templates including client intake forms, session agendas, progress trackers, and assessment tools. Ready to use immediately.',
+  description: 'Access free professional coaching templates including client intake forms, session agendas, progress trackers, and assessment tools. Ready to use immediately.',
   keywords: ['coaching templates', 'intake forms', 'session plans', 'progress trackers', 'coaching tools'],
   canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library/templates',
 })
@@ -29,7 +29,7 @@ export default function TemplatesPage() {
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
               Professional templates for intake forms, session plans, personality assessments, progress tracking, and business operations. 
-              Download immediately. No email required.
+              Access immediately. No email required.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="#templates" className="btn-primary hover-lift">
@@ -296,18 +296,18 @@ export default function TemplatesPage() {
                   <span className="text-sm text-gray-700">Webinar Presentation Deck</span>
                   <button 
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
-                    aria-label="Download Webinar Presentation Deck"
+                    aria-label="View Webinar Presentation Deck"
                   >
-                    Download
+                    View
                   </button>
                 </div>
                 <div className="flex justify-between items-center py-2">
                   <span className="text-sm text-gray-700">Lead Magnet Templates</span>
                   <button 
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
-                    aria-label="Download Lead Magnet Templates"
+                    aria-label="View Lead Magnet Templates"
                   >
-                    Download
+                    View
                   </button>
                 </div>
               </div>
@@ -351,9 +351,9 @@ export default function TemplatesPage() {
                   <span className="text-sm text-gray-700">Readiness for Change Scale</span>
                   <button 
                     className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
-                    aria-label="Download Readiness for Change Scale"
+                    aria-label="View Readiness for Change Scale"
                   >
-                    Download
+                    View
                   </button>
                 </div>
                 <div className="flex justify-between items-center py-2">

@@ -6,7 +6,7 @@ import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
   title: 'Free Coaching Templates & Business Resources for Life Coaches',
-  description: 'Download free coaching templates, intake forms, session plans, and business guides. Proven methods and tools to grow your life coaching practice.',
+  description: 'Access free coaching templates, intake forms, session plans, and business guides. Proven methods and tools to grow your life coaching practice.',
   keywords: ['coaching templates', 'life coach resources', 'coaching business', 'intake forms', 'coaching methods'],
   canonicalUrl: 'https://adityabandi.github.io/LifeCoach-library',
 })
@@ -218,7 +218,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-semibold mb-3">Ready-to-Use Templates</h3>
               <p className="text-gray-600 mb-4">
-                Download immediately. Professional templates for intake, sessions, progress tracking, and client management.
+                Access immediately. No email required. Ready to use.
               </p>
               <ul className="space-y-2 text-sm text-gray-600 mb-6">
                 <li>• Client intake & assessment forms</li>
@@ -226,7 +226,7 @@ export default function HomePage() {
                 <li>• Progress trackers & goal worksheets</li>
               </ul>
               <Link href="/templates" className="text-primary-600 font-medium hover:text-primary-700 transition-colors hover-lift">
-                Download Templates →
+                Access Templates →
               </Link>
             </div>
           </div>
@@ -370,7 +370,7 @@ export default function HomePage() {
             <div className="bg-primary-700 p-6 rounded-lg text-center hover-glow">
               <div className="w-12 h-12 bg-white text-primary-600 rounded-lg flex items-center justify-center mx-auto mb-4 font-bold text-lg">3</div>
               <h3 className="font-semibold mb-2">Set Up Systems</h3>
-              <p className="text-primary-100 text-sm mb-4">Download templates and create client workflows</p>
+              <p className="text-primary-100 text-sm mb-4">Access templates and create client workflows</p>
               <Link href="/workflows" className="text-white underline text-sm hover-lift">
                 Get Systems →
               </Link>
@@ -395,7 +395,7 @@ export default function HomePage() {
               Free Professional Templates
             </h2>
             <p className="text-xl text-gray-600">
-              Download immediately. No email required. Ready to use.
+              Access immediately. No email required. Ready to use.
             </p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
@@ -403,21 +403,21 @@ export default function HomePage() {
               <h3 className="text-lg font-semibold mb-2">Client Intake Forms</h3>
               <p className="text-gray-600 mb-4">Comprehensive onboarding forms for different coaching niches and specialties</p>
               <Link href="/templates" className="text-primary-600 font-medium hover:text-primary-700 transition-colors hover-lift">
-                Download Free →
+                Access Templates →
               </Link>
             </div>
             <div className="bg-white p-6 rounded-lg border hover:shadow-lg transition-shadow hover-glow">
               <h3 className="text-lg font-semibold mb-2">Session Agendas</h3>
               <p className="text-gray-600 mb-4">Structured session plans and agendas for consistent client outcomes</p>
               <Link href="/templates" className="text-primary-600 font-medium hover:text-primary-700 transition-colors hover-lift">
-                Download Free →
+                Access Templates →
               </Link>
             </div>
             <div className="bg-white p-6 rounded-lg border hover:shadow-lg transition-shadow hover-glow">
               <h3 className="text-lg font-semibold mb-2">Progress Trackers</h3>
               <p className="text-gray-600 mb-4">Google Sheets and PDFs to monitor client goals and milestones</p>
               <Link href="/templates" className="text-primary-600 font-medium hover:text-primary-700 transition-colors hover-lift">
-                Download Free →
+                Access Templates →
               </Link>
             </div>
           </div>
@@ -440,7 +440,7 @@ export default function HomePage() {
           <div className="grid md:grid-cols-4 gap-8 mb-16">
             <div className="text-center">
               <div className="text-3xl font-bold text-primary-600 mb-2">15,000+</div>
-              <div className="text-gray-600">Downloads This Month</div>
+              <div className="text-gray-600">Views This Month</div>
             </div>
             <div className="text-center">
               <div className="text-3xl font-bold text-primary-600 mb-2">89</div>
@@ -545,7 +545,7 @@ export default function HomePage() {
               href="/templates"
               className="bg-white text-primary-600 px-8 py-4 rounded-lg font-semibold hover:bg-gray-100 transition-colors hover-lift"
             >
-              Download All Templates
+              Access All Templates
             </Link>
             <Link
               href="/guides/start-life-coaching-business"

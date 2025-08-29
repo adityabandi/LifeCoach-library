@@ -1,7 +1,7 @@
 {
   "name": "Life Coach Library",
   "short_name": "Coach Library",
-  "description": "Free coaching templates, business guides, and proven methods for life coaches",
+  "description": "Access free coaching templates, business guides, and proven methods for life coaches",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -27,7 +27,7 @@
     {
       "name": "Templates",
       "short_name": "Templates",
-      "description": "Download free coaching templates",
+      "description": "Access free coaching templates",
       "url": "/templates",
       "icons": [{ "src": "/favicon.svg", "sizes": "96x96" }]
     },

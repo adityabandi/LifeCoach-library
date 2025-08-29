@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: Props) {
   }
 
   // Enhanced keywords based on template category
-  const baseKeywords = [template.title.toLowerCase(), 'coaching template', 'free download']
+  const baseKeywords = [template.title.toLowerCase(), 'coaching template', 'free template']
   const categoryKeywords = {
     'intake-forms': ['client intake', 'coaching forms', 'personality assessment'],
     'session-plans': ['coaching session', 'session structure', 'coaching framework'],

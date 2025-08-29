@@ -4004,7 +4004,7 @@ Here's what I know about you: You're here because you want something to change. 
 If you're ready to go deeper, I have a few ways I can help:
 
 1. FREE RESOURCES
-Download my [Resource Name]: [Brief description and link]
+Access my [Resource Name]: [Brief description and link]
 
 2. GROUP COACHING
 Join my next [Program Name] starting [Date]. [Brief description]

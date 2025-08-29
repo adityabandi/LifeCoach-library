@@ -124,7 +124,7 @@ export default function MarketingForLifeCoachesPage() {
                 </Link>
               </h4>
               <p className="text-gray-600 text-sm mb-3">
-                Download email sequences, social media content packs, and lead magnet templates.
+                Email sequences, social media content packs, and lead magnet templates.
               </p>
               <Link href="/templates" className="text-primary-600 text-sm font-medium">
                 Download Templates →
