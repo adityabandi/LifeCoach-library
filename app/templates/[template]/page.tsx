@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: Props) {
     title: `${template.title} - Free Coaching Template`,
     description: template.description,
     keywords: enhancedKeywords,
-    canonicalUrl: `https://lifecoachlibrary.com/templates/${params.template}`,
+    canonicalUrl: `https://lifecoachlibrary.com/templates/${params.template}/`,
   })
 }
 

@@ -5343,5 +5343,1034 @@ ___________________________________
 Follow-up Assessment Date: __________
 
 Remember: Readiness for change can fluctuate over time. Regular reassessment can help track progress and adjust coaching approaches as needed.`
+  },
+
+  {
+    slug: 'webinar-presentation-deck',
+    title: 'Webinar Presentation Deck',
+    description: 'Professional webinar presentation template with slides for introduction, content delivery, Q&A, and call-to-action sections.',
+    category: 'marketing-tools',
+    content: `WEBINAR PRESENTATION DECK TEMPLATE
+
+SLIDE 1: TITLE SLIDE
+===================
+[Your Name/Company Logo]
+
+WEBINAR TITLE: [Compelling Title]
+"Unlock Your Potential: A Life Coaching Masterclass"
+
+Date: [Date]
+Time: [Time]
+Host: [Your Name]
+
+SLIDE 2: AGENDA OVERVIEW
+=======================
+Today's Webinar Agenda:
+
+1. Introduction (5 min)
+2. The Coaching Mindset (10 min)
+3. Common Challenges & Solutions (15 min)
+4. Actionable Strategies (15 min)
+5. Q&A Session (10 min)
+6. Next Steps (5 min)
+
+SLIDE 3: INTRODUCTION
+====================
+Welcome everyone!
+
+[Your Photo]
+
+[Your Name]
+Certified Life Coach
+[Years] Years Experience
+[Specialization]
+[Contact Info]
+
+What to expect today:
+• Practical coaching strategies
+• Real client success stories
+• Actionable takeaways
+• Q&A opportunity
+
+SLIDE 4: POLL/ICEBREAKER
+========================
+Quick Poll:
+"What's your biggest challenge right now?"
+
+A) Achieving work-life balance
+B) Building confidence
+C) Setting clear goals
+D) Overcoming procrastination
+
+Share in the chat!
+
+SLIDE 5: THE COACHING MINDSET
+============================
+What is Life Coaching?
+
+Life coaching is a partnership that helps you:
+• Clarify your vision and goals
+• Identify limiting beliefs
+• Develop action plans
+• Stay accountable
+• Achieve breakthrough results
+
+"Coaching is unlocking a person's potential to maximize their own performance." - Timothy Gallwey
+
+SLIDE 6: COMMON CHALLENGES
+==========================
+Top 5 Challenges My Clients Face:
+
+1. Lack of Clarity
+   "I know I want change, but I don't know where to start"
+
+2. Fear of Failure
+   "What if I try and fail?"
+
+3. Overwhelm
+   "There are so many things I should be doing"
+
+4. Self-Doubt
+   "Am I capable of achieving my dreams?"
+
+5. Lack of Accountability
+   "I need someone to keep me on track"
+
+SLIDE 7: THE SOLUTION FRAMEWORK
+==============================
+My 4-Step Coaching Framework:
+
+1. CLARITY: Define your vision
+2. STRATEGY: Create your action plan
+3. ACCOUNTABILITY: Stay on track
+4. CELEBRATION: Honor your progress
+
+SLIDE 8: CLIENT SUCCESS STORY
+=============================
+Meet Sarah* (name changed for privacy)
+
+Challenge: Career transition at 45
+Goal: Start her own coaching business
+
+Results after 6 months:
+• Launched successful coaching practice
+• 15 paying clients
+• $50K in revenue
+• Complete mindset shift
+
+*"Your coaching gave me the confidence to pursue my passion. Thank you!"
+
+SLIDE 9: ACTIONABLE STRATEGY #1
+==============================
+Strategy 1: The Vision Exercise
+
+Take 15 minutes to write your answers:
+
+1. What does success look like for you?
+2. How will you feel when you achieve it?
+3. What will your life be like?
+4. Who will be part of your journey?
+
+💡 Pro Tip: Be specific and write in present tense!
+
+SLIDE 10: ACTIONABLE STRATEGY #2
+===============================
+Strategy 2: The 90-Day Action Plan
+
+Break your big goal into:
+• 3 monthly milestones
+• 12 weekly actions
+• Daily habits to build
+
+Example:
+Goal: Lose 20 pounds
+Month 1: Nutrition foundation
+Week 1: Meal prep planning
+Daily: Track water intake
+
+SLIDE 11: ACCOUNTABILITY SYSTEMS
+===============================
+Why Accountability Matters:
+
+• 65% of people who set goals don't achieve them
+• 95% of people who have accountability partners succeed
+• Regular check-ins increase success rate by 3x
+
+Find your accountability partner today!
+
+SLIDE 12: COMMON MISTAKES TO AVOID
+==================================
+Don't Make These Mistakes:
+
+❌ Setting vague goals
+✅ "Get fit" → "Lose 10 pounds by June 1st"
+
+❌ Trying to do everything at once
+✅ Focus on 1-2 priorities
+
+❌ No tracking system
+✅ Use a simple journal or app
+
+❌ Giving up after setbacks
+✅ Learn and adjust your approach
+
+SLIDE 13: Q&A TRANSITION
+========================
+We've covered:
+✅ The coaching mindset
+✅ Common challenges & solutions
+✅ Actionable strategies
+✅ Accountability systems
+
+Now it's your turn!
+
+What questions do you have?
+
+SLIDE 14: Q&A SESSION
+=====================
+Live Q&A Session
+
+Please submit your questions in the chat or raise your hand!
+
+Common Questions:
+• "How do I find clients?"
+• "What's the best coaching certification?"
+• "How much should I charge?"
+• "How do I handle difficult clients?"
+
+SLIDE 15: NEXT STEPS
+====================
+Ready to Take Action?
+
+1. Download the free resources (link below)
+2. Schedule your free consultation
+3. Join our coaching community
+4. Start your transformation today!
+
+SLIDE 16: OFFER/CALL TO ACTION
+==============================
+Special Webinar Offer:
+
+FREE 30-Minute Coaching Session
+Value: $150
+
+To claim your session:
+1. Click the link in the chat
+2. Fill out the quick application
+3. Schedule your session
+
+Limited to first 10 people!
+
+SLIDE 17: FINAL THOUGHTS
+========================
+Remember:
+
+"Your life doesn't get better by chance, it gets better by change." - Jim Rohn
+
+You have the power to create the life you deserve!
+
+Thank you for joining today!
+
+SLIDE 18: CONTACT INFORMATION
+=============================
+Stay Connected:
+
+[Your Name]
+[Phone Number]
+[Email Address]
+[Website]
+[Social Media Handles]
+
+Free Resources:
+• Goal Setting Worksheet
+• Vision Exercise Template
+• Accountability Partner Guide
+
+SLIDE 19: THANK YOU
+===================
+Thank you for attending!
+
+[Your Photo/Logo]
+
+Questions? Reach out anytime!
+
+See you on the next webinar!`
+  },
+
+  {
+    slug: 'client-feedback-survey',
+    title: 'Client Feedback Survey',
+    description: 'Comprehensive survey template to gather client feedback and measure coaching effectiveness.',
+    category: 'business-forms',
+    content: `CLIENT FEEDBACK SURVEY
+
+SURVEY INFORMATION
+==================
+Client Name: _______________________
+Program/Service: ___________________
+Start Date: _______________________
+Completion Date: __________________
+Coach: ____________________________
+Survey Date: ______________________
+
+OVERALL SATISFACTION
+===================
+1. Overall, how satisfied are you with your coaching experience?
+☐ Extremely satisfied
+☐ Very satisfied  
+☐ Satisfied
+☐ Somewhat satisfied
+☐ Not satisfied
+
+Please explain your rating:
+___________________________________
+___________________________________
+
+2. How likely are you to recommend our coaching services to others?
+0 ── 1 ── 2 ── 3 ── 4 ── 5 ── 6 ── 7 ── 8 ── 9 ── 10
+(0 = Not at all likely, 10 = Extremely likely)
+
+What's the primary reason for your score?
+___________________________________
+___________________________________
+
+GOAL ACHIEVEMENT
+================
+3. To what extent did coaching help you achieve your goals?
+☐ Exceeded my expectations
+☐ Met my expectations
+☐ Mostly met my expectations
+☐ Partially met my expectations
+☐ Did not meet my expectations
+
+4. Rate your progress in each goal area (1-10 scale):
+
+Goal 1: ___________________________
+Progress Rating: ___/10
+Comments: _________________________
+
+Goal 2: ___________________________
+Progress Rating: ___/10
+Comments: _________________________
+
+Goal 3: ___________________________
+Progress Rating: ___/10
+Comments: _________________________
+
+5. What was your biggest achievement or breakthrough during coaching?
+___________________________________
+___________________________________
+
+COACHING PROCESS
+================
+6. How would you rate the following aspects of your coaching experience?
+
+Coach's communication skills:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Coach's listening skills:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Coach's ability to ask powerful questions:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Coach's support and encouragement:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Coach's expertise and knowledge:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Session structure and organization:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Follow-up between sessions:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+7. Which coaching tools or techniques were most helpful?
+☐ Goal setting
+☐ Action planning
+☐ Accountability check-ins
+☐ Reflection exercises
+☐ Assessment tools
+☐ Visualization techniques
+☐ Role playing
+☐ Perspective taking
+☐ Action planning
+☐ Accountability setup
+☐ Other: _______________
+
+Tools Effectiveness:
+Most Effective: ____________________
+Least Effective: ___________________
+Client's Preferred Approach: ________
+
+PROGRAM LOGISTICS
+================
+8. How was the session frequency for your needs?
+☐ Too frequent
+☐ Just right
+☐ Too infrequent
+
+9. How was the session length?
+☐ Too long
+☐ Just right  
+☐ Too short
+
+10. How was the program duration?
+☐ Too long
+☐ Just right
+☐ Too short
+
+11. Rate the scheduling and logistics:
+☐ Excellent ☐ Very Good ☐ Good ☐ Fair ☐ Poor
+
+Comments: _________________________
+
+VALUE AND INVESTMENT
+===================
+12. Do you feel the coaching provided good value for your investment?
+☐ Excellent value
+☐ Good value
+☐ Fair value
+☐ Poor value
+☐ Very poor value
+
+13. How do the results you achieved compare to your investment?
+☐ Results far exceeded investment
+☐ Results exceeded investment
+☐ Results matched investment
+☐ Results somewhat below investment
+☐ Results far below investment
+
+PERSONAL IMPACT
+===============
+14. How has coaching impacted different areas of your life?
+
+Self-awareness:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+Confidence:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+Motivation:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+Goal clarity:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+Action-taking ability:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+Life satisfaction:
+☐ Significantly improved ☐ Improved ☐ Somewhat improved ☐ No change ☐ Declined
+
+15. What specific skills or insights did you gain?
+___________________________________
+___________________________________
+
+16. How likely are you to continue using what you learned?
+☐ Extremely likely
+☐ Very likely
+☐ Likely
+☐ Somewhat likely
+☐ Not likely
+
+IMPROVEMENT SUGGESTIONS
+======================
+17. What could have made your coaching experience better?
+___________________________________
+___________________________________
+
+18. What would you like to see added to the coaching program?
+___________________________________
+___________________________________
+
+19. What would you like to see removed or changed?
+___________________________________
+___________________________________
+
+20. Any suggestions for improvement in:
+
+Communication:
+___________________________________
+
+Session structure:
+___________________________________
+
+Materials/resources:
+___________________________________
+
+Follow-up support:
+___________________________________
+
+TESTIMONIAL AND REFERRALS
+=========================
+21. Would you be willing to provide a testimonial about your experience?
+☐ Yes ☐ No ☐ Maybe
+
+If yes, please write a brief testimonial:
+"_________________________________
+___________________________________
+___________________________________"
+
+22. May we use your name with your testimonial?
+☐ Yes, use my full name
+☐ Yes, use first name and last initial
+☐ Yes, but keep anonymous
+☐ No
+
+23. Would you be comfortable referring others to our coaching services?
+☐ Yes, definitely
+☐ Yes, probably
+☐ Maybe
+☐ Probably not
+☐ Definitely not
+
+FUTURE SERVICES
+===============
+24. Are you interested in any additional services?
+☐ Additional coaching sessions
+☐ Group coaching programs
+☐ Workshops or seminars
+☐ Online courses
+☐ Maintenance/check-in sessions
+☐ None at this time
+
+25. What topics would you be interested in for future coaching?
+___________________________________
+___________________________________
+
+26. What's the best way to stay in touch?
+☐ Email newsletter
+☐ Social media
+☐ Periodic check-in calls
+☐ No ongoing contact preferred
+
+FINAL THOUGHTS
+==============
+27. What would you tell someone considering working with this coach?
+___________________________________
+___________________________________
+
+28. Is there anything else you'd like to share about your coaching experience?
+___________________________________
+___________________________________
+
+29. One word to describe your coaching experience:
+___________________________________
+
+DEMOGRAPHICS (Optional)
+======================
+Age Range:
+☐ 18-25 ☐ 26-35 ☐ 36-45 ☐ 46-55 ☐ 56-65 ☐ 65+
+
+How did you find out about our coaching services?
+☐ Referral from friend/colleague
+☐ Online search
+☐ Social media
+☐ Professional network
+☐ Website
+☐ Advertisement
+☐ Other: _______________
+
+FOLLOW-UP PERMISSION
+===================
+☐ Yes, you may contact me for follow-up questions about this survey
+☐ Yes, you may contact me for a brief interview about my experience
+☐ No, please do not contact me for follow-up
+
+Thank you for taking the time to provide this valuable feedback. Your responses help us continuously improve our coaching services and better serve future clients.
+
+Survey completed by: _______________
+Date: _____________________________
+Submission method: ☐ Email ☐ Online ☐ Phone ☐ In-person`
+  }
+  ,
+
+  {
+    slug: 'social-media-content-pack',
+    title: 'Social Media Content Pack',
+    description: 'Ready-to-post social media content templates for coaches including post ideas, captions, and engagement strategies.',
+    category: 'marketing-tools',
+    content: `SOCIAL MEDIA CONTENT PACK FOR COACHES
+
+CONTENT CALENDAR OVERVIEW
+=========================
+This pack includes:
+• 30 post ideas with captions
+• Content pillars framework
+• Engagement strategies
+• Platform-specific adaptations
+• Visual content suggestions
+
+CONTENT PILLARS FOR COACHES
+===========================
+
+PILLAR 1: EDUCATION/TIPS (40% of content)
+- Coaching insights
+- Personal development tips
+- Industry knowledge
+- How-to content
+
+PILLAR 2: INSPIRATION/MOTIVATION (25% of content)
+- Motivational quotes
+- Success stories
+- Mindset shifts
+- Encouragement
+
+PILLAR 3: PERSONAL/BEHIND-THE-SCENES (20% of content)
+- Your journey
+- Day in the life
+- Personal insights
+- Vulnerable moments
+
+PILLAR 4: COMMUNITY/ENGAGEMENT (10% of content)
+- Questions for audience
+- Polls and surveys
+- User-generated content
+- Community highlights
+
+PILLAR 5: BUSINESS/OFFERS (5% of content)
+- Program announcements
+- Free resources
+- Testimonials
+- Call-to-actions
+
+30 READY-TO-USE POSTS
+=====================
+
+POST 1: TIP TUESDAY
+"The difference between a goal and a dream? A deadline and a plan.
+
+Your dreams are valid. Your goals are achievable. But they need structure.
+
+Here's my simple goal-setting framework:
+✅ Be specific about what you want
+✅ Set a realistic timeline
+✅ Break it into weekly actions
+✅ Track your progress
+✅ Celebrate small wins
+
+What goal are you working toward right now? ��
+
+#GoalSetting #PersonalDevelopment #LifeCoaching #Motivation"
+
+POST 2: MINDSET MONDAY
+"Your comfort zone is a beautiful place, but nothing grows there. 🌱
+
+I used to think staying comfortable meant staying safe. But I learned that my biggest growth happened when I felt the most uncomfortable.
+
+That job interview that scared you? Apply anyway.
+That conversation you've been avoiding? Have it.
+That dream you think is too big? Start working toward it.
+
+Discomfort is just growth wearing a disguise.
+
+What's one uncomfortable action you could take this week?
+
+#MindsetShift #GrowthMindset #ComfortZone #PersonalGrowth #LifeCoaching"
+
+POST 3: WISDOM WEDNESDAY
+"You can't change what happened, but you can change what happens next.
+
+This is something I remind clients when they're stuck in regret or 'what if' thinking.
+
+The past is data, not destiny. Use it to inform your future choices, but don't let it imprison your possibilities.
+
+Every moment is a fresh start. Every day is a new beginning.
+
+What story from your past are you ready to rewrite?
+
+#LetGo #FreshStart #MindsetCoaching #PersonalDevelopment #NewBeginnings"
+
+POST 4: FEATURE FRIDAY - CLIENT WIN
+"CLIENT WIN FRIDAY! 🎉
+
+'I never thought I could speak up in meetings, but this week I shared my idea and the team loved it!' - Sarah
+
+Six months ago, Sarah came to coaching feeling invisible at work. She had great ideas but never felt confident enough to share them.
+
+Through our work together, she:
+✨ Identified her unique strengths
+✨ Practiced assertive communication
+✨ Built unshakeable self-confidence
+✨ Created strategies for workplace success
+
+Now she's being considered for a promotion!
+
+What's possible when you believe in yourself? Everything.
+
+#ClientWin #ConfidenceCoaching #WorkplaceSuccess #PersonalDevelopment"
+
+POST 5: SELF-CARE SUNDAY
+"Self-care isn't selfish. It's strategic.
+
+You can't pour from an empty cup. You can't give what you don't have.
+
+My non-negotiable self-care practices:
+🧘‍♀️ 10 minutes of morning meditation
+📚 Reading before bed (no screens!)
+🚶‍♀️ Daily walk in nature
+🛁 Sunday evening bubble bath
+📝 Weekly journal reflection
+
+These aren't luxuries. They're necessities for showing up as my best self.
+
+What's one self-care practice you want to add to your routine?
+
+#SelfCare #SelfCareStrategy #Mindfulness #Balance #LifeCoaching"
+
+POST 6: MOTIVATION MONDAY
+"Your past doesn't define you. Your choices do.
+
+Every day, you have the power to choose:
+• Growth over comfort
+• Courage over fear
+• Action over excuses
+• Hope over doubt
+• Love over judgment
+
+You are not stuck. You are not broken. You are not behind.
+
+You are exactly where you need to be to become who you're meant to be.
+
+What choice will you make today?
+
+#MondayMotivation #PersonalPower #ChoiceArchitecture #LifeCoaching #Empowerment"
+
+POST 7: TIP TUESDAY - PRODUCTIVITY
+"The secret to productivity isn't doing more. It's doing what matters.
+
+My simple priority system:
+1️⃣ Brain dump everything on your to-do list
+2️⃣ Circle only what moves you toward your big goals
+3️⃣ Pick the top 3 for today
+4️⃣ Do the hardest one first
+5️⃣ Celebrate completion
+
+Quality over quantity. Impact over activity.
+
+What's the ONE thing that would make the biggest difference in your day?
+
+#ProductivityTips #PriorityManagement #GoalFocused #TimeManagement #LifeCoaching"
+
+POST 8: WISDOM WEDNESDAY - BOUNDARIES
+"Boundaries aren't walls. They're gates with you as the gatekeeper.
+
+Healthy boundaries:
+✅ Protect your energy
+✅ Honor your values
+✅ Communicate your needs
+✅ Create space for what matters
+✅ Allow authentic relationships
+
+You're not responsible for managing other people's emotions about your boundaries.
+
+You're responsible for protecting your peace.
+
+Where in your life do you need stronger boundaries?
+
+#Boundaries #HealthyRelationships #SelfCare #PersonalDevelopment #LifeCoaching"
+
+POST 9: TRANSFORMATION THURSDAY
+"One year ago, I was afraid to share my story. Today, I'm helping others rewrite theirs.
+
+The journey from fear to courage isn't a straight line. It's messy, uncomfortable, and sometimes scary.
+
+But every step matters. Every small act of bravery builds your courage muscle.
+
+Your story isn't over. The best chapters might be yet to come.
+
+What story are you ready to tell?
+
+#TransformationThursday #CourageOverFear #PersonalStory #GrowthJourney #LifeCoaching"
+
+POST 10: FEATURE FRIDAY - TOOL SHARE
+"TOOL FRIDAY: The 10-10-10 Decision Framework
+
+Struggling with a decision? Ask yourself:
+• How will I feel about this in 10 minutes?
+• How will I feel about this in 10 months?
+• How will I feel about this in 10 years?
+
+This helps you see beyond immediate emotions and consider long-term impact.
+
+Sometimes what feels scary in 10 minutes becomes the best decision in 10 years.
+
+Try it and let me know how it works for you!
+
+#DecisionMaking #LifeCoaching #PersonalDevelopment #ToolFriday #Clarity"
+
+PLATFORM-SPECIFIC ADAPTATIONS
+=============================
+
+INSTAGRAM:
+- Use 3-5 relevant hashtags
+- Include emojis for visual appeal
+- Ask questions to encourage engagement
+- Use Stories for behind-the-scenes content
+- Share carousel posts for tips/insights
+
+FACEBOOK:
+- Longer captions work well
+- Ask questions to boost engagement
+- Share personal stories
+- Use Facebook groups for community building
+- Go live for Q&A sessions
+
+LINKEDIN:
+- Professional tone
+- Industry insights
+- Career-focused content
+- Professional development tips
+- Share articles and thought leadership
+
+TWITTER:
+- Keep it concise
+- Use trending hashtags
+- Share quick tips
+- Engage in conversations
+- Thread longer insights
+
+VISUAL CONTENT IDEAS
+===================
+
+QUOTE GRAPHICS:
+- Key insights from posts
+- Client quotes (with permission)
+- Motivational statements
+- Questions for reflection
+
+BEHIND-THE-SCENES:
+- Workspace photos
+- Reading/learning moments
+- Daily routines
+- Planning sessions
+
+EDUCATIONAL GRAPHICS:
+- Tip lists
+- Process frameworks
+- Before/after transformations
+- Infographics
+
+VIDEO CONTENT:
+- Quick tips (60 seconds)
+- Client success stories
+- Day in the life
+- Live Q&A sessions
+
+ENGAGEMENT STRATEGIES
+====================
+
+BOOST ENGAGEMENT:
+- Ask specific questions
+- Share polls and surveys
+- Respond to all comments
+- Tag relevant people
+- Use current events/trends
+
+BUILD COMMUNITY:
+- Create hashtags for your community
+- Feature client wins (with permission)
+- Share user-generated content
+- Host live sessions
+- Create Facebook groups
+
+GROW FOLLOWING:
+- Collaborate with other coaches
+- Guest post on others' accounts
+- Share valuable free resources
+- Engage with your ideal clients' content
+- Be consistent with posting
+
+CONTENT PLANNING TEMPLATE
+=========================
+
+WEEKLY SCHEDULE:
+Monday: Motivation/Mindset
+Tuesday: Tips/Education
+Wednesday: Wisdom/Insights
+Thursday: Transformation/Stories
+Friday: Features/Tools
+Saturday: Self-care/Balance
+Sunday: Reflection/Preparation
+
+MONTHLY THEMES:
+January: New Beginnings
+February: Self-Love
+March: Goal Progress
+April: Spring Cleaning (mindset)
+May: Growth & Change
+June: Confidence Building
+July: Summer Self-Care
+August: Productivity & Focus
+September: Back to Basics
+October: Overcoming Fear
+November: Gratitude & Reflection
+December: Year-End Review
+
+Remember: Authenticity beats perfection. Your audience wants to connect with the real you, not a perfect version. Share your journey, struggles, and insights genuinely.`
+  },
+
+  {
+    slug: 'wellness-coaching-intake',
+    title: 'Wellness Coaching Intake',
+    description: 'Holistic intake form for wellness coaching covering physical health, mental wellbeing, and lifestyle factors.',
+    category: 'intake-forms',
+    content: `WELLNESS COACHING INTAKE FORM
+
+PERSONAL INFORMATION
+==================
+Name: _________________________
+Age: _________________________
+Email: _______________________
+Phone: ______________________
+Emergency Contact: ____________
+Preferred Communication: ☐ Email ☐ Phone ☐ Text
+
+CURRENT HEALTH STATUS
+====================
+1. Please describe your current overall health:
+☐ Excellent ☐ Very good ☐ Good ☐ Fair ☐ Poor
+
+2. Do you have any current health conditions or concerns?
+☐ Yes ☐ No
+If yes, please describe: _________________
+
+3. Are you currently taking any medications or supplements?
+☐ Yes ☐ No
+If yes, please list: ____________________
+
+PHYSICAL WELLNESS
+=================
+4. How would you rate your physical fitness level?
+☐ Excellent ☐ Very good ☐ Good ☐ Fair ☐ Poor
+
+5. What type of physical activity do you currently do?
+☐ None ☐ Walking ☐ Running ☐ Yoga ☐ Strength training ☐ Sports ☐ Other: __________
+
+6. How many days per week do you exercise?
+☐ 0 ☐ 1-2 ☐ 3-4 ☐ 5-6 ☐ 7
+
+7. How many hours of sleep do you get per night?
+☐ Less than 5 ☐ 5-6 ☐ 7-8 ☐ 9+
+
+8. How would you rate your nutrition habits?
+☐ Excellent ☐ Very good ☐ Good ☐ Fair ☐ Poor
+
+9. How often do you eat processed foods or fast food?
+☐ Daily ☐ Weekly ☐ Monthly ☐ Rarely ☐ Never
+
+MENTAL & EMOTIONAL WELLNESS
+===========================
+10. How would you rate your stress level?
+☐ Very low ☐ Low ☐ Moderate ☐ High ☐ Very high
+
+11. What are your main sources of stress?
+☐ Work ☐ Relationships ☐ Finances ☐ Health ☐ Other: __________
+
+12. How do you typically cope with stress?
+☐ Exercise ☐ Meditation ☐ Talking to friends ☐ Eating ☐ TV/Internet ☐ Other: __________
+
+13. How would you rate your mental health?
+☐ Excellent ☐ Very good ☐ Good ☐ Fair ☐ Poor
+
+14. Have you experienced anxiety or depression?
+☐ Yes ☐ No
+If yes, please describe: _________________
+
+15. How often do you feel overwhelmed?
+☐ Daily ☐ Weekly ☐ Monthly ☐ Rarely ☐ Never
+
+LIFESTYLE HABITS
+================
+16. How many hours per day do you spend on screens?
+☐ Less than 2 ☐ 2-4 ☐ 4-6 ☐ 6-8 ☐ More than 8
+
+17. How often do you eat meals with family/friends?
+☐ Daily ☐ Weekly ☐ Monthly ☐ Rarely ☐ Never
+
+18. How often do you engage in hobbies or recreational activities?
+☐ Daily ☐ Weekly ☐ Monthly ☐ Rarely ☐ Never
+
+19. How often do you practice mindfulness or meditation?
+☐ Daily ☐ Weekly ☐ Monthly ☐ Rarely ☐ Never
+
+20. How often do you spend time in nature?
+☐ Daily ☐ Weekly ☐ Monthly ☐ Rarely ☐ Never
+
+WELLNESS GOALS
+==============
+21. What are your top 3 wellness goals?
+1. ________________________________
+2. ________________________________
+3. ________________________________
+
+22. What has prevented you from achieving these goals in the past?
+___________________________________
+___________________________________
+
+23. What wellness areas would you like to focus on?
+☐ Physical fitness ☐ Nutrition ☐ Sleep ☐ Stress management ☐ Mental health ☐ Work-life balance ☐ Other: __________
+
+24. On a scale of 1-10, how motivated are you to make changes?
+1 ── 2 ── 3 ── 4 ── 5 ── 6 ── 7 ── 8 ── 9 ── 10
+
+25. What would increase your motivation?
+___________________________________
+___________________________________
+
+SUPPORT SYSTEMS
+===============
+26. Who can support you in your wellness journey?
+☐ Spouse/Partner ☐ Family ☐ Friends ☐ Colleagues ☐ Coach ☐ Other: __________
+
+27. What kind of support do you need?
+☐ Accountability ☐ Encouragement ☐ Resources ☐ Guidance ☐ Other: __________
+
+28. Have you worked with a wellness coach before?
+☐ Yes ☐ No
+If yes, what worked well? _________________
+What didn't work well? _________________
+
+BARRIERS TO WELLNESS
+====================
+29. What are the biggest barriers to your wellness?
+☐ Time ☐ Money ☐ Motivation ☐ Knowledge ☐ Support ☐ Other: __________
+
+30. How do you feel about asking for help?
+☐ Very comfortable ☐ Somewhat comfortable ☐ Neutral ☐ Uncomfortable ☐ Very uncomfortable
+
+COMMITMENT LEVEL
+================
+31. How much time can you commit to wellness activities per week?
+☐ Less than 1 hour ☐ 1-2 hours ☐ 3-5 hours ☐ 5-10 hours ☐ More than 10 hours
+
+32. What time of day works best for wellness activities?
+☐ Morning ☐ Afternoon ☐ Evening ☐ Flexible
+
+33. How often would you like to check in with your coach?
+☐ Weekly ☐ Bi-weekly ☐ Monthly
+
+ADDITIONAL INFORMATION
+======================
+34. Is there anything else you'd like me to know about your health or wellness?
+___________________________________
+___________________________________
+
+35. What questions do you have about wellness coaching?
+___________________________________
+___________________________________
+
+CONSENT AND AGREEMENT
+=====================
+☐ I understand that wellness coaching is not medical treatment
+☐ I agree to communicate openly and honestly
+☐ I commit to taking action on agreed-upon goals
+☐ I understand that results depend on my commitment and effort
+
+Client Signature: _________________ Date: _________
+
+Coach Signature: _________________ Date: _________`
   }
 ]

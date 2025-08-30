@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'How to Be a Life Coach: Build Email Funnels That Convert Leads to Clients',
   description: 'Master email marketing for life coaches. Learn to create automated sequences, lead magnets, and nurture campaigns that convert subscribers into paying coaching clients.',
   keywords: ['how to be a life coach', 'email funnel', 'email marketing for coaches', 'lead magnet', 'email automation', 'life coaching business'],
-  canonicalUrl: 'https://lifecoachlibrary.com/growth/email-funnels',
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/email-funnels/',
 })
 
 export default function EmailFunnelsPage() {
@@ -484,14 +484,14 @@ export default function EmailFunnelsPage() {
             
             <div className="bg-gray-50 p-6 rounded-lg">
               <h4 className="font-semibold mb-2">
-                <Link href="/growth/content-marketing" className="text-gray-900 hover:text-primary-600">
+                <Link href="/growth/content-marketing-for-coaches" className="text-gray-900 hover:text-primary-600">
                   Content Marketing Strategy
                 </Link>
               </h4>
               <p className="text-gray-600 text-sm mb-3">
                 Create valuable content that drives email signups and builds authority.
               </p>
-              <Link href="/growth/content-marketing" className="text-primary-600 text-sm font-medium">
+              <Link href="/growth/content-marketing-for-coaches" className="text-primary-600 text-sm font-medium">
                 Build Authority →
               </Link>
             </div>

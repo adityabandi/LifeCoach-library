@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'Discovery Call SOP: 30-Minute Script & Notes Template | Life Coach Library',
   description: 'Complete discovery call script and notes template to qualify prospects and close ideal coaching clients. Free 30-minute framework with proven questions.',
   keywords: ['discovery call script', 'coaching sales call', 'prospect qualification', 'client consultation', 'coaching enrollment'],
-  canonicalUrl: 'https://lifecoachlibrary.com/workflows/discovery-call-script',
+  canonicalUrl: 'https://lifecoachlibrary.com/workflows/discovery-call-script/',
 })
 
 export default function DiscoveryCallScriptPage() {

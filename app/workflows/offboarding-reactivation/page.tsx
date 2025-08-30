@@ -8,7 +8,7 @@ export const metadata = generateSEO({
   title: 'Client Offboarding & Reactivation - End Strong, Return Ready',
   description: 'Complete offboarding process for life coaches: graduation ceremonies, testimonial collection, referral systems, and reactivation strategies to maintain long-term client relationships.',
   keywords: ['client offboarding', 'coaching graduation', 'client reactivation', 'testimonial collection', 'coaching referrals', 'client lifecycle'],
-  canonicalUrl: 'https://lifecoachlibrary.com/workflows/offboarding-reactivation',
+  canonicalUrl: 'https://lifecoachlibrary.com/workflows/offboarding-reactivation/',
 })
 
 export default function OffboardingReactivationPage() {

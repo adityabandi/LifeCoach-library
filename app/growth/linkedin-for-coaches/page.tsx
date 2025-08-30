@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'LinkedIn for Life Coaches: Profile → Content → DM Framework That Generates Clients',
   description: 'Master LinkedIn marketing for life coaches. Learn how to optimize your profile, create engaging content, and use DMs to attract ideal coaching clients consistently.',
   keywords: ['how to be a life coach', 'LinkedIn for coaches', 'coach marketing', 'LinkedIn strategy', 'life coaching clients', 'social media for coaches'],
-  canonicalUrl: 'https://lifecoachlibrary.com/growth/linkedin-for-coaches',
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/linkedin-for-coaches/',
 })
 
 export default function LinkedInForCoachesPage() {
