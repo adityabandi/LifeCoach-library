@@ -132,6 +132,26 @@ export default function TemplatesPage() {
               </p>
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
+                  <span className="text-sm text-gray-700">First Session Script</span>
+                  <Link
+                    href="/templates/first-session-script"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View First Session Script"
+                  >
+                    View Template
+                  </Link>
+                </div>
+                <div className="flex justify-between items-center py-2 border-b border-gray-100">
+                  <span className="text-sm text-gray-700">Session Notes Template</span>
+                  <Link
+                    href="/templates/session-notes-template"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View Session Notes Template"
+                  >
+                    View Template
+                  </Link>
+                </div>
+                <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">GROW Model Template</span>
                   <Link
                     href="/templates/grow-model-template"
@@ -236,6 +256,16 @@ export default function TemplatesPage() {
               </p>
               <div className="space-y-3">
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
+                  <span className="text-sm text-gray-700">Service Proposal Template</span>
+                  <Link
+                    href="/templates/service-proposal-template"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View Service Proposal Template"
+                  >
+                    View Template
+                  </Link>
+                </div>
+                <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Service Agreement Template</span>
                   <Link
                     href="/templates/coaching-agreement-template"
@@ -282,6 +312,16 @@ export default function TemplatesPage() {
                 Professional marketing templates for social media, lead magnets, and content creation.
               </p>
               <div className="space-y-3">
+                <div className="flex justify-between items-center py-2 border-b border-gray-100">
+                  <span className="text-sm text-gray-700">Email Sequence Templates</span>
+                  <Link
+                    href="/templates/email-sequence-templates"
+                    className="text-primary-600 text-sm font-medium hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 rounded px-2 py-1 hover-lift"
+                    aria-label="View Email Sequence Templates"
+                  >
+                    View Template
+                  </Link>
+                </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="text-sm text-gray-700">Social Media Content Pack</span>
                   <Link
