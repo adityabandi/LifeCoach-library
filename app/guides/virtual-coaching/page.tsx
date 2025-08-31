@@ -5,7 +5,7 @@ import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
   title: 'Virtual Coaching: Best Practices for Online Life Coaching Sessions',
-  description: 'Master virtual coaching with proven strategies for technology setup, client engagement, and building rapport in online sessions. Essential guide for remote coaching success.',
+  description: 'Master virtual coaching with proven strategies for technology setup, client engagement, and building rapport in online sessions.',
   keywords: ['virtual coaching', 'online coaching', 'remote coaching', 'virtual sessions', 'digital coaching tools'],
   canonicalUrl: 'https://lifecoachlibrary.com/guides/virtual-coaching',
 })

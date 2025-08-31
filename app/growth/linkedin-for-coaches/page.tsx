@@ -5,8 +5,8 @@ import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
   title: 'LinkedIn for Life Coaches: Profile → Content → DM Framework That Generates Clients',
-  description: 'Master LinkedIn marketing for life coaches. Learn how to optimize your profile, create engaging content, and use DMs to attract ideal coaching clients consistently.',
-  keywords: ['how to be a life coach', 'LinkedIn for coaches', 'coach marketing', 'LinkedIn strategy', 'life coaching clients', 'social media for coaches'],
+  description: 'Master LinkedIn marketing for life coaches. Learn how to optimize your profile, create engaging content, and use DMs to attract ideal coaching clients.',
+  keywords: ['LinkedIn for coaches', 'LinkedIn marketing', 'coaching clients LinkedIn', 'LinkedIn strategy', 'social media for coaches'],
   canonicalUrl: 'https://lifecoachlibrary.com/growth/linkedin-for-coaches/',
 })
 
@@ -58,6 +58,12 @@ export default function LinkedInForCoachesPage() {
           <p>
             This comprehensive guide reveals the three-pillar LinkedIn system that transforms your profile into a client magnet, your content into conversation starters, and your DMs into discovery call bookings.
           </p>
+
+          <div className="bg-blue-50 p-4 rounded-lg my-6">
+            <p className="text-blue-800">
+              <strong>Ready to optimize your LinkedIn presence?</strong> Start with our <Link href="/templates" className="text-blue-600 hover:text-blue-800 underline">free coaching templates</Link> and <Link href="/workflows/client-intake-onboarding" className="text-blue-600 hover:text-blue-800 underline">client onboarding workflow</Link> to create a professional foundation.
+            </p>
+          </div>
 
           <h2>Why LinkedIn is perfect for life coaches</h2>
           <p>
@@ -199,6 +205,12 @@ export default function LinkedInForCoachesPage() {
             <li>Free resources and templates</li>
             <li>Client testimonials</li>
           </ul>
+
+          <div className="bg-green-50 p-4 rounded-lg my-6">
+            <p className="text-green-800">
+              <strong>Need help with client testimonials?</strong> Learn how to collect and use <Link href="/growth/testimonials-case-studies" className="text-green-600 hover:text-green-800 underline">testimonials and case studies</Link> to build credibility and attract more clients.
+            </p>
+          </div>
 
           <h3>High-performing post formats</h3>
 
@@ -347,6 +359,12 @@ export default function LinkedInForCoachesPage() {
             <li><strong>Shield App:</strong> Advanced LinkedIn analytics</li>
             <li><strong>Buffer or Hootsuite:</strong> Content scheduling</li>
           </ul>
+
+          <div className="bg-purple-50 p-4 rounded-lg my-6">
+            <p className="text-purple-800">
+              <strong>Want to create compelling content?</strong> Learn about <Link href="/growth/content-marketing-for-coaches" className="text-purple-600 hover:text-purple-800 underline">content marketing strategies</Link> and <Link href="/growth/seo-for-life-coaches" className="text-purple-600 hover:text-purple-800 underline">SEO optimization</Link> to amplify your LinkedIn reach.
+            </p>
+          </div>
 
           <h3>Automation guidelines:</h3>
           <ul>

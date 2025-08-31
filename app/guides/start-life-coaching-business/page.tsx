@@ -5,8 +5,8 @@ import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
   title: 'How to Start a Life Coaching Business: Complete 2025 Guide',
-  description: 'Learn how to start a successful life coaching business with our comprehensive guide covering certification, niche selection, pricing, and client acquisition strategies.',
-  keywords: ['start life coaching business', 'life coach certification', 'coaching business plan', 'life coaching career', 'coaching niche'],
+  description: 'Learn how to start a successful life coaching business with our comprehensive guide covering certification, niche selection, pricing, and client acquisition.',
+  keywords: ['how to start life coaching business', 'life coach certification', 'coaching business plan', 'life coach training', 'coaching niche'],
   canonicalUrl: 'https://lifecoachlibrary.com/guides/start-life-coaching-business',
 })
 
@@ -102,6 +102,12 @@ export default function StartLifeCoachingBusinessPage() {
           <p>
             One way to differentiate your practice is to integrate science‑backed personality assessments. For example, the <a href="https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=for_coaching_library" className="text-primary-600 hover:text-primary-700">Strengths Test from Personality‑Quizzes for Coaching</a> identifies 38 distinct strengths across five domains and helps coaches deliver personalized, premium insights. Using such tools positions you as a professional who delivers data‑driven value and can justify premium rates.
           </p>
+
+          <div className="bg-blue-50 p-4 rounded-lg my-6">
+            <p className="text-blue-800">
+              <strong>Ready to build your coaching practice?</strong> Start with our <Link href="/growth/positioning-for-coaches" className="text-blue-600 hover:text-blue-800 underline">positioning guide</Link> and <Link href="/templates" className="text-blue-600 hover:text-blue-800 underline">free business templates</Link> to create a professional foundation.
+            </p>
+          </div>
 
           <h2>Market your services</h2>
           <p>

@@ -632,7 +632,7 @@ Remember: Great goals are achieved through consistent small actions, regular rev
   {
     slug: 'progress-review-template',
     title: 'Progress Review Template',
-    description: 'Structured framework for conducting regular progress reviews and adjusting coaching plans.',
+    description: 'Comprehensive structured framework for conducting regular progress reviews, celebrating wins, identifying obstacles, and adjusting coaching plans to keep clients on track toward their goals.',
     category: 'session-plans',
     content: `PROGRESS REVIEW SESSION TEMPLATE
 
@@ -2430,7 +2430,7 @@ This journey map serves as a comprehensive record of the client's transformation
   {
     slug: 'coaching-agreement-template',
     title: 'Coaching Agreement Template',
-    description: 'Professional coaching agreement template covering terms, expectations, and legal protections.',
+    description: 'Professional coaching agreement template covering terms, expectations, legal protections, payment structures, and confidentiality clauses to establish clear boundaries with clients.',
     category: 'business-forms',
     content: `COACHING AGREEMENT TEMPLATE
 
@@ -3277,12 +3277,12 @@ PROGRAM LOGISTICS
 
 9. How was the session length?
 ☐ Too long
-☐ Just right
+☐ Just right  
 ☐ Too short
 
 10. How was the program duration?
 ☐ Too long
-☐ Just right  
+☐ Just right
 ☐ Too short
 
 11. Rate the scheduling and logistics:

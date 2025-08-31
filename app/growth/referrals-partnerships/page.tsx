@@ -59,6 +59,12 @@ export default function ReferralsPartnershipsPage() {
             The most successful coaches build practices where 60-80% of new clients come from referrals and partnerships. This comprehensive guide will show you how to create systematic approaches to referral generation and strategic alliance building that compound over time.
           </p>
 
+          <div className="bg-blue-50 p-4 rounded-lg my-6">
+            <p className="text-blue-800">
+              <strong>Ready to build your referral system?</strong> Start with our <Link href="/templates" className="text-blue-600 hover:text-blue-800 underline">free coaching templates</Link> and <Link href="/workflows/client-intake-onboarding" className="text-blue-600 hover:text-blue-800 underline">client onboarding workflow</Link> to create a professional foundation.
+            </p>
+          </div>
+
           <h2>The power of referral-based growth</h2>
           <p>
             Referral-based growth offers unique advantages that make it the most sustainable marketing strategy for coaches:
@@ -111,6 +117,12 @@ export default function ReferralsPartnershipsPage() {
             <li><strong>Entrepreneurs:</strong> Well-connected business owners</li>
             <li><strong>Community leaders:</strong> Active in professional associations</li>
           </ul>
+
+          <div className="bg-green-50 p-4 rounded-lg my-6">
+            <p className="text-green-800">
+              <strong>Need help with client intake?</strong> Check out our <Link href="/workflows/coaching-intake-questions" className="text-green-600 hover:text-green-800 underline">coaching intake questions workflow</Link> and <Link href="/workflows/client-onboarding-checklist" className="text-green-600 hover:text-green-800 underline">client onboarding checklist</Link> for proven systems.
+            </p>
+          </div>
 
           <h2>Building a systematic referral program</h2>
 
@@ -351,6 +363,23 @@ export default function ReferralsPartnershipsPage() {
             <li>Establish communication protocols</li>
             <li>Set up tracking and evaluation systems</li>
           </ul>
+
+          <h3>Strategic alliance networks</h3>
+          <p>
+            Build networks of complementary service providers:
+          </p>
+          <ul>
+            <li>Regular partner meetings and collaboration</li>
+            <li>Joint marketing initiatives and campaigns</li>
+            <li>Shared resource development</li>
+            <li>Coordinated client service delivery</li>
+          </ul>
+
+          <div className="bg-purple-50 p-4 rounded-lg my-6">
+            <p className="text-purple-800">
+              <strong>Want to create compelling content?</strong> Learn about <Link href="/growth/content-marketing-for-coaches" className="text-purple-600 hover:text-purple-800 underline">content marketing strategies</Link> and <Link href="/growth/seo-for-life-coaches" className="text-purple-600 hover:text-purple-800 underline">SEO for life coaches</Link> to attract more clients.
+            </p>
+          </div>
 
           <h2>Referral incentive programs</h2>
 

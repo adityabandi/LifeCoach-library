@@ -5,8 +5,8 @@ import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
   title: 'How to Position Your Life Coaching Practice: ICP, Pains, Promises & Proof',
-  description: 'Learn how to be a life coach with clear positioning. Define your ideal client profile, identify pain points, craft compelling promises, and build proof for your coaching niche.',
-  keywords: ['how to be a life coach', 'life coach positioning', 'coaching niche', 'ideal client profile', 'life coaching business', 'coach marketing'],
+  description: 'Learn how to be a life coach with clear positioning. Define your ideal client profile, identify pain points, craft compelling promises, and build proof.',
+  keywords: ['how to be a life coach', 'coaching positioning', 'ideal client profile', 'coaching niche', 'life coach marketing'],
   canonicalUrl: 'https://lifecoachlibrary.com/growth/positioning-for-coaches/',
 })
 

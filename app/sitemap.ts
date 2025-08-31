@@ -1,4 +1,5 @@
 import { MetadataRoute } from 'next'
+import { templates } from '@/lib/templates'
 
 // Environment-aware site URL configuration
 function getSiteUrl(): string {
@@ -223,37 +224,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     },
-    {
-      url: `${baseUrl}/workflows/discovery-call-script/`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/workflows/first-session-agenda/`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/workflows/offboarding-reactivation/`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/workflows/progress-tracking/`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.9,
-    },
-    {
-      url: `${baseUrl}/workflows/review-cadence/`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.7,
-    },
   ]
 
-  return [...staticPages, ...guidePages, ...methodPages, ...growthPages, ...workflowPages]
+  // Template pages - dynamically generated from templates.ts
+  const templatePages = templates.map(template => ({
+    url: `${baseUrl}/templates/${template.slug}/`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }))
+
+  return [...staticPages, ...guidePages, ...methodPages, ...growthPages, ...workflowPages, ...templatePages]
 }

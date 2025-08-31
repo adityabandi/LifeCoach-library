@@ -379,6 +379,12 @@ export default function WebinarPlaybookPage() {
             Once you have a converting live webinar, create an automated version that runs on demand. This provides 24/7 lead generation and sales, scaling your business beyond live delivery constraints.
           </p>
 
+          <div className="bg-green-50 p-4 rounded-lg my-6">
+            <p className="text-green-800">
+              <strong>Want to automate your webinars?</strong> Learn how to set up <Link href="/growth/email-funnels" className="text-green-600 hover:text-green-800 underline">automated email sequences</Link> and <Link href="/workflows/client-intake-onboarding" className="text-green-600 hover:text-green-800 underline">streamline client onboarding</Link> for maximum efficiency.
+            </p>
+          </div>
+
           <h3>Webinar series strategy</h3>
           <p>
             Create a 3-part webinar series addressing different aspects of your ideal client's journey. This builds deeper relationships and allows for higher-ticket offers by the final session.
@@ -388,6 +394,12 @@ export default function WebinarPlaybookPage() {
           <p>
             Co-host webinars with complementary service providers (therapists, nutritionists, career counselors). This expands your reach to qualified audiences and builds strategic relationships.
           </p>
+
+          <div className="bg-orange-50 p-4 rounded-lg my-6">
+            <p className="text-orange-800">
+              <strong>Ready to create your first webinar?</strong> Check out our <Link href="/growth/content-marketing-for-coaches" className="text-orange-600 hover:text-orange-800 underline">content marketing strategies</Link> and <Link href="/growth/seo-for-life-coaches" className="text-orange-600 hover:text-orange-800 underline">SEO optimization guide</Link> to drive more traffic to your webinar registration page.
+            </p>
+          </div>
 
           <h2>Common mistakes to avoid</h2>
 

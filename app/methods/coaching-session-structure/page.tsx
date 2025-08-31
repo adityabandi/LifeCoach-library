@@ -5,8 +5,8 @@ import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
   title: 'Coaching Session Structure: 6-Step Framework for Powerful Sessions',
-  description: 'Master the proven 6-step coaching session structure that creates breakthrough moments. Learn how to plan, execute, and follow up on transformative coaching sessions.',
-  keywords: ['coaching session structure', 'session planning', 'coaching framework', 'session agenda', 'coaching process'],
+  description: 'Master the proven 6-step coaching session structure that creates breakthrough moments. Learn how to plan, execute, and follow up on sessions.',
+  keywords: ['coaching session structure', 'coaching framework', 'session planning', 'coaching process', 'session template'],
   canonicalUrl: 'https://lifecoachlibrary.com/methods/coaching-session-structure',
 })
 

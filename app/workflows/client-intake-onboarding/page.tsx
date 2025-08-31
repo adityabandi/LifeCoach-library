@@ -4,8 +4,8 @@ import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
   title: 'The Ultimate Client Intake Process for Life Coaches',
-  description: 'Discover why client intake forms are critical in life coaching and learn how to design a questionnaire that gathers meaningful information and sets the stage for transformative sessions.',
-  keywords: ['client intake', 'coaching onboarding', 'intake form template', 'coaching intake questions', 'client questionnaire'],
+  description: 'Learn why client intake forms are critical in life coaching and how to design questionnaires that gather meaningful information and set the stage for transformation.',
+  keywords: ['client intake forms', 'coaching questionnaire', 'client onboarding', 'intake process', 'coaching assessment'],
   canonicalUrl: 'https://lifecoachlibrary.com/workflows/client-intake-onboarding',
 })
 
