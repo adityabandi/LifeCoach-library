@@ -4,8 +4,8 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'SEO for Life Coaches: Rank #1 for "How to Be a Life Coach" + Local Keywords',
-  description: 'Master SEO for life coaches. Learn keyword strategy, content marketing, local SEO, and technical optimization to attract clients searching "how to be a life coach" online.',
+  title: 'SEO for Life Coaches: Rank #1 + Local Keywords',
+  description: 'Master SEO for life coaches. Learn keyword strategy, content marketing, local SEO, and technical optimization to attract clients searching for coaching services online.',
   keywords: ['SEO for life coaches', 'how to be a life coach', 'life coach SEO', 'local SEO coaching', 'content marketing coaches', 'coaching business SEO'],
   canonicalUrl: 'https://lifecoachlibrary.com/growth/seo-for-life-coaches/',
 })

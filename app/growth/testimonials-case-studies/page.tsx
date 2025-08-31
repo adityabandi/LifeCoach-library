@@ -4,8 +4,8 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'How to Collect Powerful Testimonials & Case Studies for Life Coaches',
-  description: 'Master the art of collecting compelling testimonials and creating case studies that convert. Includes scripts, templates, and proven strategies.',
+  title: 'How to Collect Powerful Testimonials & Case Studies',
+  description: 'Master the art of collecting compelling testimonials and creating case studies that convert. Includes scripts, templates, and proven strategies for building social proof.',
   keywords: ['testimonials for coaches', 'case studies', 'social proof', 'client testimonials', 'coaching testimonials'],
   canonicalUrl: 'https://lifecoachlibrary.com/growth/testimonials-case-studies/',
 })

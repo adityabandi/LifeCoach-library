@@ -4,8 +4,8 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'Referral Systems & Strategic Partnerships for Life Coaches: Build Sustainable Growth',
-  description: 'Build a thriving coaching practice through referrals and partnerships. Learn systems to generate consistent referrals and create strategic alliances that drive sustainable growth.',
+  title: 'Referral Systems & Strategic Partnerships for Life Coaches',
+  description: 'Build a thriving coaching practice through referrals and partnerships. Learn systems to generate consistent referrals and create strategic alliances.',
   keywords: ['how to be a life coach', 'coaching referrals', 'coaching partnerships', 'life coach marketing', 'coaching business growth', 'coach networking'],
   canonicalUrl: 'https://lifecoachlibrary.com/growth/referrals-partnerships/',
 })

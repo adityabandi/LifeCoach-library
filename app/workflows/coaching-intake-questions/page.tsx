@@ -4,9 +4,9 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'Coaching Intake: Questions, Consent & Red Flags (Free Forms)',
-  description: 'Complete coaching intake process with 25 essential questions, consent forms, red flag identification, and free Typeform templates.',
-  keywords: ['coaching intake questions', 'intake forms', 'coaching questionnaire', 'client assessment', 'coaching consent forms'],
+  title: 'Coaching Intake Questions & Red Flags (Free Forms)',
+  description: 'Complete coaching intake process with 25 essential questions, consent forms, red flag identification, and free Typeform templates. Set proper boundaries from day one.',
+  keywords: ['coaching intake forms', 'coaching questionnaire', 'client intake', 'intake process', 'coaching assessment'],
   canonicalUrl: 'https://lifecoachlibrary.com/workflows/coaching-intake-questions/',
 })
 
