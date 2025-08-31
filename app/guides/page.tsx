@@ -6,8 +6,8 @@ import Breadcrumb from '@/components/Breadcrumb'
 import Logo from '@/components/Logo'
 
 export const metadata = generateSEO({
-  title: 'Free Life Coaching Business Guides - Start & Grow Your Practice',
-  description: 'Comprehensive guides for starting, marketing, and scaling your life coaching business. Industry trends, virtual coaching, and proven strategies.',
+  title: 'Free Life Coaching Business Guides',
+  description: 'Comprehensive guides for starting, marketing, and scaling your life coaching business. Industry trends, virtual coaching strategies, and proven business-building frameworks.',
   keywords: ['life coaching business', 'coaching guides', 'start coaching practice', 'coaching industry trends'],
   canonicalUrl: 'https://lifecoachlibrary.com/guides',
 })

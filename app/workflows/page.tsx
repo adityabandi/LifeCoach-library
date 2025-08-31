@@ -6,9 +6,9 @@ import Breadcrumb from '@/components/Breadcrumb'
 import Logo from '@/components/Logo'
 
 export const metadata = generateSEO({
-  title: 'Client Lifecycle Workflows - Life Coach Process Templates',
-  description: 'Complete client journey workflows from lead to offboarding. Process maps, checklists, and templates for discovery, intake, onboarding, and reviews.',
-  keywords: ['coaching workflows', 'client processes', 'coaching systems', 'client lifecycle', 'coaching templates'],
+  title: 'Client Lifecycle Workflows & Templates',
+  description: 'Complete client journey workflows from lead to offboarding. Process maps, checklists, and templates for discovery, intake, onboarding, sessions, and reviews.',
+  keywords: ['client workflows', 'coaching process', 'client journey', 'coaching templates', 'client lifecycle'],
   canonicalUrl: 'https://lifecoachlibrary.com/workflows',
 })
 
@@ -188,6 +188,24 @@ export default function WorkflowsPage() {
                 </p>
                 <Link href="/workflows/review-cadence" className="text-primary-600 font-medium hover:text-primary-700 transition-colors hover-lift">
                   Setup Reviews →
+                </Link>
+              </div>
+            </div>
+
+            {/* Client Relationships */}
+            <div className="feature-card hover-glow">
+              <div className="feature-card-content">
+                <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mb-4">
+                  <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-semibold text-gray-900 mb-3">Client Relationships</h3>
+                <p className="text-gray-600 mb-4 flex-grow">
+                  Communication protocols, conflict resolution, and building trust for long-term coaching relationships.
+                </p>
+                <Link href="/workflows/client-relationships" className="text-primary-600 font-medium hover:text-primary-700 transition-colors hover-lift">
+                  Build Relationships →
                 </Link>
               </div>
             </div>

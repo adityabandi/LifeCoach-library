@@ -6,9 +6,9 @@ import Breadcrumb from '@/components/Breadcrumb'
 import Logo from '@/components/Logo'
 
 export const metadata = generateSEO({
-  title: 'Proven Coaching Methods & Techniques - Frameworks for Life Coaches',
-  description: 'Evidence-based coaching methods, exercises, and session structures. Learn GROW model, coaching plans, and transformational techniques.',
-  keywords: ['coaching methods', 'coaching techniques', 'GROW model', 'coaching exercises', 'session structure'],
+  title: 'Proven Coaching Methods & Techniques',
+  description: 'Master evidence-based coaching frameworks including GROW, OSKAR, and solution-focused approaches. Complete guide with templates and practical applications.',
+  keywords: ['coaching methods', 'coaching frameworks', 'GROW model', 'coaching techniques', 'evidence-based coaching'],
   canonicalUrl: 'https://lifecoachlibrary.com/methods',
 })
 
@@ -45,6 +45,42 @@ export default function MethodsPage() {
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            {/* Coaching Models */}
+            <div className="feature-card hover-glow">
+              <div className="w-16 h-16 bg-gradient-to-br from-purple-100 to-purple-200 rounded-2xl flex items-center justify-center mb-6 template-icon">
+                <svg className="w-8 h-8 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                </svg>
+              </div>
+              <h3 className="text-2xl font-bold text-gray-900 mb-4">Coaching Models</h3>
+              <p className="text-gray-600 mb-6 leading-relaxed">
+                Proven coaching frameworks including GROW, OSKAR, Solution-Focused, and other evidence-based models for structured conversations.
+              </p>
+              <ul className="space-y-3 text-gray-600 mb-8">
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-purple-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  GROW model framework
+                </li>
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-purple-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  OSKAR solution-focused coaching
+                </li>
+                <li className="flex items-center">
+                  <svg className="w-5 h-5 text-purple-500 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                  </svg>
+                  Cognitive coaching approaches
+                </li>
+              </ul>
+              <Link href="/methods/coaching-models" className="btn-primary w-full hover-lift">
+                Learn Models
+              </Link>
+            </div>
 
             {/* Coaching Exercises */}
             <div className="feature-card hover-glow">

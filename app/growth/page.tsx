@@ -6,9 +6,9 @@ import Breadcrumb from '@/components/Breadcrumb'
 import Logo from '@/components/Logo'
 
 export const metadata = generateSEO({
-  title: 'Life Coach Marketing & Growth Strategies - Build Your Practice',
-  description: 'Complete marketing funnel for life coaches: positioning, website conversion, SEO, LinkedIn, email funnels, referrals, pricing, and proof strategies.',
-  keywords: ['life coach marketing', 'coaching business growth', 'coach SEO', 'LinkedIn for coaches', 'coaching referrals', 'coach pricing'],
+  title: 'Life Coach Marketing & Growth Strategies',
+  description: 'Master marketing strategies to build and scale your life coaching practice. Proven techniques for positioning, content marketing, LinkedIn, SEO, and client acquisition.',
+  keywords: ['life coach marketing', 'coaching business growth', 'marketing for coaches', 'coaching business strategies'],
   canonicalUrl: 'https://lifecoachlibrary.com/growth',
 })
 

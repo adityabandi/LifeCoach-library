@@ -5,9 +5,9 @@ import Footer from '@/components/Footer'
 import Logo from '@/components/Logo'
 
 export const metadata = generateSEO({
-  title: 'Free Coaching Templates - Intake Forms, Session Plans & Progress Trackers',
-  description: 'Access free professional coaching templates including client intake forms, session agendas, progress trackers, and assessment tools. Ready to use immediately.',
-  keywords: ['coaching templates', 'intake forms', 'session plans', 'progress trackers', 'coaching tools'],
+  title: 'Free Coaching Templates & Forms',
+  description: 'Professional coaching templates for intake forms, session plans, progress trackers, and client agreements. Download immediately and customize for your practice.',
+  keywords: ['coaching templates', 'intake forms', 'coaching forms', 'session plans', 'progress trackers'],
   canonicalUrl: 'https://lifecoachlibrary.com/templates',
 })
 
