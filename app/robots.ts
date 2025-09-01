@@ -23,7 +23,20 @@ export default function robots(): MetadataRoute.Robots {
     rules: {
       userAgent: '*',
       allow: '/',
-      disallow: ['/search', '/tag/*', '/thank-you', '/api/*'],
+      disallow: [
+        '/search', 
+        '/search/*', 
+        '/tag/*', 
+        '/thank-you', 
+        '/api/*', 
+        '/caf/*', 
+        '/cgi-bin/*', 
+        '/parking.php',
+        '/portal.php*',
+        '/cc.php*',
+        '/fb.php*',
+        '*.php*'
+      ],
     },
     sitemap: `${siteUrl}/sitemap.xml`,
     host: siteUrl,

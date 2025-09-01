@@ -1,0 +1,21 @@
+# Force HTTPS and canonical domain
+RewriteEngine On
+
+# Redirect HTTP to HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirect www to non-www
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+# Block malicious search/portal attacks
+RewriteRule ^search(/.*)?$ / [R=301,L]
+RewriteRule ^portal\.php.*$ / [R=301,L]
+RewriteRule ^cc\.php.*$ / [R=301,L]
+RewriteRule ^fb\.php.*$ / [R=301,L]
+
+# Block legacy URLs
+RewriteRule ^caf(/.*)?$ / [R=301,L]
+RewriteRule ^cgi-bin(/.*)?$ / [R=301,L]
+RewriteRule ^parking\.php$ / [R=301,L]

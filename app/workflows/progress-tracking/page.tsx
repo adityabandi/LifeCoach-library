@@ -6,9 +6,9 @@ import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata = generateSEO({
   title: 'Progress Tracking Systems for Life Coaches',
-  description: 'Complete progress tracking framework with scorecards, habit trackers, milestone systems, and client accountability tools to measure coaching success.',
-  keywords: ['progress tracking', 'client progress', 'coaching metrics', 'goal tracking', 'accountability systems'],
-  canonicalUrl: 'https://lifecoachlibrary.com/workflows/progress-tracking/',
+  description: 'Master client progress tracking with scorecards, OKRs, and habit tracking systems. Measure and celebrate client growth with proven frameworks.',
+  keywords: ['progress tracking', 'client tracking', 'coaching metrics', 'goal tracking', 'client progress'],
+  canonicalUrl: 'https://lifecoachlibrary.com/workflows/progress-tracking',
 })
 
 export default function ProgressTrackingPage() {

@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'Content Marketing for Life Coaches: Complete System',
   description: 'Master content marketing for life coaches. Learn how to create valuable content that attracts ideal clients, builds authority, and generates consistent coaching leads.',
   keywords: ['content marketing', 'life coach marketing', 'coaching content', 'blog for coaches', 'content strategy'],
-  canonicalUrl: 'https://lifecoachlibrary.com/growth/content-marketing-for-coaches/',
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/content-marketing-for-coaches',
 })
 
 export default function ContentMarketingForCoachesPage() {

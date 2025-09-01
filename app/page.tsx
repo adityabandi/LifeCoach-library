@@ -5,9 +5,9 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'How to Become a Life Coach',
-  description: 'Learn how to become a life coach with our comprehensive guide. Get free templates, coaching methods, business strategies, and step-by-step training to start your practice.',
-  keywords: ['how to become a life coach', 'life coaching certification', 'coaching business', 'life coach training', 'coaching templates', 'coaching methods'],
+  title: 'Life Coach Resources & Training - Free Templates & Guides',
+  description: 'Learn how to become a life coach with our complete guide. Get free templates, coaching methods, and business strategies to start your practice.',
+  keywords: ['how to become a life coach', 'life coaching certification', 'coaching business', 'life coach training', 'coaching templates'],
   canonicalUrl: 'https://lifecoachlibrary.com',
 })
 
