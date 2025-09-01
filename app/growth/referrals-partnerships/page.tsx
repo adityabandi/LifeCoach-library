@@ -7,7 +7,7 @@ export const metadata = generateSEO({
   title: 'Referral Systems & Strategic Partnerships for Life Coaches',
   description: 'Build a thriving coaching practice through referrals and partnerships. Learn systems to generate consistent referrals and create strategic alliances.',
   keywords: ['how to be a life coach', 'coaching referrals', 'coaching partnerships', 'life coach marketing', 'coaching business growth', 'coach networking'],
-  canonicalUrl: 'https://lifecoachlibrary.com/growth/referrals-partnerships/',
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/referrals-partnerships',
 })
 
 export default function ReferralsPartnershipsPage() {

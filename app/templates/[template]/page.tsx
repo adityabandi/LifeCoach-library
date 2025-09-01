@@ -26,13 +26,11 @@ export async function generateMetadata({ params }: Props) {
     'marketing-tools': ['coaching marketing', 'client acquisition', 'coaching promotion']
   }
 
-  const enhancedKeywords = [...baseKeywords, ...(categoryKeywords[template.category] || [])]
-
   return generateSEO({
-    title: `${template.title} - Free Coaching Template`,
-    description: template.description,
-    keywords: enhancedKeywords,
-    canonicalUrl: `https://lifecoachlibrary.com/templates/${params.template}/`,
+    title: `${template.title} | Life Coach Template`,
+    description: `Free ${template.title.toLowerCase()} template for life coaches. Ready-to-use coaching template for ${template.category.toLowerCase()} with customizable sections and professional formatting.`,
+    keywords: [...baseKeywords, ...(categoryKeywords[template.category] || [])],
+    canonicalUrl: `https://lifecoachlibrary.com/templates/${params.template}`,
   })
 }
 

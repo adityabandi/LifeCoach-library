@@ -4,10 +4,10 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'LinkedIn for Life Coaches: Client Generation Framework',
-  description: 'Master LinkedIn marketing for life coaches. Learn how to optimize your profile, create engaging content, and use DMs to attract ideal coaching clients consistently.',
-  keywords: ['LinkedIn for coaches', 'LinkedIn marketing', 'coaching clients LinkedIn', 'LinkedIn strategy', 'social media for coaches'],
-  canonicalUrl: 'https://lifecoachlibrary.com/growth/linkedin-for-coaches/',
+  title: 'LinkedIn Marketing for Life Coaches: Complete Strategy',
+  description: 'Master LinkedIn marketing for life coaches. Learn profile optimization, content strategies, networking tactics, and lead generation systems to attract ideal coaching clients.',
+  keywords: ['LinkedIn for coaches', 'LinkedIn marketing', 'coach networking', 'LinkedIn lead generation', 'professional coaching'],
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/linkedin-for-coaches',
 })
 
 export default function LinkedInForCoachesPage() {

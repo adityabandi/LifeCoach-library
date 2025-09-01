@@ -4,10 +4,10 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'Webinar That Converts: Complete Playbook for Life Coaches',
-  description: 'Master webinar marketing for life coaches. Get the complete outline, slide templates, registration page copy, and conversion strategies that turn attendees into clients.',
-  keywords: ['how to be a life coach', 'webinar for coaches', 'coaching webinar template', 'life coach marketing', 'webinar funnel', 'coaching sales webinar'],
-  canonicalUrl: 'https://lifecoachlibrary.com/growth/webinar-playbook/',
+  title: 'Webinar Playbook for Life Coaches',
+  description: 'Complete webinar strategy for life coaches. Learn how to create, promote, and deliver high-converting webinars that attract ideal clients and generate coaching leads.',
+  keywords: ['coaching webinars', 'webinar marketing', 'online coaching', 'lead generation', 'coaching sales'],
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/webinar-playbook',
 })
 
 export default function WebinarPlaybookPage() {

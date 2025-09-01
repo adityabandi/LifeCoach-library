@@ -4,10 +4,10 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'Website That Converts: Layout, Copy, Offers & Proof for Life Coaches',
-  description: 'Learn how to create a high-converting website. Master layout design, persuasive copy, irresistible offers, and social proof that turns visitors into clients.',
-  keywords: ['how to be a life coach', 'coaching website', 'website conversion', 'landing page design', 'website copy', 'coaching website design'],
-  canonicalUrl: 'https://lifecoachlibrary.com/growth/website-conversion/',
+  title: 'Website Conversion Optimization for Life Coaches',
+  description: 'Convert more website visitors into coaching clients. Learn proven strategies for optimizing your coaching website for maximum lead generation and client conversion.',
+  keywords: ['website conversion', 'coaching website', 'lead generation', 'website optimization', 'coaching leads'],
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/website-conversion',
 })
 
 export default function WebsiteConversionPage() {

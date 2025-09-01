@@ -4,10 +4,10 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'Marketing Your Life‑Coaching Business and Attracting Clients',
-  description: 'Discover evidence‑based marketing strategies for 2025, including building a genuine brand, offering free sessions, using online tools and networking, to grow your life‑coaching practice.',
-  keywords: ['life coach marketing', 'coaching business growth', 'attract coaching clients', 'coaching brand building', 'life coaching promotion'],
-  canonicalUrl: 'https://lifecoachlibrary.com/growth/marketing-for-life-coaches/',
+  title: 'Marketing for Life Coaches: Complete Strategy Guide',
+  description: 'Master marketing for life coaches. Learn client attraction strategies, content marketing, social media, and lead generation systems that build a thriving coaching practice.',
+  keywords: ['marketing for life coaches', 'coach marketing strategy', 'life coach lead generation', 'coaching business marketing', 'client attraction'],
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/marketing-for-life-coaches',
 })
 
 export default function MarketingForLifeCoachesPage() {

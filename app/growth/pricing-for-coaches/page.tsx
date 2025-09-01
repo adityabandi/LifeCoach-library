@@ -4,10 +4,10 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'Life Coach Pricing Strategy: Psychology, Packages & Premium Positioning',
-  description: 'Master pricing psychology for life coaches. Learn value-based pricing, package strategies, and how to position premium services confidently. Includes pricing frameworks and scripts.',
-  keywords: ['how to be a life coach', 'coaching pricing', 'life coach rates', 'coaching packages', 'pricing strategy', 'coaching business'],
-  canonicalUrl: 'https://lifecoachlibrary.com/growth/pricing-for-coaches/',
+  title: 'Pricing Strategy for Life Coaches',
+  description: 'Master pricing psychology for life coaches. Learn value-based pricing, package structures, and strategies to charge premium rates that reflect your true worth.',
+  keywords: ['coaching pricing', 'life coach rates', 'pricing strategy', 'coaching packages', 'value-based pricing'],
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/pricing-for-coaches',
 })
 
 export default function PricingPage() {

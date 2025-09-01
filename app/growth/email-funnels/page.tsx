@@ -4,10 +4,10 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata = generateSEO({
-  title: 'Email Funnels for Life Coaches: Complete System',
-  description: 'Master email marketing for life coaches. Learn to create automated sequences, lead magnets, and nurture campaigns that convert subscribers into paying coaching clients.',
-  keywords: ['how to be a life coach', 'email marketing coaches', 'coaching funnels', 'email sequences', 'lead magnets', 'coaching business'],
-  canonicalUrl: 'https://lifecoachlibrary.com/growth/email-funnels/',
+  title: 'Email Marketing Funnels for Life Coaches',
+  description: 'Build high-converting email funnels that turn leads into coaching clients. Complete templates for lead magnets, nurture sequences, and sales automation.',
+  keywords: ['email marketing for coaches', 'coaching funnels', 'email automation', 'lead generation', 'coaching sales'],
+  canonicalUrl: 'https://lifecoachlibrary.com/growth/email-funnels',
 })
 
 export default function EmailFunnelsPage() {

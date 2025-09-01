@@ -24,11 +24,9 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
       disallow: [
-        '/search', 
-        '/search/*', 
-        '/tag/*', 
-        '/thank-you', 
-        '/api/*', 
+        '/api/*',
+        '/thank-you',
+        // Block malicious attack URLs only
         '/caf/*', 
         '/cgi-bin/*', 
         '/parking.php',

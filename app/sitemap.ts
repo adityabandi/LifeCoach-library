@@ -29,31 +29,31 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
-      url: `${baseUrl}/guides/`,
+      url: `${baseUrl}/guides`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/workflows/`,
+      url: `${baseUrl}/workflows`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/methods/`,
+      url: `${baseUrl}/methods`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/`,
+      url: `${baseUrl}/growth`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/templates/`,
+      url: `${baseUrl}/templates`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.9,
@@ -63,25 +63,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Guide pages
   const guidePages = [
     {
-      url: `${baseUrl}/guides/start-life-coaching-business/`,
+      url: `${baseUrl}/guides/start-life-coaching-business`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/guides/industry-trends-2025/`,
+      url: `${baseUrl}/guides/industry-trends-2025`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/guides/virtual-coaching/`,
+      url: `${baseUrl}/guides/virtual-coaching`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/guides/what-is-a-life-coach/`,
+      url: `${baseUrl}/guides/what-is-a-life-coach`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 1.0,
@@ -91,25 +91,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Methods pages
   const methodPages = [
     {
-      url: `${baseUrl}/methods/coaching-exercises/`,
+      url: `${baseUrl}/methods/coaching-exercises`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/methods/coaching-models/`,
+      url: `${baseUrl}/methods/coaching-models`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/methods/coaching-plans/`,
+      url: `${baseUrl}/methods/coaching-plans`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/methods/coaching-session-structure/`,
+      url: `${baseUrl}/methods/coaching-session-structure`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
@@ -119,73 +119,73 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Growth/Marketing pages
   const growthPages = [
     {
-      url: `${baseUrl}/growth/content-marketing-for-coaches/`,
+      url: `${baseUrl}/growth/content-marketing-for-coaches`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/email-funnels/`,
+      url: `${baseUrl}/growth/email-funnels`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/linkedin-for-coaches/`,
+      url: `${baseUrl}/growth/linkedin-for-coaches`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/marketing-for-life-coaches/`,
+      url: `${baseUrl}/growth/marketing-for-life-coaches`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/growth/positioning-for-coaches/`,
+      url: `${baseUrl}/growth/positioning-for-coaches`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/pricing-for-coaches/`,
+      url: `${baseUrl}/growth/pricing-for-coaches`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/referrals-partnerships/`,
+      url: `${baseUrl}/growth/referrals-partnerships`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/seo-for-life-coaches/`,
+      url: `${baseUrl}/growth/seo-for-life-coaches`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/short-video-for-coaches/`,
+      url: `${baseUrl}/growth/short-video-for-coaches`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/testimonials-case-studies/`,
+      url: `${baseUrl}/growth/testimonials-case-studies`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/webinar-playbook/`,
+      url: `${baseUrl}/growth/webinar-playbook`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/growth/website-conversion/`,
+      url: `${baseUrl}/growth/website-conversion`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
@@ -195,61 +195,61 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Workflow pages
   const workflowPages = [
     {
-      url: `${baseUrl}/workflows/boundaries-escalations/`,
+      url: `${baseUrl}/workflows/boundaries-escalations`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/workflows/client-intake-onboarding/`,
+      url: `${baseUrl}/workflows/client-intake-onboarding`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/workflows/client-onboarding-checklist/`,
+      url: `${baseUrl}/workflows/client-onboarding-checklist`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/workflows/client-relationships/`,
+      url: `${baseUrl}/workflows/client-relationships`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/workflows/coaching-intake-questions/`,
+      url: `${baseUrl}/workflows/coaching-intake-questions`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/workflows/discovery-call-script/`,
+      url: `${baseUrl}/workflows/discovery-call-script`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/workflows/first-session-agenda/`,
+      url: `${baseUrl}/workflows/first-session-agenda`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/workflows/progress-tracking/`,
+      url: `${baseUrl}/workflows/progress-tracking`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/workflows/review-cadence/`,
+      url: `${baseUrl}/workflows/review-cadence`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/workflows/offboarding-reactivation/`,
+      url: `${baseUrl}/workflows/offboarding-reactivation`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.7,
@@ -258,7 +258,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Template pages - dynamically generated from templates.ts
   const templatePages = templates.map(template => ({
-    url: `${baseUrl}/templates/${template.slug}/`,
+    url: `${baseUrl}/templates/${template.slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
