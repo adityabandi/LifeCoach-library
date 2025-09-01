@@ -5,5 +5,5 @@ Disallow: /tag/*
 Disallow: /thank-you
 Disallow: /api/*
 
-Host: https://adityabandi.github.io/LifeCoach-library
-Sitemap: https://adityabandi.github.io/LifeCoach-library/sitemap.xml
+Host: https://lifecoachlibrary.com
+Sitemap: https://lifecoachlibrary.com/sitemap.xml
