@@ -20,22 +20,32 @@ export default function robots(): MetadataRoute.Robots {
   const siteUrl = getSiteUrl()
 
   return {
-    rules: {
-      userAgent: '*',
-      allow: '/',
-      disallow: [
-        '/api/*',
-        '/thank-you',
-        // Block malicious attack URLs only
-        '/caf/*', 
-        '/cgi-bin/*', 
-        '/parking.php',
-        '/portal.php*',
-        '/cc.php*',
-        '/fb.php*',
-        '*.php*'
-      ],
-    },
+    rules: [
+      {
+        userAgent: '*',
+        allow: '/',
+        disallow: [
+          '/api/*',
+          '/thank-you',
+          // Block malicious attack URLs
+          '/caf/',
+          '/caf/*', 
+          '/cgi-bin/',
+          '/cgi-bin/*', 
+          '/parking.php',
+          '/portal.php*',
+          '/cc.php*',
+          '/fb.php*',
+          '*.php*',
+          // Block common attack vectors
+          '/admin/',
+          '/wp-admin/',
+          '/wp-content/',
+          '/search/',
+          '/search/*'
+        ],
+      }
+    ],
     sitemap: `${siteUrl}/sitemap.xml`,
     host: siteUrl,
   }

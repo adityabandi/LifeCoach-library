@@ -36,8 +36,10 @@ export function generateSEO({
   const siteUrl = getSiteUrl()
   const fullTitle = `${title} | Life Coach Library`
 
-  // Ensure canonical URL includes the full path
-  const finalCanonicalUrl = canonicalUrl || siteUrl
+  // Force HTTPS and ensure canonical URL consistency
+  const finalCanonicalUrl = canonicalUrl 
+    ? canonicalUrl.replace(/^http:/, 'https:').replace(/\/$/, '') 
+    : siteUrl
 
   return {
     title: fullTitle,

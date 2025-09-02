@@ -97,8 +97,19 @@ export default function RootLayout({
         <link rel="apple-touch-icon" href="/favicon.svg" />
         <link rel="manifest" href="/manifest.json" />
 
-        {/* Environment-aware canonical URL */}
+        {/* Force HTTPS canonical and prevent HTTP duplicates */}
         <link rel="canonical" href={siteUrl} />
+        
+        {/* Redirect HTTP to HTTPS */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              if (location.protocol !== 'https:' && location.hostname !== 'localhost') {
+                location.replace('https:' + window.location.href.substring(window.location.protocol.length));
+              }
+            `,
+          }}
+        />
 
         {/* Preconnect for performance */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
