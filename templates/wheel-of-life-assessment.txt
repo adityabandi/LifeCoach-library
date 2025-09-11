@@ -1,0 +1,680 @@
+2:I[231,["627","static/chunks/app/templates/%5Btemplate%5D/page-61841fe998fe9874.js"],""]
+3:I[9014,["627","static/chunks/app/templates/%5Btemplate%5D/page-61841fe998fe9874.js"],"default"]
+6:I[9275,[],""]
+8:I[1343,[],""]
+4:T2493,WHEEL OF LIFE ASSESSMENT
+
+INTRODUCTION
+============
+The Wheel of Life is a powerful visual tool that helps you assess your current life satisfaction across key areas. This assessment will help identify where you're thriving and where you might want to focus your energy for growth and improvement.
+
+INSTRUCTIONS
+============
+1. Look at each life area below
+2. Rate your current satisfaction level from 1-10 (1 = very dissatisfied, 10 = completely satisfied)
+3. Consider what "perfect" would look like for you in each area
+4. Be honest - this is for your own insight and growth
+5. After rating, reflect on the patterns and priorities that emerge
+
+CLIENT INFORMATION
+==================
+Name: _____________________________
+Date: _____________________________
+Coach: ____________________________
+
+LIFE AREAS ASSESSMENT
+=====================
+
+1. CAREER/WORK
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+2. FINANCES/MONEY
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+3. HEALTH & FITNESS
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+4. RELATIONSHIPS/FAMILY
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+5. ROMANCE/INTIMATE RELATIONSHIP
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+6. PERSONAL GROWTH/LEARNING
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+7. FUN & RECREATION
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+8. PHYSICAL ENVIRONMENT
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+VISUAL WHEEL
+============
+Draw your wheel by marking your satisfaction level for each area:
+
+                    Personal Growth (10)
+                           |
+                           |
+Physical Environment  ────  ────  Career/Work
+        (10)          \   |   /        (10)
+                       \  |  /
+                     5  \ | /  5
+                         \|/
+Fun & Recreation ────────  ●  ──────── Finances
+     (10)              / | \        (10)
+                      /  |  \
+                     /   |   \
+Romance/Love ──────────  |  ──────── Health & Fitness
+   (10)                 |              (10)
+                        |
+                  Relationships (10)
+
+CONNECTION PATTERNS
+==================
+Looking at your ratings, answer these reflection questions:
+
+Highest Rated Areas (8-10):
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+What do these areas have in common?
+_________________________________
+_________________________________
+
+Lowest Rated Areas (1-5):
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+What patterns do you notice?
+_________________________________
+_________________________________
+
+Mid-Range Areas (6-7):
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Which of these could you improve most easily?
+_________________________________
+_________________________________
+
+INTERCONNECTIONS
+===============
+Which life areas affect each other the most?
+
+Example: Low health might impact career performance and relationships.
+
+Area 1: ___________________________
+Affects: ___________________________
+How: _______________________________
+
+Area 2: ___________________________
+Affects: ___________________________
+How: _______________________________
+
+Area 3: ___________________________
+Affects: ___________________________
+How: _______________________________
+
+PRIORITIES FOR GROWTH
+====================
+Based on your assessment, which 2-3 areas would you most like to focus on improving?
+
+Priority 1: _______________________
+Current rating: ___/10
+Target rating in 6 months: ___/10
+Why this is important to you:
+_________________________________
+_________________________________
+
+Priority 2: _______________________
+Current rating: ___/10
+Target rating in 6 months: ___/10
+Why this is important to you:
+_________________________________
+_________________________________
+
+Priority 3: _______________________
+Current rating: ___/10
+Target rating in 6 months: ___/10
+Why this is important to you:
+_________________________________
+_________________________________
+
+ACTION PLANNING
+==============
+For each priority area, identify specific actions you could take:
+
+Priority 1 Actions:
+• _______________________________
+• _______________________________
+• _______________________________
+
+Priority 2 Actions:
+• _______________________________
+• _______________________________
+• _______________________________
+
+Priority 3 Actions:
+• _______________________________
+• _______________________________
+• _______________________________
+
+INSIGHTS AND REFLECTION
+=======================
+What surprised you about your ratings?
+_________________________________
+_________________________________
+
+What patterns do you notice about what makes you satisfied vs. dissatisfied?
+_________________________________
+_________________________________
+
+How might improving your lowest-rated areas impact your highest-rated areas?
+_________________________________
+_________________________________
+
+What would need to change for you to feel more balanced overall?
+_________________________________
+_________________________________
+
+What strengths from your high-rated areas could you apply to your growth areas?
+_________________________________
+_________________________________
+
+COMMITMENT TO CHANGE
+===================
+On a scale of 1-10, how motivated are you to work on your priority areas?
+Motivation Level: ___/10
+
+What would increase your motivation?
+_________________________________
+_________________________________
+
+What support do you need to make these changes?
+_________________________________
+_________________________________
+
+When will you reassess your Wheel of Life?
+Date for next assessment: ___________
+
+COACH NOTES
+===========
+(For coach use during review session)
+
+Client's energy and engagement during assessment:
+_________________________________
+
+Key insights that emerged:
+_________________________________
+_________________________________
+
+Coaching focus areas identified:
+_________________________________
+_________________________________
+
+Follow-up actions agreed upon:
+_________________________________
+_________________________________
+
+USING YOUR RESULTS
+=================
+Your Wheel of Life assessment is a snapshot of where you are today. Use these insights to:
+
+✓ Set meaningful goals aligned with your priorities
+✓ Make decisions that support life balance
+✓ Track progress over time
+✓ Celebrate improvements in all areas
+✓ Stay aware of how changes in one area affect others
+
+Reassess every 3-6 months to track your growth and adjust your focus as your life evolves.
+
+ADDITIONAL DEVELOPMENT RESOURCES
+===============================
+To gain even deeper insights into your personality, motivations, and natural strengths that can accelerate your progress in all life areas, consider taking a professional personality assessment.
+
+Professional assessments available at: https://www.personality-quizzes.com/for-coaching
+
+Understanding your personality type can help you:
+• Set goals that align with your natural motivations
+• Choose strategies that work with your personality rather than against it  
+• Understand your relationship patterns and communication style
+• Identify your core strengths and how to leverage them across all life areas5:T2493,WHEEL OF LIFE ASSESSMENT
+
+INTRODUCTION
+============
+The Wheel of Life is a powerful visual tool that helps you assess your current life satisfaction across key areas. This assessment will help identify where you're thriving and where you might want to focus your energy for growth and improvement.
+
+INSTRUCTIONS
+============
+1. Look at each life area below
+2. Rate your current satisfaction level from 1-10 (1 = very dissatisfied, 10 = completely satisfied)
+3. Consider what "perfect" would look like for you in each area
+4. Be honest - this is for your own insight and growth
+5. After rating, reflect on the patterns and priorities that emerge
+
+CLIENT INFORMATION
+==================
+Name: _____________________________
+Date: _____________________________
+Coach: ____________________________
+
+LIFE AREAS ASSESSMENT
+=====================
+
+1. CAREER/WORK
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+2. FINANCES/MONEY
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+3. HEALTH & FITNESS
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+4. RELATIONSHIPS/FAMILY
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+5. ROMANCE/INTIMATE RELATIONSHIP
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+6. PERSONAL GROWTH/LEARNING
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+7. FUN & RECREATION
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+8. PHYSICAL ENVIRONMENT
+Rating: ___/10
+
+What's working well:
+_________________________________
+_________________________________
+
+What's challenging:
+_________________________________
+_________________________________
+
+What would a "10" look like:
+_________________________________
+_________________________________
+
+VISUAL WHEEL
+============
+Draw your wheel by marking your satisfaction level for each area:
+
+                    Personal Growth (10)
+                           |
+                           |
+Physical Environment  ────  ────  Career/Work
+        (10)          \   |   /        (10)
+                       \  |  /
+                     5  \ | /  5
+                         \|/
+Fun & Recreation ────────  ●  ──────── Finances
+     (10)              / | \        (10)
+                      /  |  \
+                     /   |   \
+Romance/Love ──────────  |  ──────── Health & Fitness
+   (10)                 |              (10)
+                        |
+                  Relationships (10)
+
+CONNECTION PATTERNS
+==================
+Looking at your ratings, answer these reflection questions:
+
+Highest Rated Areas (8-10):
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+What do these areas have in common?
+_________________________________
+_________________________________
+
+Lowest Rated Areas (1-5):
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+What patterns do you notice?
+_________________________________
+_________________________________
+
+Mid-Range Areas (6-7):
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+Which of these could you improve most easily?
+_________________________________
+_________________________________
+
+INTERCONNECTIONS
+===============
+Which life areas affect each other the most?
+
+Example: Low health might impact career performance and relationships.
+
+Area 1: ___________________________
+Affects: ___________________________
+How: _______________________________
+
+Area 2: ___________________________
+Affects: ___________________________
+How: _______________________________
+
+Area 3: ___________________________
+Affects: ___________________________
+How: _______________________________
+
+PRIORITIES FOR GROWTH
+====================
+Based on your assessment, which 2-3 areas would you most like to focus on improving?
+
+Priority 1: _______________________
+Current rating: ___/10
+Target rating in 6 months: ___/10
+Why this is important to you:
+_________________________________
+_________________________________
+
+Priority 2: _______________________
+Current rating: ___/10
+Target rating in 6 months: ___/10
+Why this is important to you:
+_________________________________
+_________________________________
+
+Priority 3: _______________________
+Current rating: ___/10
+Target rating in 6 months: ___/10
+Why this is important to you:
+_________________________________
+_________________________________
+
+ACTION PLANNING
+==============
+For each priority area, identify specific actions you could take:
+
+Priority 1 Actions:
+• _______________________________
+• _______________________________
+• _______________________________
+
+Priority 2 Actions:
+• _______________________________
+• _______________________________
+• _______________________________
+
+Priority 3 Actions:
+• _______________________________
+• _______________________________
+• _______________________________
+
+INSIGHTS AND REFLECTION
+=======================
+What surprised you about your ratings?
+_________________________________
+_________________________________
+
+What patterns do you notice about what makes you satisfied vs. dissatisfied?
+_________________________________
+_________________________________
+
+How might improving your lowest-rated areas impact your highest-rated areas?
+_________________________________
+_________________________________
+
+What would need to change for you to feel more balanced overall?
+_________________________________
+_________________________________
+
+What strengths from your high-rated areas could you apply to your growth areas?
+_________________________________
+_________________________________
+
+COMMITMENT TO CHANGE
+===================
+On a scale of 1-10, how motivated are you to work on your priority areas?
+Motivation Level: ___/10
+
+What would increase your motivation?
+_________________________________
+_________________________________
+
+What support do you need to make these changes?
+_________________________________
+_________________________________
+
+When will you reassess your Wheel of Life?
+Date for next assessment: ___________
+
+COACH NOTES
+===========
+(For coach use during review session)
+
+Client's energy and engagement during assessment:
+_________________________________
+
+Key insights that emerged:
+_________________________________
+_________________________________
+
+Coaching focus areas identified:
+_________________________________
+_________________________________
+
+Follow-up actions agreed upon:
+_________________________________
+_________________________________
+
+USING YOUR RESULTS
+=================
+Your Wheel of Life assessment is a snapshot of where you are today. Use these insights to:
+
+✓ Set meaningful goals aligned with your priorities
+✓ Make decisions that support life balance
+✓ Track progress over time
+✓ Celebrate improvements in all areas
+✓ Stay aware of how changes in one area affect others
+
+Reassess every 3-6 months to track your growth and adjust your focus as your life evolves.
+
+ADDITIONAL DEVELOPMENT RESOURCES
+===============================
+To gain even deeper insights into your personality, motivations, and natural strengths that can accelerate your progress in all life areas, consider taking a professional personality assessment.
+
+Professional assessments available at: https://www.personality-quizzes.com/for-coaching
+
+Understanding your personality type can help you:
+• Set goals that align with your natural motivations
+• Choose strategies that work with your personality rather than against it  
+• Understand your relationship patterns and communication style
+• Identify your core strengths and how to leverage them across all life areas7:["template","wheel-of-life-assessment","d"]
+0:["dN7bdw9asfA3EUe-2KWs2",[[["",{"children":["templates",{"children":[["template","wheel-of-life-assessment","d"],{"children":["__PAGE__?{\"template\":\"wheel-of-life-assessment\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["templates",{"children":[["template","wheel-of-life-assessment","d"],{"children":["__PAGE__",{},[["$L1",["$","div",null,{"className":"min-h-screen bg-white","children":[["$","header",null,{"className":"bg-white border-b border-gray-200","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8","children":["$","div",null,{"className":"flex justify-between items-center py-6","children":[["$","div",null,{"className":"flex justify-start lg:w-0 lg:flex-1","children":["$","$L2",null,{"href":"/","className":"text-2xl font-bold text-gray-900","children":"Life Coach Library"}]}],["$","nav",null,{"className":"hidden md:flex space-x-8","children":[["$","$L2",null,{"href":"/guides","className":"text-gray-600 hover:text-gray-900","children":"Guides"}],["$","$L2",null,{"href":"/workflows","className":"text-gray-600 hover:text-gray-900","children":"Workflows"}],["$","$L2",null,{"href":"/methods","className":"text-gray-600 hover:text-gray-900","children":"Methods"}],["$","$L2",null,{"href":"/growth","className":"text-gray-600 hover:text-gray-900","children":"Marketing"}],["$","$L2",null,{"href":"/templates","className":"text-gray-600 hover:text-gray-900","children":"Templates"}]]}]]}]}]}],["$","div",null,{"className":"bg-gray-50 py-4","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8","children":["$","nav",null,{"className":"flex","aria-label":"Breadcrumb","children":["$","ol",null,{"className":"flex items-center space-x-4","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/","className":"text-gray-500 hover:text-gray-700","children":"Home"}]}],["$","li",null,{"children":["$","svg",null,{"className":"flex-shrink-0 h-5 w-5 text-gray-400","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z","clipRule":"evenodd"}]}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/templates","className":"text-gray-500 hover:text-gray-700","children":"Templates"}]}],["$","li",null,{"children":["$","svg",null,{"className":"flex-shrink-0 h-5 w-5 text-gray-400","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z","clipRule":"evenodd"}]}]}],["$","li",null,{"children":["$","span",null,{"className":"text-gray-900 font-medium","children":"Wheel of Life Assessment"}]}]]}]}]}]}],["$","main",null,{"className":"py-12","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold text-gray-900 mb-4","children":"Wheel of Life Assessment"}],["$","p",null,{"className":"text-lg text-gray-600 mb-6","children":"Classic coaching assessment tool to evaluate life satisfaction across multiple areas and identify priorities for growth."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4","children":["$","$L3",null,{"content":"$4","className":"bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors flex items-center justify-center"}]}]]}],["$","div",null,{"className":"bg-gray-50 rounded-lg p-6","children":[["$","h2",null,{"className":"text-lg font-semibold text-gray-900 mb-4","children":"Template Content"}],["$","div",null,{"className":"bg-white rounded border p-6 font-mono text-sm whitespace-pre-wrap","children":"$5"}]]}],["$","div",null,{"className":"mt-6 bg-blue-50 border border-blue-200 rounded-lg p-6","children":[["$","h3",null,{"className":"text-lg font-semibold text-blue-900 mb-3","children":"💡 Enhance This Template with Personality Insights"}],["$","p",null,{"className":"text-blue-800 mb-4","children":["Take your ","assessment toolkit"," to the next level with professional personality assessments. Understanding personality types, communication styles, and motivational drivers creates more personalized and effective coaching relationships."]}],["$","a",null,{"href":"https://www.personality-quizzes.com/for-coaching?utm_source=lcl&utm_medium=referral&utm_campaign=template_enhancement","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center text-blue-700 hover:text-blue-800 font-medium","children":["Explore Professional Personality Assessments",["$","svg",null,{"className":"w-4 h-4 ml-1","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-2M7 7h.01M7 3h5l2 2v5"}]}]]}]]}],["$","div",null,{"className":"mt-8 text-center","children":["$","$L2",null,{"href":"/templates","className":"text-primary-600 hover:text-primary-700 font-medium","children":"← Back to All Templates"}]}]]}]}]]}]],null],null]},["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","templates","children","$7","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","templates","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Life Coach Library\",\"url\":\"https://lifecoachlibrary.com\",\"description\":\"Free coaching templates, business guides, and proven methods for life coaches. Access intake forms, session plans, and grow your coaching practice.\",\"logo\":\"https://lifecoachlibrary.com/images/logo.png\",\"sameAs\":[\"https://twitter.com/lifecoachlibrary\",\"https://linkedin.com/company/lifecoachlibrary\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"customer service\",\"email\":\"hello@lifecoachlibrary.com\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Life Coach Library\",\"url\":\"https://lifecoachlibrary.com\",\"description\":\"Free coaching templates, business guides, and proven methods for life coaches. Access intake forms, session plans, and grow your coaching practice.\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://lifecoachlibrary.com/search?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ProfessionalService\",\"name\":\"Life Coach Library\",\"description\":\"Free templates and resources for life coaches to build and grow their coaching practice\",\"url\":\"https://lifecoachlibrary.com\",\"serviceType\":\"Life Coaching Resources\",\"areaServed\":\"Worldwide\",\"provider\":{\"@type\":\"Organization\",\"name\":\"Life Coach Library\"}}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"dns-prefetch","href":"//www.google-analytics.com"}],["$","link",null,{"rel":"dns-prefetch","href":"//www.googletagmanager.com"}],["$","meta",null,{"name":"format-detection","content":"telephone=no"}],["$","meta",null,{"name":"mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],"$undefined"]}],["$","body",null,{"className":"font-sans antialiased bg-white text-gray-900","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0649f37bdd189218.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L9"]]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#2563eb"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"Wheel of Life Assessment | Life Coach Template | Life Coach Library | Life Coach Library"}],["$","meta","4",{"name":"description","content":"Free wheel of life assessment template for life coaches. Ready-to-use coaching template for assessment-tools with customizable sections and professional formatting."}],["$","meta","5",{"name":"author","content":"Life Coach Library"}],["$","meta","6",{"name":"keywords","content":"life coaching,coaching templates,coaching business,personality assessment,coaching tools,wheel of life assessment,coaching template,free template,coaching assessment,personality test,client evaluation,strengths assessment"}],["$","meta","7",{"name":"creator","content":"Life Coach Library"}],["$","meta","8",{"name":"publisher","content":"Life Coach Library"}],["$","meta","9",{"name":"robots","content":"index, follow"}],["$","link","10",{"rel":"canonical","href":"https://lifecoachlibrary.com/templates/wheel-of-life-assessment"}],["$","meta","11",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","12",{"property":"og:title","content":"Wheel of Life Assessment | Life Coach Template | Life Coach Library"}],["$","meta","13",{"property":"og:description","content":"Free wheel of life assessment template for life coaches. Ready-to-use coaching template for assessment-tools with customizable sections and professional formatting."}],["$","meta","14",{"property":"og:url","content":"https://lifecoachlibrary.com/templates/wheel-of-life-assessment"}],["$","meta","15",{"property":"og:site_name","content":"Life Coach Library"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Wheel of Life Assessment | Life Coach Template | Life Coach Library"}],["$","meta","19",{"name":"twitter:description","content":"Free wheel of life assessment template for life coaches. Ready-to-use coaching template for assessment-tools with customizable sections and professional formatting."}]]
+1:null

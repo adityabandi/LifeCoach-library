@@ -1,0 +1,17 @@
+# Redirect www to non-www (canonical domain)
+https://www.lifecoachlibrary.com/* https://lifecoachlibrary.com/:splat 301!
+http://www.lifecoachlibrary.com/* https://lifecoachlibrary.com/:splat 301!
+
+# Block malicious search/portal attacks
+/search/* / 301
+/portal.php* / 301
+/cc.php* / 301
+/fb.php* / 301
+
+# Redirect legacy URLs to homepage
+/caf/* / 301
+/cgi-bin/* / 301
+/parking.php / 301
+
+# Force HTTPS
+http://lifecoachlibrary.com/* https://lifecoachlibrary.com/:splat 301!

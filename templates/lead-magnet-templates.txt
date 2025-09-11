@@ -1,0 +1,478 @@
+2:I[231,["627","static/chunks/app/templates/%5Btemplate%5D/page-61841fe998fe9874.js"],""]
+3:I[9014,["627","static/chunks/app/templates/%5Btemplate%5D/page-61841fe998fe9874.js"],"default"]
+6:I[9275,[],""]
+8:I[1343,[],""]
+4:T1c10,LEAD MAGNET TEMPLATES FOR COACHES
+
+TEMPLATE COLLECTION OVERVIEW
+============================
+This collection includes templates for:
+1. Checklists and Cheat Sheets
+2. Assessments and Quizzes
+3. Mini-Courses and Email Series
+4. Toolkits and Resource Lists
+5. Templates and Worksheets
+
+TEMPLATE 1: ULTIMATE CHECKLIST
+==============================
+
+TITLE: "The Ultimate [Your Niche] Success Checklist"
+SUBTITLE: "10 Essential Steps to [Desired Outcome]"
+
+INTRODUCTION:
+"Are you ready to [achieve specific goal]? This comprehensive checklist will guide you through the exact steps successful [target audience] follow to [desired outcome]. Print it out, keep it handy, and check off each item as you progress!"
+
+THE CHECKLIST:
+☐ Step 1: [Specific action with brief explanation]
+☐ Step 2: [Specific action with brief explanation]
+☐ Step 3: [Specific action with brief explanation]
+☐ Step 4: [Specific action with brief explanation]
+☐ Step 5: [Specific action with brief explanation]
+☐ Step 6: [Specific action with brief explanation]
+☐ Step 7: [Specific action with brief explanation]
+☐ Step 8: [Specific action with brief explanation]
+☐ Step 9: [Specific action with brief explanation]
+☐ Step 10: [Specific action with brief explanation]
+
+BONUS SECTION:
+"5 Common Mistakes to Avoid"
+1. [Mistake with explanation]
+2. [Mistake with explanation]
+3. [Mistake with explanation]
+4. [Mistake with explanation]
+5. [Mistake with explanation]
+
+CALL TO ACTION:
+"Ready to take your [goal] to the next level? I'd love to help you implement these strategies personally. Click here to schedule a free [X]-minute discovery call."
+
+TEMPLATE 2: SELF-ASSESSMENT QUIZ
+================================
+
+TITLE: "What's Your [Topic] Style?"
+SUBTITLE: "Discover Your Unique Approach and Get Personalized Recommendations"
+
+INTRODUCTION:
+"Take this quick 2-minute assessment to discover your unique [topic] style and receive personalized strategies that align with your natural strengths."
+
+QUESTIONS (10-15 multiple choice):
+1. When facing a challenge, you typically:
+   a) Dive in headfirst and figure it out as you go
+   b) Research thoroughly before taking action
+   c) Seek advice from others first
+   d) Create a detailed plan step by step
+
+2. Your ideal work environment is:
+   a) Fast-paced and dynamic
+   b) Structured and predictable
+   c) Collaborative and social
+   d) Quiet and focused
+
+[Continue with 8-13 more questions]
+
+RESULTS BREAKDOWN:
+Mostly A's: "The Action Taker"
+Mostly B's: "The Strategist"  
+Mostly C's: "The Collaborator"
+Mostly D's: "The Planner"
+
+[Include detailed description of each type with specific recommendations]
+
+TEMPLATE 3: 5-DAY EMAIL MINI-COURSE
+===================================
+
+TITLE: "5 Days to [Desired Outcome]"
+SUBTITLE: "A Free Email Course to Transform Your [Area of Life]"
+
+EMAIL 1: "Welcome! Your Journey Starts Now"
+• Welcome message
+• What to expect over 5 days
+• Day 1 lesson: [Foundation concept]
+• Action step for today
+
+EMAIL 2: "Day 2: [Key Concept]"
+• Quick recap of Day 1
+• Day 2 lesson: [Building block]
+• Real-life example
+• Action step for today
+
+EMAIL 3: "Day 3: [Advanced Strategy]"
+• Progress check-in
+• Day 3 lesson: [More complex concept]
+• Case study
+• Action step for today
+
+EMAIL 4: "Day 4: [Implementation Focus]"
+• Addressing common challenges
+• Day 4 lesson: [Practical application]
+• Troubleshooting tips
+• Action step for today
+
+EMAIL 5: "Day 5: [Mastery & Next Steps]"
+• Celebration of progress
+• Day 5 lesson: [Advanced strategy]
+• How to continue your growth
+• Soft pitch for your services
+
+TEMPLATE 4: RESOURCE TOOLKIT
+=============================
+
+TITLE: "The [Your Niche] Toolkit"
+SUBTITLE: "Essential Resources, Tools, and Templates for [Target Audience]"
+
+SECTION 1: RECOMMENDED BOOKS
+• Book 1: [Title] by [Author] - Why it's valuable
+• Book 2: [Title] by [Author] - Why it's valuable
+• Book 3: [Title] by [Author] - Why it's valuable
+
+SECTION 2: HELPFUL APPS & TOOLS
+• Tool 1: [Name] - What it does and why it's useful
+• Tool 2: [Name] - What it does and why it's useful
+• Tool 3: [Name] - What it does and why it's useful
+
+SECTION 3: FREE TEMPLATES
+• Template 1: [Description and link]
+• Template 2: [Description and link]
+• Template 3: [Description and link]
+
+SECTION 4: WEBSITES & BLOGS
+• Resource 1: [URL] - What you'll find there
+• Resource 2: [URL] - What you'll find there
+• Resource 3: [URL] - What you'll find there
+
+SECTION 5: PODCASTS TO FOLLOW
+• Podcast 1: [Name] - Why it's valuable
+• Podcast 2: [Name] - Why it's valuable
+• Podcast 3: [Name] - Why it's valuable
+
+TEMPLATE 5: WORKSHEET/WORKBOOK
+===============================
+
+TITLE: "[Specific Goal] Worksheet"
+SUBTITLE: "A Step-by-Step Guide to [Desired Outcome]"
+
+PART 1: CURRENT STATE ASSESSMENT
+Where are you now?
+1. Rate your current satisfaction with [topic]: ___/10
+2. What's working well? ________________
+3. What's not working? ________________
+4. What's your biggest challenge? ________________
+
+PART 2: VISION SETTING
+Where do you want to be?
+1. Describe your ideal [outcome]: ________________
+2. How will you know when you've achieved it? ________________
+3. What will be different in your life? ________________
+4. Why is this important to you? ________________
+
+PART 3: GAP ANALYSIS
+What's the difference between where you are and where you want to be?
+1. Skill gaps: ________________
+2. Resource gaps: ________________
+3. Mindset gaps: ________________
+4. Support gaps: ________________
+
+PART 4: ACTION PLANNING
+What steps will you take?
+Goal: ________________
+Timeline: ________________
+
+Week 1 Actions:
+• ________________
+• ________________
+• ________________
+
+Week 2 Actions:
+• ________________
+• ________________
+• ________________
+
+Week 3 Actions:
+• ________________
+• ________________
+• ________________
+
+Week 4 Actions:
+• ________________
+• ________________
+• ________________
+
+PART 5: ACCOUNTABILITY
+How will you stay on track?
+1. Who will support you? ________________
+2. How will you measure progress? ________________
+3. What might derail you? ________________
+4. How will you overcome obstacles? ________________
+
+LEAD MAGNET OPTIMIZATION TIPS
+=============================
+
+DESIGN BEST PRACTICES:
+• Clean, professional layout
+• Consistent branding and colors
+• Easy-to-read fonts
+• Plenty of white space
+• Include your logo and contact info
+
+CONTENT BEST PRACTICES:
+• Solve a specific problem
+• Provide immediate value
+• Keep it actionable
+• Make it easy to consume
+• Include next steps
+
+DELIVERY BEST PRACTICES:
+• Instant download after opt-in
+• Welcome email with download link
+• Follow-up sequence planned
+• Clear instructions for use
+• Contact info for questions
+
+PROMOTION STRATEGIES:
+• Social media posts
+• Blog post content upgrades
+• Guest posting
+• Joint ventures
+• Paid advertising
+• Webinar offers
+• Podcast interviews
+• Video content
+
+Remember: The best lead magnets solve a real problem for your ideal client and give them a taste of the transformation you can provide. Always follow up with valuable content that builds trust and demonstrates your expertise.5:T1c10,LEAD MAGNET TEMPLATES FOR COACHES
+
+TEMPLATE COLLECTION OVERVIEW
+============================
+This collection includes templates for:
+1. Checklists and Cheat Sheets
+2. Assessments and Quizzes
+3. Mini-Courses and Email Series
+4. Toolkits and Resource Lists
+5. Templates and Worksheets
+
+TEMPLATE 1: ULTIMATE CHECKLIST
+==============================
+
+TITLE: "The Ultimate [Your Niche] Success Checklist"
+SUBTITLE: "10 Essential Steps to [Desired Outcome]"
+
+INTRODUCTION:
+"Are you ready to [achieve specific goal]? This comprehensive checklist will guide you through the exact steps successful [target audience] follow to [desired outcome]. Print it out, keep it handy, and check off each item as you progress!"
+
+THE CHECKLIST:
+☐ Step 1: [Specific action with brief explanation]
+☐ Step 2: [Specific action with brief explanation]
+☐ Step 3: [Specific action with brief explanation]
+☐ Step 4: [Specific action with brief explanation]
+☐ Step 5: [Specific action with brief explanation]
+☐ Step 6: [Specific action with brief explanation]
+☐ Step 7: [Specific action with brief explanation]
+☐ Step 8: [Specific action with brief explanation]
+☐ Step 9: [Specific action with brief explanation]
+☐ Step 10: [Specific action with brief explanation]
+
+BONUS SECTION:
+"5 Common Mistakes to Avoid"
+1. [Mistake with explanation]
+2. [Mistake with explanation]
+3. [Mistake with explanation]
+4. [Mistake with explanation]
+5. [Mistake with explanation]
+
+CALL TO ACTION:
+"Ready to take your [goal] to the next level? I'd love to help you implement these strategies personally. Click here to schedule a free [X]-minute discovery call."
+
+TEMPLATE 2: SELF-ASSESSMENT QUIZ
+================================
+
+TITLE: "What's Your [Topic] Style?"
+SUBTITLE: "Discover Your Unique Approach and Get Personalized Recommendations"
+
+INTRODUCTION:
+"Take this quick 2-minute assessment to discover your unique [topic] style and receive personalized strategies that align with your natural strengths."
+
+QUESTIONS (10-15 multiple choice):
+1. When facing a challenge, you typically:
+   a) Dive in headfirst and figure it out as you go
+   b) Research thoroughly before taking action
+   c) Seek advice from others first
+   d) Create a detailed plan step by step
+
+2. Your ideal work environment is:
+   a) Fast-paced and dynamic
+   b) Structured and predictable
+   c) Collaborative and social
+   d) Quiet and focused
+
+[Continue with 8-13 more questions]
+
+RESULTS BREAKDOWN:
+Mostly A's: "The Action Taker"
+Mostly B's: "The Strategist"  
+Mostly C's: "The Collaborator"
+Mostly D's: "The Planner"
+
+[Include detailed description of each type with specific recommendations]
+
+TEMPLATE 3: 5-DAY EMAIL MINI-COURSE
+===================================
+
+TITLE: "5 Days to [Desired Outcome]"
+SUBTITLE: "A Free Email Course to Transform Your [Area of Life]"
+
+EMAIL 1: "Welcome! Your Journey Starts Now"
+• Welcome message
+• What to expect over 5 days
+• Day 1 lesson: [Foundation concept]
+• Action step for today
+
+EMAIL 2: "Day 2: [Key Concept]"
+• Quick recap of Day 1
+• Day 2 lesson: [Building block]
+• Real-life example
+• Action step for today
+
+EMAIL 3: "Day 3: [Advanced Strategy]"
+• Progress check-in
+• Day 3 lesson: [More complex concept]
+• Case study
+• Action step for today
+
+EMAIL 4: "Day 4: [Implementation Focus]"
+• Addressing common challenges
+• Day 4 lesson: [Practical application]
+• Troubleshooting tips
+• Action step for today
+
+EMAIL 5: "Day 5: [Mastery & Next Steps]"
+• Celebration of progress
+• Day 5 lesson: [Advanced strategy]
+• How to continue your growth
+• Soft pitch for your services
+
+TEMPLATE 4: RESOURCE TOOLKIT
+=============================
+
+TITLE: "The [Your Niche] Toolkit"
+SUBTITLE: "Essential Resources, Tools, and Templates for [Target Audience]"
+
+SECTION 1: RECOMMENDED BOOKS
+• Book 1: [Title] by [Author] - Why it's valuable
+• Book 2: [Title] by [Author] - Why it's valuable
+• Book 3: [Title] by [Author] - Why it's valuable
+
+SECTION 2: HELPFUL APPS & TOOLS
+• Tool 1: [Name] - What it does and why it's useful
+• Tool 2: [Name] - What it does and why it's useful
+• Tool 3: [Name] - What it does and why it's useful
+
+SECTION 3: FREE TEMPLATES
+• Template 1: [Description and link]
+• Template 2: [Description and link]
+• Template 3: [Description and link]
+
+SECTION 4: WEBSITES & BLOGS
+• Resource 1: [URL] - What you'll find there
+• Resource 2: [URL] - What you'll find there
+• Resource 3: [URL] - What you'll find there
+
+SECTION 5: PODCASTS TO FOLLOW
+• Podcast 1: [Name] - Why it's valuable
+• Podcast 2: [Name] - Why it's valuable
+• Podcast 3: [Name] - Why it's valuable
+
+TEMPLATE 5: WORKSHEET/WORKBOOK
+===============================
+
+TITLE: "[Specific Goal] Worksheet"
+SUBTITLE: "A Step-by-Step Guide to [Desired Outcome]"
+
+PART 1: CURRENT STATE ASSESSMENT
+Where are you now?
+1. Rate your current satisfaction with [topic]: ___/10
+2. What's working well? ________________
+3. What's not working? ________________
+4. What's your biggest challenge? ________________
+
+PART 2: VISION SETTING
+Where do you want to be?
+1. Describe your ideal [outcome]: ________________
+2. How will you know when you've achieved it? ________________
+3. What will be different in your life? ________________
+4. Why is this important to you? ________________
+
+PART 3: GAP ANALYSIS
+What's the difference between where you are and where you want to be?
+1. Skill gaps: ________________
+2. Resource gaps: ________________
+3. Mindset gaps: ________________
+4. Support gaps: ________________
+
+PART 4: ACTION PLANNING
+What steps will you take?
+Goal: ________________
+Timeline: ________________
+
+Week 1 Actions:
+• ________________
+• ________________
+• ________________
+
+Week 2 Actions:
+• ________________
+• ________________
+• ________________
+
+Week 3 Actions:
+• ________________
+• ________________
+• ________________
+
+Week 4 Actions:
+• ________________
+• ________________
+• ________________
+
+PART 5: ACCOUNTABILITY
+How will you stay on track?
+1. Who will support you? ________________
+2. How will you measure progress? ________________
+3. What might derail you? ________________
+4. How will you overcome obstacles? ________________
+
+LEAD MAGNET OPTIMIZATION TIPS
+=============================
+
+DESIGN BEST PRACTICES:
+• Clean, professional layout
+• Consistent branding and colors
+• Easy-to-read fonts
+• Plenty of white space
+• Include your logo and contact info
+
+CONTENT BEST PRACTICES:
+• Solve a specific problem
+• Provide immediate value
+• Keep it actionable
+• Make it easy to consume
+• Include next steps
+
+DELIVERY BEST PRACTICES:
+• Instant download after opt-in
+• Welcome email with download link
+• Follow-up sequence planned
+• Clear instructions for use
+• Contact info for questions
+
+PROMOTION STRATEGIES:
+• Social media posts
+• Blog post content upgrades
+• Guest posting
+• Joint ventures
+• Paid advertising
+• Webinar offers
+• Podcast interviews
+• Video content
+
+Remember: The best lead magnets solve a real problem for your ideal client and give them a taste of the transformation you can provide. Always follow up with valuable content that builds trust and demonstrates your expertise.7:["template","lead-magnet-templates","d"]
+0:["dN7bdw9asfA3EUe-2KWs2",[[["",{"children":["templates",{"children":[["template","lead-magnet-templates","d"],{"children":["__PAGE__?{\"template\":\"lead-magnet-templates\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["templates",{"children":[["template","lead-magnet-templates","d"],{"children":["__PAGE__",{},[["$L1",["$","div",null,{"className":"min-h-screen bg-white","children":[["$","header",null,{"className":"bg-white border-b border-gray-200","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8","children":["$","div",null,{"className":"flex justify-between items-center py-6","children":[["$","div",null,{"className":"flex justify-start lg:w-0 lg:flex-1","children":["$","$L2",null,{"href":"/","className":"text-2xl font-bold text-gray-900","children":"Life Coach Library"}]}],["$","nav",null,{"className":"hidden md:flex space-x-8","children":[["$","$L2",null,{"href":"/guides","className":"text-gray-600 hover:text-gray-900","children":"Guides"}],["$","$L2",null,{"href":"/workflows","className":"text-gray-600 hover:text-gray-900","children":"Workflows"}],["$","$L2",null,{"href":"/methods","className":"text-gray-600 hover:text-gray-900","children":"Methods"}],["$","$L2",null,{"href":"/growth","className":"text-gray-600 hover:text-gray-900","children":"Marketing"}],["$","$L2",null,{"href":"/templates","className":"text-gray-600 hover:text-gray-900","children":"Templates"}]]}]]}]}]}],["$","div",null,{"className":"bg-gray-50 py-4","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8","children":["$","nav",null,{"className":"flex","aria-label":"Breadcrumb","children":["$","ol",null,{"className":"flex items-center space-x-4","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/","className":"text-gray-500 hover:text-gray-700","children":"Home"}]}],["$","li",null,{"children":["$","svg",null,{"className":"flex-shrink-0 h-5 w-5 text-gray-400","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z","clipRule":"evenodd"}]}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/templates","className":"text-gray-500 hover:text-gray-700","children":"Templates"}]}],["$","li",null,{"children":["$","svg",null,{"className":"flex-shrink-0 h-5 w-5 text-gray-400","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z","clipRule":"evenodd"}]}]}],["$","li",null,{"children":["$","span",null,{"className":"text-gray-900 font-medium","children":"Lead Magnet Templates"}]}]]}]}]}]}],["$","main",null,{"className":"py-12","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold text-gray-900 mb-4","children":"Lead Magnet Templates"}],["$","p",null,{"className":"text-lg text-gray-600 mb-6","children":"Collection of high-converting lead magnet templates to build your email list and attract ideal coaching clients."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4","children":["$","$L3",null,{"content":"$4","className":"bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors flex items-center justify-center"}]}]]}],["$","div",null,{"className":"bg-gray-50 rounded-lg p-6","children":[["$","h2",null,{"className":"text-lg font-semibold text-gray-900 mb-4","children":"Template Content"}],["$","div",null,{"className":"bg-white rounded border p-6 font-mono text-sm whitespace-pre-wrap","children":"$5"}]]}],false,["$","div",null,{"className":"mt-8 text-center","children":["$","$L2",null,{"href":"/templates","className":"text-primary-600 hover:text-primary-700 font-medium","children":"← Back to All Templates"}]}]]}]}]]}]],null],null]},["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","templates","children","$7","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","templates","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Life Coach Library\",\"url\":\"https://lifecoachlibrary.com\",\"description\":\"Free coaching templates, business guides, and proven methods for life coaches. Access intake forms, session plans, and grow your coaching practice.\",\"logo\":\"https://lifecoachlibrary.com/images/logo.png\",\"sameAs\":[\"https://twitter.com/lifecoachlibrary\",\"https://linkedin.com/company/lifecoachlibrary\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"customer service\",\"email\":\"hello@lifecoachlibrary.com\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Life Coach Library\",\"url\":\"https://lifecoachlibrary.com\",\"description\":\"Free coaching templates, business guides, and proven methods for life coaches. Access intake forms, session plans, and grow your coaching practice.\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://lifecoachlibrary.com/search?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ProfessionalService\",\"name\":\"Life Coach Library\",\"description\":\"Free templates and resources for life coaches to build and grow their coaching practice\",\"url\":\"https://lifecoachlibrary.com\",\"serviceType\":\"Life Coaching Resources\",\"areaServed\":\"Worldwide\",\"provider\":{\"@type\":\"Organization\",\"name\":\"Life Coach Library\"}}"}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"dns-prefetch","href":"//www.google-analytics.com"}],["$","link",null,{"rel":"dns-prefetch","href":"//www.googletagmanager.com"}],["$","meta",null,{"name":"format-detection","content":"telephone=no"}],["$","meta",null,{"name":"mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],"$undefined"]}],["$","body",null,{"className":"font-sans antialiased bg-white text-gray-900","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0649f37bdd189218.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L9"]]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#2563eb"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"Lead Magnet Templates | Life Coach Template | Life Coach Library | Life Coach Library"}],["$","meta","4",{"name":"description","content":"Free lead magnet templates template for life coaches. Ready-to-use coaching template for marketing-tools with customizable sections and professional formatting."}],["$","meta","5",{"name":"author","content":"Life Coach Library"}],["$","meta","6",{"name":"keywords","content":"life coaching,coaching templates,coaching business,personality assessment,coaching tools,lead magnet templates,coaching template,free template,coaching marketing,client acquisition,coaching promotion"}],["$","meta","7",{"name":"creator","content":"Life Coach Library"}],["$","meta","8",{"name":"publisher","content":"Life Coach Library"}],["$","meta","9",{"name":"robots","content":"index, follow"}],["$","link","10",{"rel":"canonical","href":"https://lifecoachlibrary.com/templates/lead-magnet-templates"}],["$","meta","11",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","12",{"property":"og:title","content":"Lead Magnet Templates | Life Coach Template | Life Coach Library"}],["$","meta","13",{"property":"og:description","content":"Free lead magnet templates template for life coaches. Ready-to-use coaching template for marketing-tools with customizable sections and professional formatting."}],["$","meta","14",{"property":"og:url","content":"https://lifecoachlibrary.com/templates/lead-magnet-templates"}],["$","meta","15",{"property":"og:site_name","content":"Life Coach Library"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Lead Magnet Templates | Life Coach Template | Life Coach Library"}],["$","meta","19",{"name":"twitter:description","content":"Free lead magnet templates template for life coaches. Ready-to-use coaching template for marketing-tools with customizable sections and professional formatting."}]]
+1:null

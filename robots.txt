@@ -1,9 +1,44 @@
 User-Agent: *
 Allow: /
-Disallow: /search
-Disallow: /tag/*
-Disallow: /thank-you
 Disallow: /api/*
+Disallow: /thank-you
+Disallow: /admin/*
+Disallow: /private/*
+Disallow: /draft/*
+Disallow: /caf/
+Disallow: /caf/*
+Disallow: /cgi-bin/
+Disallow: /cgi-bin/*
+Disallow: /parking.php
+Disallow: /portal.php*
+Disallow: /cc.php*
+Disallow: /fb.php*
+Disallow: *.php*
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /search/
+Disallow: /search/*
+
+User-Agent: Googlebot
+Allow: /
+Disallow: /api/*
+Disallow: /thank-you
+Disallow: /admin/*
+
+User-Agent: Bingbot
+Allow: /
+Disallow: /api/*
+Disallow: /thank-you
+Disallow: /admin/*
+
+User-Agent: facebookexternalhit
+Allow: /
+
+User-Agent: Twitterbot
+Allow: /
+
+User-Agent: LinkedInBot
+Allow: /
 
 Host: https://lifecoachlibrary.com
 Sitemap: https://lifecoachlibrary.com/sitemap.xml
