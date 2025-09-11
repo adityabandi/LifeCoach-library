@@ -8,6 +8,7 @@
     "export": "next build && next export",
     "deploy": "npm run build && touch out/.nojekyll && gh-pages -d out -t true",
     "deploy:seo-safe": "NEXT_PUBLIC_SITE_URL=https://adityabandi.github.io/LifeCoach-library npm run build && touch out/.nojekyll && gh-pages -d out -t true",
+    "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "next lint",
     "lint:fix": "next lint --fix",
@@ -15,7 +16,8 @@
     "validate": "npm run type-check && npm run lint",
     "pre-commit": "npm run validate && npm run build",
     "test-build": "npm run validate && npm run build",
-    "prepare": "husky"
+    "prepare": "husky",
+    "seo-check": "npm run build && echo 'SEO check complete - check sitemap.xml and robots.txt'"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.0.1",
@@ -23,6 +25,8 @@
     "@next/mdx": "^14.2.5",
     "gray-matter": "^4.0.3",
     "next": "14.2.5",
+    "next-seo": "^6.8.0",
+    "next-sitemap": "^4.2.3",
     "react": "^18",
     "react-dom": "^18",
     "reading-time": "^1.5.0",
@@ -30,7 +34,8 @@
     "rehype-highlight": "^7.0.0",
     "rehype-slug": "^6.0.0",
     "remark": "^15.0.1",
-    "remark-gfm": "^4.0.0"
+    "remark-gfm": "^4.0.0",
+    "schema-dts": "^1.1.5"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
